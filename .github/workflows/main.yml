@@ -1,0 +1,26 @@
+name: Scrape and push
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  scrape:
+    name: Scrape and push
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git clone https://${{ secrets.PERSONAL_TOKEN }}@github.com/sk-zk/apple-maps-image-collection.git
+          cd apple-maps-image-collection
+      - name: Scrape
+        run: |
+          rm -rf schedules/*
+          python3 scrape.py
+      - name: Push
+        run: |
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Update schedules"
+          git push
