@@ -1,0 +1,47 @@
+[
+  {
+    "region": "台北市",
+    "period": "2024年2月01日 - 2024年3月31日",
+    "type": "backpack"
+  },
+  {
+    "region": "新北市",
+    "period": "2024年2月01日 - 2024年3月31日",
+    "type": "backpack"
+  },
+  {
+    "region": "台北市",
+    "period": "2023年12月18日 - 2024年3月31日",
+    "type": "vehicle"
+  },
+  {
+    "region": "新北市",
+    "period": "2023年12月18日 - 2024年3月31日",
+    "type": "vehicle"
+  },
+  {
+    "region": "桃園市",
+    "period": "2024年3月25日 - 2024年9月30日",
+    "type": "vehicle"
+  },
+  {
+    "region": "台中市",
+    "period": "2024年3月25日 - 2024年9月30日",
+    "type": "vehicle"
+  },
+  {
+    "region": "彰化縣",
+    "period": "2024年3月25日 - 2024年9月30日",
+    "type": "vehicle"
+  },
+  {
+    "region": "高雄市",
+    "period": "2024年3月25日 - 2024年9月30日",
+    "type": "vehicle"
+  },
+  {
+    "region": "台南市",
+    "period": "2024年3月25日 - 2024年9月30日",
+    "type": "vehicle"
+  }
+]

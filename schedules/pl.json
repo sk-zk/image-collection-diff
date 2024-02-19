@@ -1,0 +1,136 @@
+[
+  {
+    "region": "Dolnośląskie",
+    "period": "Lokalizacje pojazdów w okresie 13 lipiec 2023 r. - 04 sierpień 2023 r.",
+    "subdivisions": [
+      "Legnica",
+      "Wałbrzych"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Kujawsko-pomorskie",
+    "period": "Lokalizacje pojazdów w okresie 03 lipiec 2023 r. - 24 lipiec 2023 r.",
+    "subdivisions": [
+      "Bydgoszcz"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Lubelskie",
+    "period": "Lokalizacje pojazdów w okresie 03 lipiec 2023 r. - 24 lipiec 2023 r.",
+    "subdivisions": [
+      "Lublin"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Lubuskie",
+    "period": "Lokalizacje pojazdów w okresie 03 lipiec 2023 r. - 24 lipiec 2023 r.",
+    "subdivisions": [
+      "Zielona Góra"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Mazowieckie",
+    "period": "Pieszych (plecak) dla 08 maj 2023 r. - 30 czerwiec 2023 r. - (Click the Links Below for a Map View)",
+    "subdivisions": [
+      "Warszawa"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Mazowieckie",
+    "period": "Pieszych (plecak) dla 08 maj 2023 r. - 30 czerwiec 2023 r. - (Click the Links Below for a Map View)",
+    "subdivisions": [
+      "Płock",
+      "Płocki",
+      "Radom",
+      "Warszawa"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Małopolskie",
+    "period": "Lokalizacje pojazdów w okresie 13 lipiec 2023 r. - 04 sierpień 2023 r.",
+    "subdivisions": [
+      "Kraków"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Opolskie",
+    "period": "Lokalizacje pojazdów w okresie 13 lipiec 2023 r. - 04 sierpień 2023 r.",
+    "subdivisions": [
+      "Opole"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Podkarpackie",
+    "period": "Lokalizacje pojazdów w okresie 03 lipiec 2023 r. - 24 lipiec 2023 r.",
+    "subdivisions": [
+      "Rzeszów"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Podlaskie",
+    "period": "Lokalizacje pojazdów w okresie 03 lipiec 2023 r. - 24 lipiec 2023 r.",
+    "subdivisions": [
+      "Białystok"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Pomorskie",
+    "period": "Lokalizacje pojazdów w okresie 03 lipiec 2023 r. - 24 lipiec 2023 r.",
+    "subdivisions": [
+      "Gdańsk"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Śląskie",
+    "period": "Lokalizacje pojazdów w okresie 13 lipiec 2023 r. - 04 sierpień 2023 r.",
+    "subdivisions": [
+      "Bielsko-Biała",
+      "Częstochowa",
+      "Rybnik"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Świętokrzyskie",
+    "period": "Lokalizacje pojazdów w okresie 03 lipiec 2023 r. - 24 lipiec 2023 r.",
+    "subdivisions": [
+      "Kielce"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Wielkopolskie",
+    "period": "Lokalizacje pojazdów w okresie 03 lipiec 2023 r. - 24 lipiec 2023 r.",
+    "subdivisions": [
+      "Poznań"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Zachodniopomorskie",
+    "period": "Lokalizacje pojazdów w okresie 03 lipiec 2023 r. - 24 lipiec 2023 r.",
+    "subdivisions": [
+      "Szczecin"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Łódzkie",
+    "period": "Lokalizacje pojazdów w okresie 03 lipiec 2023 r. - 24 lipiec 2023 r.",
+    "subdivisions": [
+      "Łódź"
+    ],
+    "type": "vehicle"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "region": "Central District",
+    "period": "Pedestrian (backpack) locations for January 01, 2023 - March 31, 2023 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Petah Tiqwa",
+      "Sharon"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Central District",
+    "period": "Pedestrian (backpack) locations for January 01, 2023 - March 31, 2023 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Petah Tiqwa",
+      "Ramla",
+      "Rehovot",
+      "Sharon"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Haifa District",
+    "period": "Pedestrian (backpack) locations for January 03, 2023 - March 31, 2023 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Haifa"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Haifa District",
+    "period": "Pedestrian (backpack) locations for January 03, 2023 - March 31, 2023 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Hadera",
+      "Haifa"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Jerusalem District",
+    "period": "Pedestrian (backpack) locations for January 03, 2023 - March 31, 2023 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Jerusalem"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Jerusalem District",
+    "period": "Pedestrian (backpack) locations for January 03, 2023 - March 31, 2023 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Jerusalem"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Northern District",
+    "period": "Vehicle locations for January 03, 2023 - May 31, 2023",
+    "subdivisions": [
+      "Akko",
+      "Golan Heights",
+      "Kinneret",
+      "Yizre'el",
+      "Zefat"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Southern District",
+    "period": "Vehicle locations for January 03, 2023 - May 31, 2023",
+    "subdivisions": [
+      "Ashqelon",
+      "Be'er Sheva"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Tel Aviv District",
+    "period": "Pedestrian (backpack) locations for January 03, 2023 - March 31, 2023 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Tel Aviv"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Tel Aviv District",
+    "period": "Pedestrian (backpack) locations for January 03, 2023 - March 31, 2023 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Tel Aviv"
+    ],
+    "type": "backpack"
+  }
+]

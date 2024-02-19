@@ -1,0 +1,130 @@
+[
+  {
+    "region": "Central",
+    "period": "Pedestrian (backpack) locations for February 01, 2024 - April 30, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Ang Mo Kio",
+      "Bishan-Toa Payoh",
+      "Jalan Besar",
+      "Potong Pasir",
+      "Radin Mas",
+      "Sengkang West",
+      "Tanjong Pagar"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Central",
+    "period": "Pedestrian (backpack) locations for February 01, 2024 - April 30, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Ang Mo Kio",
+      "Bishan-Toa Payoh",
+      "Jalan Besar",
+      "Potong Pasir",
+      "Radin Mas",
+      "Sengkang West",
+      "Tanjong Pagar"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "North East",
+    "period": "Pedestrian (backpack) locations for February 01, 2024 - April 30, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Aljunied",
+      "Hougang",
+      "Pasir Ris Punggol",
+      "Punggol East",
+      "Tampines"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "North East",
+    "period": "Pedestrian (backpack) locations for February 01, 2024 - April 30, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Aljunied",
+      "Hougang",
+      "Pasir Ris Punggol",
+      "Punggol East",
+      "Tampines"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "North West",
+    "period": "Pedestrian (backpack) locations for February 01, 2024 - April 30, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Bukit Panjang",
+      "Holland-Bukit Timah",
+      "Marsiling-Yew Tee",
+      "Nee Soon",
+      "Sembawang"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "North West",
+    "period": "Pedestrian (backpack) locations for February 01, 2024 - April 30, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Bukit Panjang",
+      "Holland-Bukit Timah",
+      "Marsiling-Yew Tee",
+      "Nee Soon",
+      "Sembawang"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "South East",
+    "period": "Pedestrian (backpack) locations for February 01, 2024 - April 30, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "East Coast",
+      "Fengshang",
+      "MacPherson",
+      "Marine Parade",
+      "Mountbatten"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "South East",
+    "period": "Pedestrian (backpack) locations for February 01, 2024 - April 30, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "East Coast",
+      "Fengshang",
+      "MacPherson",
+      "Marine Parade",
+      "Mountbatten"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "South West",
+    "period": "Pedestrian (backpack) locations for February 01, 2024 - April 30, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Bukit Batok",
+      "Chua Chu Kang",
+      "Hong Kah North",
+      "Jurong",
+      "Pioneer",
+      "West Coast",
+      "Yuhua"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "South West",
+    "period": "Pedestrian (backpack) locations for February 01, 2024 - April 30, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Bukit Batok",
+      "Chua Chu Kang",
+      "Hong Kah North",
+      "Jurong",
+      "Pioneer",
+      "West Coast",
+      "Yuhua"
+    ],
+    "type": "backpack"
+  }
+]

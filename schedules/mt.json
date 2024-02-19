@@ -1,0 +1,103 @@
+[
+  {
+    "region": "Central Region",
+    "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
+    "subdivisions": [
+      "Attard",
+      "Balzan",
+      "Birkirkara",
+      "Gżira",
+      "Iklin",
+      "Lija",
+      "Msida",
+      "Pieta",
+      "Saint Gwann",
+      "Saint Julian's",
+      "Santa Venera",
+      "Sliema",
+      "Xbiex"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Gozo Region",
+    "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
+    "subdivisions": [
+      "Fontana",
+      "Għajnsielem",
+      "Għarb",
+      "Għasri",
+      "Kerċem",
+      "Munxar",
+      "Nadur",
+      "Qala",
+      "Rabat",
+      "Saint Lawrence",
+      "Sannat",
+      "Xagħra",
+      "Xewkija",
+      "Żebbuġ-Gozo"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Northern Region",
+    "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
+    "subdivisions": [
+      "Dingli",
+      "Għargħur",
+      "Mdina",
+      "Mellieħa",
+      "Mġarr",
+      "Mosta",
+      "Mtarfa",
+      "Naxxar",
+      "Pembroke",
+      "Rabat",
+      "St Paul's Bay",
+      "Swieqi"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "South Eastern Region",
+    "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
+    "subdivisions": [
+      "Birgu",
+      "Cospicua",
+      "Fgura",
+      "Floriana",
+      "Kalkara",
+      "Marsa",
+      "Marsaskala",
+      "Marsaxlokk",
+      "Paola",
+      "Tarxien",
+      "Valletta",
+      "Xgħara",
+      "Żabbar",
+      "Żejtun"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Southern Region",
+    "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
+    "subdivisions": [
+      "Birżebbuġa",
+      "Gudja",
+      "Għaxaq",
+      "Kirkop",
+      "Luqa",
+      "Mqabba",
+      "Qormi",
+      "Qrendi",
+      "Safi",
+      "Santa Luċija",
+      "Siġġiewi",
+      "Żebbuġ-Malta",
+      "Ħamrun"
+    ],
+    "type": "vehicle"
+  }
+]

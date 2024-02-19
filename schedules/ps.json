@@ -1,0 +1,20 @@
+[
+  {
+    "region": "Palestine - West Bank",
+    "period": "Vehicle locations for January 03, 2023 - May 15, 2023",
+    "subdivisions": [
+      "Bethlehem",
+      "Hebron",
+      "Jenin",
+      "Jericho",
+      "Jerusalem",
+      "Nablus",
+      "Qalqiliya",
+      "Ramallah",
+      "Salfit",
+      "Tubas",
+      "Tulkarm"
+    ],
+    "type": "vehicle"
+  }
+]

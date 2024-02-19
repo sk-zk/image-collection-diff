@@ -1,0 +1,667 @@
+[
+  {
+    "region": "Ciudad de México",
+    "period": "15 de febrero de 2023 - 30 de septiembre de 2023",
+    "type": "backpack"
+  },
+  {
+    "region": "Ecatepec de Morelos",
+    "period": "15 de febrero de 2023 - 31 de mayo de 2023",
+    "type": "backpack"
+  },
+  {
+    "region": "Monterrey",
+    "period": "01 de marzo de 2023 - 31 de mayo de 2023",
+    "type": "backpack"
+  },
+  {
+    "region": "Puebla",
+    "period": "01 de marzo de 2023 - 31 de mayo de 2023",
+    "type": "backpack"
+  },
+  {
+    "region": "Zapopan",
+    "period": "01 de abril de 2023 - 31 de mayo de 2023",
+    "type": "backpack"
+  },
+  {
+    "region": "Acámbaro",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Acapulco de Juárez",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Agua Prieta",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Aguascalientes",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ajalpan",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Alamos",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Aldama",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Aramberri",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Arandas",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Asientos",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Atltzayanca",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Badiraguato",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Bahía de Banderas",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Baja California",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Baja California Sur",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Benito Juárez",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Calpan",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Calpulalpan",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Calvillo",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Campeche",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Candelaria",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Castillo de Teayo",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Centro",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Cerralvo",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Chalchicomula de Sesma",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Charcas",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Chilapa de Álvarez",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Choix",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Cintalapa",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ciudad de México",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ciudad del Maíz",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Colima",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Comalcalco",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Compostela",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Cosalá",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Cuautepec de Hinojosa",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Culiacán",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Del Nayar",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Doctor Mora",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Durango",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ecatepec de Morelos",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "El Mante",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Epitacio Huerta",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Fresnillo",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "General Simón Bolívar",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "General Terán",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Hermosillo",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Heroica Ciudad de Huajuapan de León",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Hidalgo",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Hidalgo del Parral",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Hopelchén",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Huachinango",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Huajicori",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Huatusco",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Hunucmá",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Iguala de la Independencia",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Izúcar de Matamoros",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Jerez",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "José María Morelos",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Juárez",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "La Piedad",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "León",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Loreto",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Martinez de la Torre",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Mérida",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Mezquital",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Mezquitic",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Mier y Noriaga",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Monclova",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Monterrey",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Morella",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Morelos",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Nuevo Casas Grandes",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Oaxaca de Juárez",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ocampo",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ojinaga",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pachuca de Soto",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pahuatlán",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pantepec",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pénjamo",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pinos",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Playa Vicente",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Poanas",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Poza Rica de Hidalgo",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Puebla",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Puruándiro",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Querétaro",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Reforma",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Reynosa",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Saltillo",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "San Andrés Tuxtla",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "San Carlos",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "San Cristóbal Amatlán",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "San Felipe del Progreso",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "San Fernando",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "San Francisco Ixhuatán",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "San Juan Bautista Tuxtepec",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "San Luis Potosí",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "San Luis de la Paz",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "San Miguel de Allende",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "San Pablo del Monte",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Santa Catarina",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Santiago Papasquiaro",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tacotalpa",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tamazunchale",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tantoyuca",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tapachula",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tekax",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tenosique",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Teocaltiche",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tepic",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tequisquiapan",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Teziutlán",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tezonapa",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tizimín",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tlaxcala",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Toluca",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tres Valles",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tula de Allende",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tulancingo de Bravo",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tuxtla Gutiérrez",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Uruapan",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Uxpanapa",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Veracruz",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Villa de Ramos",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zapopan",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zapotlán el Grande",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ziltlaltépec de Trinidad Sánchez Santos",
+    "period": "15 de agosto de 2022 - 30 de diciembre de 2023",
+    "type": "vehicle"
+  }
+]

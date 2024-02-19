@@ -1,0 +1,44 @@
+[
+  {
+    "region": "Auckland",
+    "period": "Pedestrian (backpack) locations for January 01, 2024 - February 28, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Auckland"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Auckland",
+    "period": "Pedestrian (backpack) locations for January 01, 2024 - February 28, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Auckland"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Christchurch",
+    "period": "Vehicle locations for December 01, 2023 - February 28, 2024",
+    "subdivisions": [
+      "Christchurch City"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Wellington",
+    "period": "Pedestrian (backpack) locations for January 01, 2024 - February 28, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Wellington City"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Wellington",
+    "period": "Pedestrian (backpack) locations for January 01, 2024 - February 28, 2024 - (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Lower Hutt City",
+      "Porirua City",
+      "Wellington City"
+    ],
+    "type": "backpack"
+  }
+]

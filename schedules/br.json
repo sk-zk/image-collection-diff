@@ -1,0 +1,211 @@
+[
+  {
+    "region": "Região Centro-Oeste do Brasil",
+    "period": "Localizações de veículos em 23 de Outubro de 2023 - 11 de Janeiro de 2024",
+    "subdivisions": [
+      "Mato Grosso"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Centro-Oeste do Brasil",
+    "period": "Localizações de veículos em 23 de Outubro de 2023 - 11 de Janeiro de 2024",
+    "subdivisions": [
+      "Goiás"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Centro-Oeste do Brasil",
+    "period": "Localizações de veículos em 23 de Outubro de 2023 - 11 de Janeiro de 2024",
+    "subdivisions": [
+      "Distrito Federal"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Centro-Oeste do Brasil",
+    "period": "Localizações de veículos em 23 de Outubro de 2023 - 11 de Janeiro de 2024",
+    "subdivisions": [
+      "Mato Grosso do Sul"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "subdivisions": [
+      "Maranhão"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "subdivisions": [
+      "Piauí"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "subdivisions": [
+      "Bahia"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "subdivisions": [
+      "Paraíba"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "subdivisions": [
+      "Ceará"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "subdivisions": [
+      "Pernambuco"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "subdivisions": [
+      "Alagoas"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "subdivisions": [
+      "Sergipe"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "subdivisions": [
+      "Rio Grande do Norte"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Norte do Brasil",
+    "period": "Localizações de veículos em 25 de Abril de 2024 - 13 de Julho de 2024",
+    "subdivisions": [
+      "Amapá",
+      "Pará"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Norte do Brasil",
+    "period": "Localizações de veículos em 25 de Abril de 2024 - 13 de Julho de 2024",
+    "subdivisions": [
+      "Amazonas"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Norte do Brasil",
+    "period": "Localizações de veículos em 25 de Abril de 2024 - 13 de Julho de 2024",
+    "subdivisions": [
+      "Tocantins"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Norte do Brasil",
+    "period": "Localizações de veículos em 25 de Abril de 2024 - 13 de Julho de 2024",
+    "subdivisions": [
+      "Roraima"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Norte do Brasil",
+    "period": "Localizações de veículos em 25 de Abril de 2024 - 13 de Julho de 2024",
+    "subdivisions": [
+      "Rondônia"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Norte do Brasil",
+    "period": "Localizações de veículos em 25 de Abril de 2024 - 13 de Julho de 2024",
+    "subdivisions": [
+      "Acre"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Sudeste do Brasil",
+    "period": "Localizações de veículos em 03 de Outubro de 2023 - 07 de Junho de 2024",
+    "subdivisions": [
+      "São Paulo"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Sudeste do Brasil",
+    "period": "Localizações de veículos em 03 de Outubro de 2023 - 07 de Junho de 2024",
+    "subdivisions": [
+      "Rio de Janeiro"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Sudeste do Brasil",
+    "period": "Localizações de veículos em 03 de Outubro de 2023 - 07 de Junho de 2024",
+    "subdivisions": [
+      "Espírito Santo"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Sudeste do Brasil",
+    "period": "Localizações de veículos em 03 de Outubro de 2023 - 07 de Junho de 2024",
+    "subdivisions": [
+      "Minas Gerais"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Sul do Brasil",
+    "period": "Localizações de veículos em 13 de Maio de 2025 - 19 de Junho de 2025",
+    "subdivisions": [
+      "Rio Grande do Sul"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Sul do Brasil",
+    "period": "Localizações de veículos em 13 de Maio de 2025 - 19 de Junho de 2025",
+    "subdivisions": [
+      "Santa Catarina"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Sul do Brasil",
+    "period": "Localizações de veículos em 13 de Maio de 2025 - 19 de Junho de 2025",
+    "subdivisions": [
+      "Paraná"
+    ],
+    "type": "vehicle"
+  }
+]

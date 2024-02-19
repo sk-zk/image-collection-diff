@@ -1,0 +1,82 @@
+[
+  {
+    "region": "Budapest",
+    "period": "Gyalogosok (Hátizsák) által bejárt helyek 2023. Június 05. - 2023. Július 21. - Kattintson az alábbi linkekre a térkép megtekintéséhez.",
+    "subdivisions": [
+      "Budapest"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Budapest",
+    "period": "Gyalogosok (Hátizsák) által bejárt helyek 2023. Június 05. - 2023. Július 21. - Kattintson az alábbi linkekre a térkép megtekintéséhez.",
+    "subdivisions": [
+      "Budapest"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Dél-Alföld",
+    "period": "Járművek által bejárt helyek 2023. Április 24. - 2023. Május 16.",
+    "subdivisions": [
+      "Bács-Kiskun"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Dél-Alföld",
+    "period": "Járművek által bejárt helyek 2023. Április 24. - 2023. Május 16.",
+    "subdivisions": [
+      "Csongrád-Csanád"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Dél-Dunántúl",
+    "period": "Járművek által bejárt helyek 2023. Április 24. - 2023. Május 17.",
+    "subdivisions": [
+      "Baranya"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Észak-Alföld",
+    "period": "Járművek által bejárt helyek 2023. Április 26. - 2023. Május 24.",
+    "subdivisions": [
+      "Hajdú-Bihar"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Észak-Alföld",
+    "period": "Járművek által bejárt helyek 2023. Április 26. - 2023. Május 24.",
+    "subdivisions": [
+      "Szabolcs-Szatmár-Bereg"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Észak-Magyarország",
+    "period": "Járművek által bejárt helyek 2023. Április 28. - 2023. Május 29.",
+    "subdivisions": [
+      "Borsod-Abaúj-Zemplén"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Közép-Dunántúl",
+    "period": "Járművek által bejárt helyek 2023. Április 24. - 2023. Május 08.",
+    "subdivisions": [
+      "Fejér"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Nyugat-Dunántúl",
+    "period": "Járművek által bejárt helyek 2023. Április 24. - 2023. Május 08.",
+    "subdivisions": [
+      "Vas"
+    ],
+    "type": "vehicle"
+  }
+]

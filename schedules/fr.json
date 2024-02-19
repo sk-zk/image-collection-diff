@@ -1,0 +1,315 @@
+[
+  {
+    "region": "Auvergne-Rhône-Alpes",
+    "period": "Lieux de passage des véhicules sur la période 02 mars 2024 - 10 avril 2024",
+    "subdivisions": [
+      "Ain"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Auvergne-Rhône-Alpes",
+    "period": "Lieux de passage des véhicules sur la période 02 mars 2024 - 10 avril 2024",
+    "subdivisions": [
+      "Allier",
+      "Ardèche",
+      "Cantal",
+      "Drôme",
+      "Haute-Savoie",
+      "Isère",
+      "Loire",
+      "Puy de Dome",
+      "Savoie"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Auvergne-Rhône-Alpes",
+    "period": "Lieux de passage des véhicules sur la période 02 mars 2024 - 10 avril 2024",
+    "subdivisions": [
+      "Haute-Loire",
+      "Rhône"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Bourgogne-Franche-Comté",
+    "period": "Lieux de passage des véhicules sur la période 08 mars 2024 - 27 mars 2024",
+    "subdivisions": [
+      "Nièvre"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Bourgogne-Franche-Comté",
+    "period": "Lieux de passage des véhicules sur la période 08 mars 2024 - 27 mars 2024",
+    "subdivisions": [
+      "Côte-d'Or",
+      "Doubs"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Bourgogne-Franche-Comté",
+    "period": "Lieux de passage des véhicules sur la période 08 mars 2024 - 27 mars 2024",
+    "subdivisions": [
+      "Territoire de Belfort"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Bourgogne-Franche-Comté",
+    "period": "Lieux de passage des véhicules sur la période 08 mars 2024 - 27 mars 2024",
+    "subdivisions": [
+      "Haute-Saône",
+      "Jura",
+      "Saône-et-Loire"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Bourgogne-Franche-Comté",
+    "period": "Lieux de passage des véhicules sur la période 08 mars 2024 - 27 mars 2024",
+    "subdivisions": [
+      "Yonne"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Bretagne",
+    "period": "Lieux de passage des véhicules sur la période 13 avril 2024 - 14 mai 2024",
+    "subdivisions": [
+      "Côtes-d'Armor",
+      "Finistère",
+      "Ille-et-Vilaine",
+      "Morbihan"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Centre-Val de Loire",
+    "period": "Lieux de passage des véhicules sur la période 10 mars 2024 - 03 avril 2024",
+    "subdivisions": [
+      "Cher",
+      "Eure-et-Loir",
+      "Indre",
+      "Indre-et-Loire",
+      "Loir-et-Cher",
+      "Loiret"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Corse",
+    "period": "Lieux de passage des véhicules sur la période 23 février 2024 - 19 mars 2024",
+    "subdivisions": [
+      "Corse-du-Sud",
+      "Haute-Corse"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Grand Est",
+    "period": "Lieux de passage des véhicules sur la période 15 mars 2024 - 20 avril 2024",
+    "subdivisions": [
+      "Ardennes",
+      "Aube",
+      "Haute-Marne",
+      "Marne",
+      "Meurthe-et-Moselle",
+      "Meuse",
+      "Moselle"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Grand Est",
+    "period": "Lieux de passage des véhicules sur la période 15 mars 2024 - 20 avril 2024",
+    "subdivisions": [
+      "Bas-Rhin",
+      "Haut-Rhin",
+      "Vosges"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Hauts-de-France",
+    "period": "Lieux de passage des véhicules sur la période 13 avril 2024 - 03 mai 2024",
+    "subdivisions": [
+      "Oise"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Hauts-de-France",
+    "period": "Lieux de passage des véhicules sur la période 13 avril 2024 - 03 mai 2024",
+    "subdivisions": [
+      "Nord"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Hauts-de-France",
+    "period": "Lieux de passage des véhicules sur la période 13 avril 2024 - 03 mai 2024",
+    "subdivisions": [
+      "Aisne",
+      "Pas-de-Calais",
+      "Somme"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Île-de-France",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2024 - 30 avril 2024",
+    "subdivisions": [
+      "Essonne",
+      "Hauts-de-Seine",
+      "Paris",
+      "Seine-Saint-Denis",
+      "Seine-et-Marne",
+      "Val-d'Oise",
+      "Val-de-Marne",
+      "Yvelines"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Normandie",
+    "period": "Lieux de passage des véhicules sur la période 31 mars 2024 - 19 avril 2024",
+    "subdivisions": [
+      "Orne"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Normandie",
+    "period": "Lieux de passage des véhicules sur la période 31 mars 2024 - 19 avril 2024",
+    "subdivisions": [
+      "Calvados",
+      "Manche"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Normandie",
+    "period": "Lieux de passage des véhicules sur la période 31 mars 2024 - 19 avril 2024",
+    "subdivisions": [
+      "Eure"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Normandie",
+    "period": "Lieux de passage des véhicules sur la période 31 mars 2024 - 19 avril 2024",
+    "subdivisions": [
+      "Seine-Maritime"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Nouvelle-Aquitaine",
+    "period": "Lieux de passage des véhicules sur la période 24 février 2024 - 23 mars 2024",
+    "subdivisions": [
+      "Charente",
+      "Corrèze",
+      "Creuse",
+      "Dordogne",
+      "Haute-Vienne",
+      "Landes",
+      "Lot-et-Garonne",
+      "Pyrénées-Atlantiques"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Nouvelle-Aquitaine",
+    "period": "Lieux de passage des véhicules sur la période 24 février 2024 - 23 mars 2024",
+    "subdivisions": [
+      "Charente-Maritime",
+      "Deux-Sèvres",
+      "Vienne"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Nouvelle-Aquitaine",
+    "period": "Lieux de passage des véhicules sur la période 24 février 2024 - 23 mars 2024",
+    "subdivisions": [
+      "Gironde"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Occitanie",
+    "period": "Lieux de passage des véhicules sur la période 24 février 2024 - 20 mars 2024",
+    "subdivisions": [
+      "Ariège",
+      "Aude",
+      "Aveyron",
+      "Gard",
+      "Gers",
+      "Haute-Garonne",
+      "Hautes-Pyrénées",
+      "Hérault",
+      "Lot",
+      "Lozère",
+      "Pyrénées-Orientales",
+      "Tarn",
+      "Tarn-et-Garonne"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Pays de la Loire",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2024 - 17 avril 2024",
+    "subdivisions": [
+      "Loire-Atlantique",
+      "Maine-et-Loire",
+      "Vendée"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Pays de la Loire",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2024 - 17 avril 2024",
+    "subdivisions": [
+      "Mayenne",
+      "Sarthe"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Provence-Alpes-Côte d'Azur",
+    "period": "Lieux de passage des véhicules sur la période 20 février 2024 - 09 mars 2024",
+    "subdivisions": [
+      "Alpes-Maritimes",
+      "Alpes-de-Haute-Provence"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Provence-Alpes-Côte d'Azur",
+    "period": "Lieux de passage des véhicules sur la période 20 février 2024 - 09 mars 2024",
+    "subdivisions": [
+      "Bouches-du-Rhône",
+      "Var"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Provence-Alpes-Côte d'Azur",
+    "period": "Lieux de passage des véhicules sur la période 20 février 2024 - 09 mars 2024",
+    "subdivisions": [
+      "Vaucluse"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Provence-Alpes-Côte d'Azur",
+    "period": "Lieux de passage des véhicules sur la période 20 février 2024 - 09 mars 2024",
+    "subdivisions": [
+      "Hautes-Alpes"
+    ],
+    "type": "vehicle"
+  }
+]

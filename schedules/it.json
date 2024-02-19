@@ -1,0 +1,244 @@
+[
+  {
+    "region": "Abruzzo",
+    "period": "Posizione dei veicoli di rilevamento periodo 22 Aprile 2024 - 25 Maggio 2024",
+    "subdivisions": [
+      "Chieti",
+      "L'Aquila",
+      "Pescara",
+      "Teramo"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Basilicata",
+    "period": "Posizione dei veicoli di rilevamento periodo 02 Aprile 2024 - 05 Aprile 2024",
+    "subdivisions": [
+      "Matera",
+      "Potenza"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Calabria",
+    "period": "Posizione dei veicoli di rilevamento periodo 18 Marzo 2024 - 25 Marzo 2024",
+    "subdivisions": [
+      "Catanzaro",
+      "Cosenza",
+      "Crotone",
+      "Reggio Calabria",
+      "Vibo Valentia"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Campania",
+    "period": "Posizione dei veicoli di rilevamento periodo 14 Febbraio 2024 - 29 Aprile 2024",
+    "subdivisions": [
+      "Avellino",
+      "Benevento",
+      "Caserta",
+      "Napoli",
+      "Salerno"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Emilia-Romagna",
+    "period": "Posizione dei veicoli di rilevamento periodo 14 Maggio 2024 - 09 Luglio 2024",
+    "subdivisions": [
+      "Bologna",
+      "Ferrara",
+      "Forlì-Cesena",
+      "Modena",
+      "Parma",
+      "Piacenza",
+      "Ravenna",
+      "Reggio Emilia",
+      "Rimini"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Friuli-Venezia Giulia",
+    "period": "Posizione dei veicoli di rilevamento periodo 21 Giugno 2024 - 27 Giugno 2024",
+    "subdivisions": [
+      "Gorizia",
+      "Pordenone",
+      "Trieste",
+      "Udine"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Lazio",
+    "period": "Posizione dei veicoli di rilevamento periodo 11 Marzo 2024 - 29 Marzo 2024",
+    "subdivisions": [
+      "Frosinone",
+      "Latina",
+      "Rieti",
+      "Roma",
+      "Viterbo"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Liguria",
+    "period": "Posizione dei veicoli di rilevamento periodo 02 Maggio 2024 - 10 Maggio 2024",
+    "subdivisions": [
+      "Genova",
+      "Imperia",
+      "La Spezia",
+      "Savona"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Lombardia",
+    "period": "Posizione dei veicoli di rilevamento periodo 27 Maggio 2024 - 05 Luglio 2024",
+    "subdivisions": [
+      "Bergamo",
+      "Brescia",
+      "Como",
+      "Cremona",
+      "Lecco",
+      "Lodi",
+      "Mantova",
+      "Milano",
+      "Monza e Brianza",
+      "Pavia",
+      "Sondrio",
+      "Varese"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Marche",
+    "period": "Posizione dei veicoli di rilevamento periodo 25 Aprile 2024 - 13 Maggio 2024",
+    "subdivisions": [
+      "Ancona",
+      "Ascoli Piceno",
+      "Fermo",
+      "Macerata",
+      "Pesaro e Urbino"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Molise",
+    "period": "Posizione dei veicoli di rilevamento periodo 18 Aprile 2024 - 19 Aprile 2024",
+    "subdivisions": [
+      "Campobasso",
+      "Isernia"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Piemonte",
+    "period": "Posizione dei veicoli di rilevamento periodo 13 Maggio 2024 - 27 Maggio 2024",
+    "subdivisions": [
+      "Alessandria",
+      "Asti",
+      "Biella",
+      "Cuneo",
+      "Novara",
+      "Torino",
+      "Verbano-Cusio-Ossola",
+      "Vercelli"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Puglia",
+    "period": "Posizione dei veicoli di rilevamento periodo 25 Marzo 2024 - 18 Aprile 2024",
+    "subdivisions": [
+      "Bari",
+      "Barletta-Andria-Trani",
+      "Brindisi",
+      "Foggia",
+      "Lecce",
+      "Taranto"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Sardegna",
+    "period": "Posizione dei veicoli di rilevamento periodo 02 Aprile 2024 - 09 Aprile 2024",
+    "subdivisions": [
+      "Cagliari",
+      "Carbonia-Iglesias",
+      "Medio Campidano",
+      "Nuoro",
+      "Ogliastra",
+      "Olbia-Tempio",
+      "Oristano",
+      "Sassari"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Sicilia",
+    "period": "Posizione dei veicoli di rilevamento periodo 15 Febbraio 2024 - 14 Marzo 2024",
+    "subdivisions": [
+      "Agrigento",
+      "Caltanissetta",
+      "Catania",
+      "Enna",
+      "Messina",
+      "Palermo",
+      "Ragusa",
+      "Siracusa",
+      "Trapani"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Toscana",
+    "period": "Posizione dei veicoli di rilevamento periodo 11 Aprile 2024 - 07 Maggio 2024",
+    "subdivisions": [
+      "Arezzo",
+      "Firenze",
+      "Grosseto",
+      "Livorno",
+      "Lucca",
+      "Massa Carrara",
+      "Pisa",
+      "Pistoia",
+      "Prato",
+      "Siena"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Trentino-Alto Adige",
+    "period": "Posizione dei veicoli di rilevamento periodo 12 Luglio 2024 - 16 Luglio 2024",
+    "subdivisions": [
+      "Bolzano / Bozen",
+      "Trento"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Umbria",
+    "period": "Posizione dei veicoli di rilevamento periodo 29 Aprile 2024 - 08 Maggio 2024",
+    "subdivisions": [
+      "Perugia",
+      "Terni"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Veneto",
+    "period": "Posizione dei veicoli di rilevamento periodo 05 Giugno 2024 - 12 Luglio 2024",
+    "subdivisions": [
+      "Belluno",
+      "Padova",
+      "Rovigo",
+      "Treviso",
+      "Venezia",
+      "Verona",
+      "Vicenza"
+    ],
+    "type": "vehicle"
+  }
+]

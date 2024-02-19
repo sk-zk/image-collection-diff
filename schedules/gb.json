@@ -1,0 +1,488 @@
+[
+  {
+    "region": "Bedfordshire",
+    "period": "Vehicle locations for March 31, 2024 - April 18, 2024",
+    "subdivisions": [
+      "Bedford",
+      "Central Bedfordshire",
+      "Luton"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Berkshire",
+    "period": "Vehicle locations for February 19, 2024 - April 11, 2024",
+    "subdivisions": [
+      "Bracknell Forest",
+      "Reading",
+      "Royal Borough of Windsor and Maidenhead",
+      "West Berkshire",
+      "Wokingham"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Berkshire",
+    "period": "Vehicle locations for February 19, 2024 - April 11, 2024",
+    "subdivisions": [
+      "Slough"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Bristol",
+    "period": "Vehicle locations for April 18, 2024 - May 15, 2024",
+    "subdivisions": [
+      "City of Bristol"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Buckinghamshire",
+    "period": "Vehicle locations for February 19, 2024 - April 30, 2024",
+    "subdivisions": [
+      "Buckinghamshire County",
+      "Milton Keynes"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Cambridgeshire",
+    "period": "Vehicle locations for April 02, 2024 - May 06, 2024",
+    "subdivisions": [
+      "Cambridge",
+      "Cambridgeshire County",
+      "Peterborough"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Cheshire",
+    "period": "Vehicle locations for August 07, 2024 - September 05, 2024",
+    "subdivisions": [
+      "Cheshire East",
+      "Cheshire West and Chester",
+      "Halton",
+      "Warrington"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Cumbria",
+    "period": "Vehicle locations for August 17, 2024 - September 14, 2024",
+    "subdivisions": [
+      "Westmorland and Furness"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Cumbria",
+    "period": "Vehicle locations for August 17, 2024 - September 14, 2024",
+    "subdivisions": [
+      "Cumberland"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Derbyshire",
+    "period": "Vehicle locations for July 19, 2024 - August 22, 2024",
+    "subdivisions": [
+      "City of Derby",
+      "Derbyshire County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Devon",
+    "period": "Vehicle locations for April 15, 2024 - May 14, 2024",
+    "subdivisions": [
+      "City of Plymouth",
+      "Devon County",
+      "Torbay"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Dorset",
+    "period": "Vehicle locations for April 08, 2024 - May 13, 2024",
+    "subdivisions": [
+      "Bournemouth, Christchurch & Poole",
+      "Dorset County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Durham",
+    "period": "Vehicle locations for September 12, 2024 - October 10, 2024",
+    "subdivisions": [
+      "County Durham",
+      "Darlington",
+      "Hartlepool",
+      "Stockton-on-Tees"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "East Riding of Yorkshire",
+    "period": "Vehicle locations for September 06, 2024 - October 09, 2024",
+    "subdivisions": [
+      "City of Kingston upon Hull",
+      "East Riding of Yorkshire"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "East Sussex",
+    "period": "Vehicle locations for March 01, 2024 - March 31, 2024",
+    "subdivisions": [
+      "City of Brighton and Hove",
+      "East Sussex County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Essex",
+    "period": "Vehicle locations for February 19, 2024 - April 30, 2024",
+    "subdivisions": [
+      "Essex County",
+      "Thurrock"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Essex",
+    "period": "Vehicle locations for February 19, 2024 - April 30, 2024",
+    "subdivisions": [
+      "Southend-on-Sea"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Gloucestershire",
+    "period": "Vehicle locations for April 19, 2024 - May 20, 2024",
+    "subdivisions": [
+      "Gloucestershire County",
+      "South Gloucestershire"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Greater London",
+    "period": "Vehicle locations for February 10, 2024 - March 31, 2024",
+    "subdivisions": [
+      "Barking and Dagenham",
+      "Barnet",
+      "Bexley",
+      "Brent",
+      "Bromley",
+      "Camden",
+      "City of London",
+      "City of Westminster",
+      "Croydon",
+      "Ealing",
+      "Enfield",
+      "Greenwich",
+      "Hackney",
+      "Hammersmith and Fulham",
+      "Haringey",
+      "Harrow",
+      "Havering",
+      "Hillingdon",
+      "Hounslow",
+      "Islington",
+      "Kensington and Chelsea",
+      "Kingston upon Thames",
+      "Lambeth",
+      "Lewisham",
+      "Merton",
+      "Newham",
+      "Redbridge",
+      "Richmond upon Thames",
+      "Southwark",
+      "Sutton",
+      "Tower Hamlets",
+      "Waltham Forest",
+      "Wandsworth"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Greater Manchester",
+    "period": "Vehicle locations for July 27, 2024 - September 14, 2024",
+    "subdivisions": [
+      "Bolton",
+      "Bury",
+      "Manchester",
+      "Oldham",
+      "Rochdale",
+      "Salford",
+      "Stockport",
+      "Tameside",
+      "Trafford",
+      "Wigan"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Hampshire",
+    "period": "Vehicle locations for March 11, 2024 - April 15, 2024",
+    "subdivisions": [
+      "City of Southampton",
+      "Hampshire County",
+      "Portsmouth"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Herefordshire",
+    "period": "Vehicle locations for June 21, 2024 - July 19, 2024",
+    "subdivisions": [
+      "Herefordshire County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Hertfordshire",
+    "period": "Vehicle locations for February 19, 2024 - April 18, 2024",
+    "subdivisions": [
+      "Hertfordshire County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Isle of Wight",
+    "period": "Vehicle locations for March 11, 2024 - April 15, 2024",
+    "subdivisions": [
+      "Isle of Wight"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Kent",
+    "period": "Vehicle locations for February 19, 2024 - March 31, 2024",
+    "subdivisions": [
+      "Kent County",
+      "Medway"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Lancashire",
+    "period": "Vehicle locations for August 17, 2024 - September 14, 2024",
+    "subdivisions": [
+      "Blackburn with Darwen",
+      "Blackpool",
+      "Lancashire County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Leicestershire",
+    "period": "Vehicle locations for June 30, 2024 - August 04, 2024",
+    "subdivisions": [
+      "City of Leicester",
+      "Leicestershire County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Lincolnshire",
+    "period": "Vehicle locations for September 06, 2024 - October 04, 2024",
+    "subdivisions": [
+      "Lincolnshire County",
+      "North East Lincolnshire",
+      "North Lincolnshire"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Merseyside",
+    "period": "Vehicle locations for August 08, 2024 - September 13, 2024",
+    "subdivisions": [
+      "Knowsley",
+      "Liverpool",
+      "Sefton",
+      "St. Helens",
+      "Wirral"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Norfolk",
+    "period": "Vehicle locations for March 29, 2024 - April 30, 2024",
+    "subdivisions": [
+      "Norfolk County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "North Yorkshire",
+    "period": "Vehicle locations for September 11, 2024 - October 10, 2024",
+    "subdivisions": [
+      "Middlesbrough",
+      "North Yorkshire County",
+      "Redcar and Cleveland",
+      "York"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Northamptonshire",
+    "period": "Vehicle locations for June 16, 2024 - July 14, 2024",
+    "subdivisions": [
+      "North Northamptonshire",
+      "West Northamptonshire"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Nottinghamshire",
+    "period": "Vehicle locations for July 10, 2024 - August 22, 2024",
+    "subdivisions": [
+      "City of Nottingham",
+      "Nottinghamshire County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Oxfordshire",
+    "period": "Vehicle locations for March 11, 2024 - April 15, 2024",
+    "subdivisions": [
+      "Oxfordshire County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Shropshire",
+    "period": "Vehicle locations for June 21, 2024 - July 19, 2024",
+    "subdivisions": [
+      "Shropshire",
+      "Telford and Wrekin"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Somerset",
+    "period": "Vehicle locations for April 15, 2024 - May 14, 2024",
+    "subdivisions": [
+      "Bath and North East Somerset",
+      "North Somerset",
+      "Somerset County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "South Yorkshire",
+    "period": "Vehicle locations for September 06, 2024 - October 04, 2024",
+    "subdivisions": [
+      "Barnsley",
+      "Doncaster",
+      "Rotherham",
+      "Sheffield"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Staffordshire",
+    "period": "Vehicle locations for June 30, 2024 - August 24, 2024",
+    "subdivisions": [
+      "Staffordshire County",
+      "Stoke-on-Trent"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Suffolk",
+    "period": "Vehicle locations for March 29, 2024 - April 30, 2024",
+    "subdivisions": [
+      "Suffolk County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Surrey",
+    "period": "Vehicle locations for February 19, 2024 - April 30, 2024",
+    "subdivisions": [
+      "Surrey County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Tyne and Wear",
+    "period": "Vehicle locations for September 12, 2024 - October 17, 2024",
+    "subdivisions": [
+      "Gateshead",
+      "Newcastle upon Tyne",
+      "North Tyneside",
+      "South Tyneside",
+      "Sunderland"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Warwickshire",
+    "period": "Vehicle locations for June 16, 2024 - July 28, 2024",
+    "subdivisions": [
+      "Warwickshire County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "West Midlands",
+    "period": "Vehicle locations for June 19, 2024 - July 19, 2024",
+    "subdivisions": [
+      "Coventry"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "West Midlands",
+    "period": "Vehicle locations for June 19, 2024 - July 19, 2024",
+    "subdivisions": [
+      "Birmingham",
+      "Dudley",
+      "Sandwell",
+      "Solihull",
+      "Walsall",
+      "Wolverhampton"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "West Sussex",
+    "period": "Vehicle locations for March 01, 2024 - March 31, 2024",
+    "subdivisions": [
+      "West Sussex County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "West Yorkshire",
+    "period": "Vehicle locations for August 18, 2024 - September 29, 2024",
+    "subdivisions": [
+      "Bradford",
+      "Calderdale",
+      "Kirklees",
+      "Leeds",
+      "Wakefield"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Wiltshire",
+    "period": "Vehicle locations for April 08, 2024 - May 16, 2024",
+    "subdivisions": [
+      "Swindon",
+      "Wiltshire County"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Worcestershire",
+    "period": "Vehicle locations for June 21, 2024 - July 19, 2024",
+    "subdivisions": [
+      "Worcestershire County"
+    ],
+    "type": "vehicle"
+  }
+]

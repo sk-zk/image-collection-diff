@@ -1,0 +1,145 @@
+[
+  {
+    "region": "Espace Mittelland",
+    "period": "Zones piétonnes (iPad) sur la période 23 mars 2022 - 29 avril 2022",
+    "subdivisions": [
+      "Berne"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Espace Mittelland",
+    "period": "Zones piétonnes (iPad) sur la période 23 mars 2022 - 29 avril 2022",
+    "subdivisions": [
+      "Fribourg"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Espace Mittelland",
+    "period": "Zones piétonnes (iPad) sur la période 23 mars 2022 - 29 avril 2022",
+    "subdivisions": [
+      "Berne",
+      "Soleure"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Région lémanique",
+    "period": "Zones piétonnes (iPad) sur la période 23 mars 2022 - 29 avril 2022",
+    "subdivisions": [
+      "Genève",
+      "Vaud"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Région lémanique",
+    "period": "Zones piétonnes (iPad) sur la période 23 mars 2022 - 29 avril 2022",
+    "subdivisions": [
+      "Vaud"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Région lémanique",
+    "period": "Zones piétonnes (iPad) sur la période 23 mars 2022 - 29 avril 2022",
+    "subdivisions": [
+      "Valais"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Région lémanique",
+    "period": "Zones piétonnes (iPad) sur la période 23 mars 2022 - 29 avril 2022",
+    "subdivisions": [
+      "Genève"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Suisse centrale",
+    "period": "Lieux de passage des véhicules sur la période 18 juillet 2022 - 29 août 2022",
+    "subdivisions": [
+      "Lucerne",
+      "Nidwald",
+      "Schwytz"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Suisse centrale",
+    "period": "Lieux de passage des véhicules sur la période 18 juillet 2022 - 29 août 2022",
+    "subdivisions": [
+      "Zoug"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Suisse du Nord-Ouest",
+    "period": "Zones piétonnes (iPad) sur la période 23 mars 2022 - 29 avril 2022",
+    "subdivisions": [
+      "Bâle-Campagne",
+      "Bâle-Ville"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Suisse du Nord-Ouest",
+    "period": "Zones piétonnes (iPad) sur la période 23 mars 2022 - 29 avril 2022",
+    "subdivisions": [
+      "Argovie"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Suisse orientale",
+    "period": "Lieux de passage des véhicules sur la période 18 juillet 2022 - 12 août 2022",
+    "subdivisions": [
+      "Grisons"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Suisse orientale",
+    "period": "Lieux de passage des véhicules sur la période 18 juillet 2022 - 12 août 2022",
+    "subdivisions": [
+      "Appenzell Rhodes-Extérieures",
+      "Schaffhouse",
+      "Thurgovie"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Suisse orientale",
+    "period": "Lieux de passage des véhicules sur la période 18 juillet 2022 - 12 août 2022",
+    "subdivisions": [
+      "Saint-Gall"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Tessin",
+    "period": "Lieux de passage des véhicules sur la période 18 juillet 2022 - 12 août 2022",
+    "subdivisions": [
+      "Tessin"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Zurich",
+    "period": "Zones piétonnes (sac à dos) sur la période 25 avril 2022 - 27 mai 2022 (Cliquez sur les liens ci-dessous pour voir les lieux sur une carte.)",
+    "subdivisions": [
+      "Zurich"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Zurich",
+    "period": "Zones piétonnes (sac à dos) sur la période 25 avril 2022 - 27 mai 2022 (Cliquez sur les liens ci-dessous pour voir les lieux sur une carte.)",
+    "subdivisions": [
+      "Zurich"
+    ],
+    "type": "backpack"
+  }
+]
