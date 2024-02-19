@@ -17,6 +17,7 @@ jobs:
           git clone https://${{ secrets.PERSONAL_TOKEN }}@github.com/sk-zk/apple-maps-image-collection.git
       - name: Install packages
         run: |
+          cd apple-maps-image-collection
           pip install -r requirements.txt
       - name: Scrape
         run: |
