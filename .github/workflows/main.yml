@@ -15,13 +15,14 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git clone https://${{ secrets.PERSONAL_TOKEN }}@github.com/sk-zk/apple-maps-image-collection.git
-          cd apple-maps-image-collection
       - name: Scrape
         run: |
+          cd apple-maps-image-collection
           rm -rf schedules/*
           python3 scrape.py
       - name: Push
         run: |
+          cd apple-maps-image-collection
           git add .
           git diff-index --quiet HEAD || git commit -m "Update schedules"
           git push
