@@ -35,6 +35,7 @@ def get_country_schedule(country: str):
 def extract_table_schedule(tables) -> List[dict]:
     regions = []
     for table in tables:
+        heading = table.find_previous_sibling("h3")
         rows = table.find("tbody").find_all("tr")
         for row in rows:
             cells = row.find_all(recursive=False)
@@ -43,13 +44,12 @@ def extract_table_schedule(tables) -> List[dict]:
             if len(cells) > 2:
                 camera_type = cells[1].text.strip()
             else:
-                camera_type = None
+                camera_type = get_camera_type_from_heading(heading.text.strip())
             region_dict = {
                 "region": region,
-                "period": period
+                "period": period,
+                "type": camera_type
             }
-            if camera_type:
-                region_dict["type"] = camera_type
             regions.append(region_dict)
     return regions
 
@@ -63,6 +63,7 @@ def extract_detailed_schedule(soup) -> List[dict]:
 
         for collection in collections:
             period = section.find("h5").text.strip()
+            camera_type = get_camera_type_from_heading(period)
             subdivision_tags = collection.find_all("span", class_="dl-level-name")
             subdivisions = []
 
@@ -72,16 +73,45 @@ def extract_detailed_schedule(soup) -> List[dict]:
                     subdivision = subdivision[:-1]
                 subdivisions.append(subdivision)
 
-            regions.append({
+            region_dict = {
                 "region": region,
                 "period": period,
                 "subdivisions": subdivisions,
-            })
+            }
+            if camera_type != period:
+                region_dict["type"] = camera_type
+            regions.append(region_dict)
+
     return regions
 
 
+def get_camera_type_from_heading(heading: str) -> str:
+    lower = heading.lower()
+
+    if "ipad" in lower:
+        return "ipad"
+
+    backpack_strings = ["backpack", "batoh", "rucksack", "バックパック", "背包", "sac à dos",
+                        "ryggsäck", "vrsta", "pedestre", "plecak", "ryggsekk", "rugzak",
+                        "mochila", "apparati a spalla", "pedone", "hátizsák", "reppu",
+                        "ruksak", ]
+    for string in backpack_strings:
+        if string in lower:
+            return "backpack"
+
+    vehicle_strings = ["vehicle", "vozidlo", "fahrzeug", "車両", "車輛", "véhicules",
+                       "fordon", "vozilo", "veículo", "pojazd", "kjøretøy", "voertuig",
+                       "vehículo", "veicoli", "veicolo", "jármű", "ajoneuvo"]
+    for string in vehicle_strings:
+        if string in lower:
+            return "vehicle"
+
+    return heading
+
+
 def main():
-    os.mkdir("schedules")
+    if not os.path.exists("schedules"):
+        os.mkdir("schedules")
     countries = get_countries()
     for country in countries:
         schedule = get_country_schedule(country)
@@ -89,6 +119,5 @@ def main():
             json.dump(schedule, f, indent=2, ensure_ascii=False)
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     main()
