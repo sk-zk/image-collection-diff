@@ -15,9 +15,11 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git clone https://${{ secrets.PERSONAL_TOKEN }}@github.com/sk-zk/apple-maps-image-collection.git
+      - name: Install packages
+        run: |
+          pip install -r requirements.txt
       - name: Scrape
         run: |
-          ls -las
           cd apple-maps-image-collection
           rm -rf schedules/*
           python3 scrape.py
