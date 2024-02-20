@@ -1,37 +1,37 @@
 [
   {
     "region": "Andhra Pradesh",
-    "period": "May 01, 2024 - September 30, 2024",
+    "period": "May 01, 2024 - August 31, 2024",
     "type": "vehicle"
   },
   {
     "region": "Arunachal Pradesh",
-    "period": "February 01, 2025 - March 31, 2025",
+    "period": "January 01, 2025 - February 28, 2025",
     "type": "vehicle"
   },
   {
     "region": "Assam",
-    "period": "January 01, 2025 - March 31, 2025",
+    "period": "January 01, 2025 - February 28, 2025",
     "type": "vehicle"
   },
   {
     "region": "Bihar",
-    "period": "January 01, 2025 - March 31, 2025",
+    "period": "December 15, 2024 - February 28, 2025",
     "type": "vehicle"
   },
   {
     "region": "Chandigarh",
-    "period": "October 01, 2024 - December 31, 2024",
+    "period": "October 01, 2024 - November 30, 2024",
     "type": "vehicle"
   },
   {
     "region": "Chhattisgarh",
-    "period": "February 01, 2025 - April 30, 2025",
+    "period": "January 01, 2025 - March 31, 2025",
     "type": "vehicle"
   },
   {
     "region": "Dadra and Nagar Haveli and Daman and Diu",
-    "period": "February 01, 2024 - March 31, 2024",
+    "period": "February 01, 2024 - June 30, 2024",
     "type": "vehicle"
   },
   {
@@ -46,27 +46,27 @@
   },
   {
     "region": "Gujarat",
-    "period": "July 01, 2024 - January 31, 2025",
+    "period": "July 01, 2024 - December 31, 2024",
     "type": "vehicle"
   },
   {
     "region": "Haryana",
-    "period": "November 01, 2024 - February 28, 2025",
+    "period": "October 15, 2024 - January 31, 2025",
     "type": "vehicle"
   },
   {
     "region": "Himachal Pradesh",
-    "period": "December 01, 2024 - February 28, 2025",
+    "period": "December 01, 2024 - January 31, 2025",
     "type": "vehicle"
   },
   {
     "region": "Jharkhand",
-    "period": "March 01, 2025 - May 30, 2025",
+    "period": "February 01, 2025 - April 30, 2025",
     "type": "vehicle"
   },
   {
     "region": "Karnataka",
-    "period": "April 01, 2024 - August 30, 2024",
+    "period": "February 27, 2024 - June 30, 2024",
     "type": "vehicle"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "region": "Madhya Pradesh",
-    "period": "March 01, 2024 - July 31, 2024",
+    "period": "March 01, 2024 - June 30, 2024",
     "type": "vehicle"
   },
   {
@@ -86,22 +86,22 @@
   },
   {
     "region": "Manipur",
-    "period": "February 01, 2025 - March 31, 2025",
+    "period": "February 01, 2025 - February 28, 2025",
     "type": "vehicle"
   },
   {
     "region": "Meghalaya",
-    "period": "February 01, 2025 - March 31, 2025",
+    "period": "January 01, 2025 - February 28, 2025",
     "type": "vehicle"
   },
   {
     "region": "Mizoram",
-    "period": "February 01, 2025 - March 31, 2025",
+    "period": "February 01, 2025 - February 28, 2025",
     "type": "vehicle"
   },
   {
     "region": "Nagaland",
-    "period": "February 01, 2025 - March 31, 2025",
+    "period": "January 01, 2025 - February 28, 2025",
     "type": "vehicle"
   },
   {
@@ -116,22 +116,22 @@
   },
   {
     "region": "Punjab",
-    "period": "November 01, 2024 - January 31, 2025",
+    "period": "October 01, 2024 - December 31, 2024",
     "type": "vehicle"
   },
   {
     "region": "Rajasthan",
-    "period": "July 01, 2024 - December 31, 2024",
+    "period": "June 01, 2024 - November 30, 2024",
     "type": "vehicle"
   },
   {
     "region": "Sikkim",
-    "period": "January 01, 2025 - February 28, 2025",
+    "period": "December 01, 2024 - January 31, 2025",
     "type": "vehicle"
   },
   {
     "region": "Tamil Nadu",
-    "period": "June 01, 2024 - September 30, 2025",
+    "period": "June 15, 2024 - October 31, 2025",
     "type": "vehicle"
   },
   {
@@ -141,22 +141,22 @@
   },
   {
     "region": "Tripura",
-    "period": "February 01, 2025 - March 31, 2025",
+    "period": "March 01, 2025 - March 31, 2025",
     "type": "vehicle"
   },
   {
     "region": "Uttar Pradesh",
-    "period": "October 01, 2024 - March 31, 2025",
+    "period": "December 01, 2024 - March 31, 2025",
     "type": "vehicle"
   },
   {
     "region": "Uttarakhand",
-    "period": "October 01, 2024 - November 30, 2024",
+    "period": "November 01, 2024 - November 30, 2024",
     "type": "vehicle"
   },
   {
     "region": "West Bengal",
-    "period": "February 01, 2025 - April 30, 2025",
+    "period": "February 01, 2025 - March 31, 2025",
     "type": "vehicle"
   }
 ]
