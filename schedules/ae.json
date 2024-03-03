@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "region": "Dubai",
+    "period": "March 04, 2024 - June 15, 2024",
+    "type": "backpack"
+  },
+  {
+    "region": "Dubai",
+    "period": "March 04, 2024 - June 15, 2024",
+    "type": "vehicle"
+  }
+]
