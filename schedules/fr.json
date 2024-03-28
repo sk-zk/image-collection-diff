@@ -29,8 +29,10 @@
     "region": "Auvergne-Rhône-Alpes",
     "period": "Lieux de passage des véhicules sur la période 05 mars 2024 - 23 mars 2024",
     "subdivisions": [
-      "Haute-Savoie",
-      "Savoie"
+      "Ain",
+      "Haute-Loire",
+      "Loire",
+      "Rhône"
     ],
     "type": "vehicle"
   },
@@ -38,10 +40,8 @@
     "region": "Auvergne-Rhône-Alpes",
     "period": "Lieux de passage des véhicules sur la période 05 mars 2024 - 23 mars 2024",
     "subdivisions": [
-      "Ain",
-      "Haute-Loire",
-      "Loire",
-      "Rhône"
+      "Haute-Savoie",
+      "Savoie"
     ],
     "type": "vehicle"
   },
@@ -58,15 +58,6 @@
     "period": "Lieux de passage des véhicules sur la période 13 mars 2024 - 20 avril 2024",
     "subdivisions": [
       "Nièvre"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Bourgogne-Franche-Comté",
-    "period": "Lieux de passage des véhicules sur la période 13 mars 2024 - 20 avril 2024",
-    "subdivisions": [
-      "Côte-d'Or",
-      "Doubs"
     ],
     "type": "vehicle"
   },
@@ -99,13 +90,22 @@
     "region": "Bourgogne-Franche-Comté",
     "period": "Lieux de passage des véhicules sur la période 13 mars 2024 - 20 avril 2024",
     "subdivisions": [
+      "Côte-d'Or",
+      "Doubs"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Bourgogne-Franche-Comté",
+    "period": "Lieux de passage des véhicules sur la période 13 mars 2024 - 20 avril 2024",
+    "subdivisions": [
       "Yonne"
     ],
     "type": "vehicle"
   },
   {
     "region": "Bretagne",
-    "period": "Lieux de passage des véhicules sur la période 08 avril 2024 - 05 mai 2024",
+    "period": "Lieux de passage des véhicules sur la période 08 avril 2024 - 08 mai 2024",
     "subdivisions": [
       "Côtes-d'Armor",
       "Finistère",
@@ -145,23 +145,30 @@
   },
   {
     "region": "Grand Est",
-    "period": "Lieux de passage des véhicules sur la période 18 mars 2024 - 13 avril 2024",
+    "period": "Lieux de passage des véhicules sur la période 18 mars 2024 - 22 avril 2024",
     "subdivisions": [
+      "Ardennes",
+      "Aube",
+      "Haute-Marne",
+      "Marne",
+      "Meuse"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Grand Est",
+    "period": "Lieux de passage des véhicules sur la période 18 mars 2024 - 22 avril 2024",
+    "subdivisions": [
+      "Bas-Rhin",
       "Haut-Rhin"
     ],
     "type": "vehicle"
   },
   {
     "region": "Grand Est",
-    "period": "Lieux de passage des véhicules sur la période 18 mars 2024 - 13 avril 2024",
+    "period": "Lieux de passage des véhicules sur la période 18 mars 2024 - 22 avril 2024",
     "subdivisions": [
-      "Ardennes",
-      "Aube",
-      "Bas-Rhin",
-      "Haute-Marne",
-      "Marne",
       "Meurthe-et-Moselle",
-      "Meuse",
       "Moselle",
       "Vosges"
     ],
