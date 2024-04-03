@@ -1,81 +1,69 @@
 [
   {
     "region": "Budapest",
-    "period": "Gyalogosok (Hátizsák) által bejárt helyek 2023. Június 05. - 2023. Július 21. - Kattintson az alábbi linkekre a térkép megtekintéséhez.",
+    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
     "subdivisions": [
       "Budapest"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Budapest",
-    "period": "Gyalogosok (Hátizsák) által bejárt helyek 2023. Június 05. - 2023. Július 21. - Kattintson az alábbi linkekre a térkép megtekintéséhez.",
-    "subdivisions": [
-      "Budapest"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Dél-Alföld",
-    "period": "Járművek által bejárt helyek 2023. Április 24. - 2023. Május 16.",
-    "subdivisions": [
-      "Bács-Kiskun"
     ],
     "type": "vehicle"
   },
   {
     "region": "Dél-Alföld",
-    "period": "Járművek által bejárt helyek 2023. Április 24. - 2023. Május 16.",
+    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
     "subdivisions": [
+      "Bács-Kiskun",
+      "Békés",
       "Csongrád-Csanád"
     ],
     "type": "vehicle"
   },
   {
     "region": "Dél-Dunántúl",
-    "period": "Járművek által bejárt helyek 2023. Április 24. - 2023. Május 17.",
+    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
     "subdivisions": [
-      "Baranya"
+      "Baranya",
+      "Somogy",
+      "Tolna"
     ],
     "type": "vehicle"
   },
   {
     "region": "Észak-Alföld",
-    "period": "Járművek által bejárt helyek 2023. Április 26. - 2023. Május 24.",
+    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
     "subdivisions": [
-      "Hajdú-Bihar"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Észak-Alföld",
-    "period": "Járművek által bejárt helyek 2023. Április 26. - 2023. Május 24.",
-    "subdivisions": [
+      "Hajdú-Bihar",
+      "Jász-Nagykun-Szolnok",
       "Szabolcs-Szatmár-Bereg"
     ],
     "type": "vehicle"
   },
   {
     "region": "Észak-Magyarország",
-    "period": "Járművek által bejárt helyek 2023. Április 28. - 2023. Május 29.",
+    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
     "subdivisions": [
-      "Borsod-Abaúj-Zemplén"
+      "Borsod-Abaúj-Zemplén",
+      "Heves",
+      "Nógrád"
     ],
     "type": "vehicle"
   },
   {
     "region": "Közép-Dunántúl",
-    "period": "Járművek által bejárt helyek 2023. Április 24. - 2023. Május 08.",
+    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
     "subdivisions": [
-      "Fejér"
+      "Fejér",
+      "Komárom-Esztergom",
+      "Veszprém"
     ],
     "type": "vehicle"
   },
   {
     "region": "Nyugat-Dunántúl",
-    "period": "Járművek által bejárt helyek 2023. Április 24. - 2023. Május 08.",
+    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
     "subdivisions": [
-      "Vas"
+      "Győr-Moson-Sopron",
+      "Vas",
+      "Zala"
     ],
     "type": "vehicle"
   }
