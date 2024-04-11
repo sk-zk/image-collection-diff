@@ -129,13 +129,20 @@
     "region": "Lombardia",
     "period": "Posizione del rilevamento con apparati a spalla periodo 25 Marzo 2024 - 29 Aprile 2024 (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
     "subdivisions": [
+      "Mantova"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Lombardia",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 25 Marzo 2024 - 29 Aprile 2024 (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "subdivisions": [
       "Bergamo",
       "Brescia",
       "Como",
       "Cremona",
       "Lecco",
       "Lodi",
-      "Mantova",
       "Milano",
       "Monza e Brianza",
       "Pavia",
