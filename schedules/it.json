@@ -90,11 +90,18 @@
     "region": "Lazio",
     "period": "Posizione del rilevamento con apparati a spalla periodo 04 Aprile 2024 - 17 Maggio 2024 (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
     "subdivisions": [
+      "Rieti",
+      "Viterbo"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Lazio",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 04 Aprile 2024 - 17 Maggio 2024 (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "subdivisions": [
       "Frosinone",
       "Latina",
-      "Rieti",
-      "Roma",
-      "Viterbo"
+      "Roma"
     ],
     "type": "backpack"
   },
@@ -259,7 +266,7 @@
   },
   {
     "region": "Umbria",
-    "period": "Posizione dei veicoli di rilevamento periodo 29 Aprile 2024 - 08 Maggio 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 18 Aprile 2024 - 08 Maggio 2024",
     "subdivisions": [
       "Perugia",
       "Terni"

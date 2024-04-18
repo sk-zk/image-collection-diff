@@ -52,7 +52,16 @@
   },
   {
     "region": "Bayern",
-    "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 18. April 2024 - 15. August 2024",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 23. Mai 2024 - 08. Juli 2024 (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
+    "subdivisions": [
+      "Landeshauptstadt München",
+      "Landkreis München"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Bayern",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 23. Mai 2024 - 08. Juli 2024 (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
     "subdivisions": [
       "Landeshauptstadt München",
       "Landkreis Aichach-Friedberg",
@@ -151,19 +160,35 @@
       "Stadt Weiden i.d. OPf",
       "Stadt Würzburg"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   },
   {
     "region": "Berlin",
-    "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 18. April 2024 - 15. August 2024",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 11. Juni 2024 - 25. Juli 2024 (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
     "subdivisions": [
       "Bundeshauptstadt Berlin"
     ],
-    "type": "vehicle"
+    "type": "backpack"
+  },
+  {
+    "region": "Berlin",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 11. Juni 2024 - 25. Juli 2024 (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
+    "subdivisions": [
+      "Bundeshauptstadt Berlin"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Brandenburg",
-    "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 18. April 2024 - 15. August 2024",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 28. Juni 2024 - 26. Juli 2024 (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
+    "subdivisions": [
+      "Landeshauptstadt Potsdam"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Brandenburg",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 28. Juni 2024 - 26. Juli 2024 (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
     "subdivisions": [
       "Landeshauptstadt Potsdam",
       "Landkreis Barnim",
@@ -184,7 +209,7 @@
       "Stadt Cottbus",
       "Stadt Frankfurt (Oder)"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   },
   {
     "region": "Bremen",
@@ -197,11 +222,19 @@
   },
   {
     "region": "Hamburg",
-    "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 18. April 2024 - 15. August 2024",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 01. Juli 2024 - 31. Juli 2024 (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
     "subdivisions": [
       "Stadt Hamburg"
     ],
-    "type": "vehicle"
+    "type": "backpack"
+  },
+  {
+    "region": "Hamburg",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 01. Juli 2024 - 31. Juli 2024 (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
+    "subdivisions": [
+      "Stadt Hamburg"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Hessen",
