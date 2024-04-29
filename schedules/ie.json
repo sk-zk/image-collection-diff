@@ -1,117 +1,122 @@
 [
   {
     "region": "Carlow",
-    "period": "May 01, 2023 - May 29, 2023",
+    "period": "May 13, 2024 - June 24, 2024",
     "type": "vehicle"
   },
   {
     "region": "Cavan",
-    "period": "June 05, 2023 - July 04, 2023",
+    "period": "May 22, 2024 - July 31, 2024",
     "type": "vehicle"
   },
   {
     "region": "Clare",
-    "period": "May 16, 2023 - June 15, 2023",
+    "period": "May 13, 2024 - June 30, 2024",
     "type": "vehicle"
   },
   {
     "region": "Cork",
-    "period": "May 08, 2023 - June 06, 2023",
+    "period": "May 21, 2024 - July 21, 2024",
     "type": "vehicle"
   },
   {
     "region": "Donegal",
-    "period": "May 29, 2023 - June 29, 2023",
+    "period": "May 13, 2024 - July 21, 2024",
     "type": "vehicle"
   },
   {
     "region": "Dublin",
-    "period": "May 01, 2023 - May 25, 2023",
+    "period": "May 13, 2024 - June 24, 2024",
     "type": "vehicle"
   },
   {
     "region": "Galway",
-    "period": "May 18, 2023 - June 21, 2023",
+    "period": "May 13, 2024 - June 30, 2024",
     "type": "vehicle"
   },
   {
     "region": "Kerry",
-    "period": "May 09, 2023 - June 08, 2023",
+    "period": "May 13, 2024 - June 19, 2024",
     "type": "vehicle"
   },
   {
     "region": "Kildare",
-    "period": "May 01, 2023 - May 25, 2023",
+    "period": "May 13, 2024 - June 24, 2024",
     "type": "vehicle"
   },
   {
     "region": "Kilkenny",
-    "period": "May 02, 2023 - June 05, 2023",
+    "period": "May 15, 2024 - July 14, 2024",
     "type": "vehicle"
   },
   {
     "region": "Laois",
-    "period": "May 01, 2023 - May 30, 2023",
+    "period": "May 13, 2024 - June 24, 2024",
     "type": "vehicle"
   },
   {
     "region": "Limerick",
-    "period": "May 16, 2023 - June 13, 2023",
+    "period": "May 13, 2024 - June 19, 2024",
     "type": "vehicle"
   },
   {
     "region": "Louth",
-    "period": "May 01, 2023 - May 25, 2023",
+    "period": "May 14, 2024 - July 24, 2024",
     "type": "vehicle"
   },
   {
     "region": "Mayo",
-    "period": "May 24, 2023 - June 26, 2023",
+    "period": "May 13, 2024 - June 24, 2024",
     "type": "vehicle"
   },
   {
     "region": "Meath",
-    "period": "May 01, 2023 - May 25, 2023",
+    "period": "May 13, 2024 - June 17, 2024",
     "type": "vehicle"
   },
   {
     "region": "Monaghan",
-    "period": "June 06, 2023 - July 04, 2023",
+    "period": "May 22, 2024 - July 31, 2024",
     "type": "vehicle"
   },
   {
     "region": "Offaly",
-    "period": "May 18, 2023 - June 15, 2023",
+    "period": "June 05, 2024 - July 31, 2024",
     "type": "vehicle"
   },
   {
     "region": "Roscommon",
-    "period": "June 01, 2023 - June 30, 2023",
+    "period": "May 21, 2024 - July 31, 2024",
     "type": "vehicle"
   },
   {
     "region": "Sligo",
-    "period": "May 24, 2023 - June 26, 2023",
+    "period": "May 14, 2024 - July 24, 2024",
     "type": "vehicle"
   },
   {
     "region": "Tipperary",
-    "period": "May 11, 2023 - June 13, 2023",
+    "period": "May 13, 2024 - July 24, 2024",
     "type": "vehicle"
   },
   {
     "region": "Waterford",
-    "period": "May 02, 2023 - June 05, 2023",
+    "period": "May 15, 2024 - July 14, 2024",
     "type": "vehicle"
   },
   {
     "region": "Westmeath",
-    "period": "June 02, 2023 - July 03, 2023",
+    "period": "May 22, 2024 - July 31, 2024",
     "type": "vehicle"
   },
   {
     "region": "Wexford",
-    "period": "May 01, 2023 - May 29, 2023",
+    "period": "May 15, 2024 - July 14, 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Wicklow",
+    "period": "May 15, 2024 - June 17, 2024",
     "type": "vehicle"
   }
 ]

@@ -1,7 +1,15 @@
 [
   {
     "region": "Portugal continental",
-    "period": "Locais de recolha feita por veículo: 21 de Fevereiro de 2024 - 05 de Abril de 2024",
+    "period": "Locais de recolha feita por pedestre (mochila) 11 de Março de 2024 - 03 de Maio de 2024 (Clique nos links abaixo para uma visualização de mapa)",
+    "subdivisions": [
+      "Lisboa"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Portugal continental",
+    "period": "Locais de recolha feita por pedestre (mochila) 11 de Março de 2024 - 03 de Maio de 2024 (Clique nos links abaixo para uma visualização de mapa)",
     "subdivisions": [
       "Aveiro",
       "Braga",
@@ -14,6 +22,6 @@
       "Viana do Castelo",
       "Viseu"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   }
 ]

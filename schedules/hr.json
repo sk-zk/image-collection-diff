@@ -1,12 +1,27 @@
 [
   {
     "region": "City of Zagreb",
-    "period": "10. Srpanj 2023 - 18. Kolovoz 2023",
+    "period": "20. Ožujak 2024 - 03. Svibanj 2024",
+    "type": "backpack"
+  },
+  {
+    "region": "Osijek-Baranja",
+    "period": "20. Ožujak 2024 - 03. Svibanj 2024",
+    "type": "backpack"
+  },
+  {
+    "region": "Primorje-Gorski kotar",
+    "period": "20. Ožujak 2024 - 03. Svibanj 2024",
+    "type": "backpack"
+  },
+  {
+    "region": "Split-Dalmatia",
+    "period": "20. Ožujak 2024 - 03. Svibanj 2024",
     "type": "backpack"
   },
   {
     "region": "Zagreb",
-    "period": "10. Srpanj 2023 - 18. Kolovoz 2023",
+    "period": "20. Ožujak 2024 - 03. Svibanj 2024",
     "type": "backpack"
   }
 ]

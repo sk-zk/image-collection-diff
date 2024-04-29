@@ -1,7 +1,7 @@
 [
   {
     "region": "Central Region",
-    "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
+    "period": "Vehicle locations for February 14, 2024 - March 05, 2024",
     "subdivisions": [
       "Attard",
       "Balzan",
@@ -21,7 +21,7 @@
   },
   {
     "region": "Gozo Region",
-    "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
+    "period": "Vehicle locations for February 14, 2024 - March 05, 2024",
     "subdivisions": [
       "Fontana",
       "Għajnsielem",
@@ -44,6 +44,14 @@
     "region": "Northern Region",
     "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
     "subdivisions": [
+      "Swieqi"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Northern Region",
+    "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
+    "subdivisions": [
       "Dingli",
       "Għargħur",
       "Mdina",
@@ -54,14 +62,13 @@
       "Naxxar",
       "Pembroke",
       "Rabat",
-      "St Paul's Bay",
-      "Swieqi"
+      "St Paul's Bay"
     ],
     "type": "vehicle"
   },
   {
     "region": "South Eastern Region",
-    "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
+    "period": "Vehicle locations for February 14, 2024 - March 05, 2024",
     "subdivisions": [
       "Birgu",
       "Cospicua",
@@ -82,7 +89,7 @@
   },
   {
     "region": "Southern Region",
-    "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
+    "period": "Vehicle locations for February 14, 2024 - March 05, 2024",
     "subdivisions": [
       "Birżebbuġa",
       "Gudja",
@@ -96,6 +103,7 @@
       "Santa Luċija",
       "Siġġiewi",
       "Żebbuġ-Malta",
+      "Żurrieq",
       "Ħamrun"
     ],
     "type": "vehicle"

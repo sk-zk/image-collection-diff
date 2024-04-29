@@ -33,7 +33,15 @@
   },
   {
     "region": "Campania",
-    "period": "Posizione dei veicoli di rilevamento periodo 14 Febbraio 2024 - 29 Aprile 2024",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 22 Aprile 2024 - 24 Maggio 2024 (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "subdivisions": [
+      "Napoli"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Campania",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 22 Aprile 2024 - 24 Maggio 2024 (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
     "subdivisions": [
       "Avellino",
       "Benevento",
@@ -41,7 +49,7 @@
       "Napoli",
       "Salerno"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   },
   {
     "region": "Emilia-Romagna",
@@ -61,7 +69,7 @@
   },
   {
     "region": "Friuli-Venezia Giulia",
-    "period": "Posizione dei veicoli di rilevamento periodo 21 Giugno 2024 - 27 Giugno 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 03 Aprile 2024 - 27 Giugno 2024",
     "subdivisions": [
       "Gorizia",
       "Pordenone",
@@ -72,15 +80,30 @@
   },
   {
     "region": "Lazio",
-    "period": "Posizione dei veicoli di rilevamento periodo 11 Marzo 2024 - 29 Marzo 2024",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 04 Aprile 2024 - 17 Maggio 2024 (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "subdivisions": [
+      "Roma"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Lazio",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 04 Aprile 2024 - 17 Maggio 2024 (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "subdivisions": [
+      "Rieti",
+      "Viterbo"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Lazio",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 04 Aprile 2024 - 17 Maggio 2024 (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
     "subdivisions": [
       "Frosinone",
       "Latina",
-      "Rieti",
-      "Roma",
-      "Viterbo"
+      "Roma"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   },
   {
     "region": "Liguria",
@@ -95,7 +118,31 @@
   },
   {
     "region": "Lombardia",
-    "period": "Posizione dei veicoli di rilevamento periodo 27 Maggio 2024 - 05 Luglio 2024",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 25 Marzo 2024 - 29 Aprile 2024 (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "subdivisions": [
+      "Milano"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Lombardia",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 25 Marzo 2024 - 29 Aprile 2024 (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "subdivisions": [
+      "Como"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Lombardia",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 25 Marzo 2024 - 29 Aprile 2024 (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "subdivisions": [
+      "Mantova"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Lombardia",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 25 Marzo 2024 - 29 Aprile 2024 (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
     "subdivisions": [
       "Bergamo",
       "Brescia",
@@ -103,14 +150,13 @@
       "Cremona",
       "Lecco",
       "Lodi",
-      "Mantova",
       "Milano",
       "Monza e Brianza",
       "Pavia",
       "Sondrio",
       "Varese"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   },
   {
     "region": "Marche",
@@ -211,7 +257,7 @@
   },
   {
     "region": "Trentino-Alto Adige",
-    "period": "Posizione dei veicoli di rilevamento periodo 12 Luglio 2024 - 16 Luglio 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 03 Aprile 2024 - 16 Luglio 2024",
     "subdivisions": [
       "Bolzano / Bozen",
       "Trento"
@@ -220,7 +266,7 @@
   },
   {
     "region": "Umbria",
-    "period": "Posizione dei veicoli di rilevamento periodo 29 Aprile 2024 - 08 Maggio 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 18 Aprile 2024 - 08 Maggio 2024",
     "subdivisions": [
       "Perugia",
       "Terni"
@@ -229,7 +275,7 @@
   },
   {
     "region": "Veneto",
-    "period": "Posizione dei veicoli di rilevamento periodo 05 Giugno 2024 - 12 Luglio 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 04 Aprile 2024 - 12 Luglio 2024",
     "subdivisions": [
       "Belluno",
       "Padova",
