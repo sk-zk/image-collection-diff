@@ -1,37 +1,7 @@
 [
   {
-    "region": "Kanta-Häme",
-    "period": "01. Kesäkuu 2023 - 09. Kesäkuu 2023",
-    "type": "vehicle"
-  },
-  {
-    "region": "Päijät-Häme",
-    "period": "10. Kesäkuu 2023 - 20. Kesäkuu 2023",
-    "type": "vehicle"
-  },
-  {
-    "region": "Pirkanmaa",
-    "period": "21. Kesäkuu 2023 - 28. Kesäkuu 2023",
-    "type": "vehicle"
-  },
-  {
-    "region": "Pohjois-Pohjanmaa",
-    "period": "26. Kesäkuu 2023 - 28. Kesäkuu 2023",
-    "type": "vehicle"
-  },
-  {
-    "region": "Satakunta",
-    "period": "22. Kesäkuu 2023 - 25. Kesäkuu 2023",
-    "type": "vehicle"
-  },
-  {
     "region": "Uusimaa",
-    "period": "01. Kesäkuu 2023 - 09. Kesäkuu 2023",
-    "type": "vehicle"
-  },
-  {
-    "region": "Varsinais-Suomi",
-    "period": "10. Kesäkuu 2023 - 21. Kesäkuu 2023",
-    "type": "vehicle"
+    "period": "22. Heinäkuu 2024 - 06. Syyskuu 2024",
+    "type": "backpack"
   }
 ]
