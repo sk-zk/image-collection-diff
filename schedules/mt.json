@@ -1,7 +1,22 @@
 [
   {
     "region": "Central Region",
-    "period": "Vehicle locations for February 14, 2024 - March 05, 2024",
+    "period": "Pedestrian (backpack) locations for May 10, 2024 - May 28, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Attard",
+      "Balzan",
+      "Gżira",
+      "Msida",
+      "Pieta",
+      "Saint Julian's",
+      "Sliema",
+      "Xbiex"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Central Region",
+    "period": "Pedestrian (backpack) locations for May 10, 2024 - May 28, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
     "subdivisions": [
       "Attard",
       "Balzan",
@@ -17,7 +32,7 @@
       "Sliema",
       "Xbiex"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   },
   {
     "region": "Gozo Region",
@@ -42,15 +57,28 @@
   },
   {
     "region": "Northern Region",
-    "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
+    "period": "Pedestrian (backpack) locations for May 10, 2024 - May 28, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
     "subdivisions": [
-      "Swieqi"
+      "Mdina",
+      "Mellieħa",
+      "Mġarr",
+      "Mosta",
+      "Rabat",
+      "St Paul's Bay"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   },
   {
     "region": "Northern Region",
-    "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
+    "period": "Pedestrian (backpack) locations for May 10, 2024 - May 28, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Swieqi"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Northern Region",
+    "period": "Pedestrian (backpack) locations for May 10, 2024 - May 28, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
     "subdivisions": [
       "Dingli",
       "Għargħur",
@@ -64,11 +92,29 @@
       "Rabat",
       "St Paul's Bay"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   },
   {
     "region": "South Eastern Region",
-    "period": "Vehicle locations for February 14, 2024 - March 05, 2024",
+    "period": "Pedestrian (backpack) locations for May 10, 2024 - May 28, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Birgu",
+      "Cospicua",
+      "Fgura",
+      "Floriana",
+      "Kalkara",
+      "Marsa",
+      "Marsaskala",
+      "Marsaxlokk",
+      "Paola",
+      "Valletta",
+      "Żabbar"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "South Eastern Region",
+    "period": "Pedestrian (backpack) locations for May 10, 2024 - May 28, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
     "subdivisions": [
       "Birgu",
       "Cospicua",
@@ -85,11 +131,22 @@
       "Żabbar",
       "Żejtun"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   },
   {
     "region": "Southern Region",
-    "period": "Vehicle locations for February 14, 2024 - March 05, 2024",
+    "period": "Pedestrian (backpack) locations for May 10, 2024 - May 28, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Birżebbuġa",
+      "Qrendi",
+      "Żurrieq",
+      "Ħamrun"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Southern Region",
+    "period": "Pedestrian (backpack) locations for May 10, 2024 - May 28, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
     "subdivisions": [
       "Birżebbuġa",
       "Gudja",
@@ -106,6 +163,6 @@
       "Żurrieq",
       "Ħamrun"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   }
 ]
