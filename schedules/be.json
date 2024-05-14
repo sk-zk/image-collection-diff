@@ -1,41 +1,18 @@
 [
   {
     "region": "Brussel",
-    "period": "Voertuiglocaties voor 27 juli 2023 - 28 augustus 2023",
+    "period": "Voetgangerlocaties (rugzak) voor 13 mei 2024 - 24 juni 2024\n                                \n                                   (klik op de onderstaande links voor een kaart)",
     "subdivisions": [
       "Brussels Hoofdstedelijk Gewest"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   },
   {
     "region": "Vlaanderen",
-    "period": "Voertuiglocaties voor 01 augustus 2023 - 24 augustus 2023",
+    "period": "Voetgangerlocaties (rugzak) voor 13 mei 2024 - 24 juni 2024\n                                \n                                   (klik op de onderstaande links voor een kaart)",
     "subdivisions": [
-      "Limburg",
-      "Oost-Vlaanderen",
-      "Vlaams Brabant",
-      "West-Vlaanderen"
+      "Vlaams Brabant"
     ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Vlaanderen",
-    "period": "Voertuiglocaties voor 01 augustus 2023 - 24 augustus 2023",
-    "subdivisions": [
-      "Antwerpen"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Wallonië",
-    "period": "Voertuiglocaties voor 27 juli 2023 - 28 augustus 2023",
-    "subdivisions": [
-      "Henegouwen",
-      "Luik",
-      "Luxemburg",
-      "Namen",
-      "Waals Brabant"
-    ],
-    "type": "vehicle"
+    "type": "backpack"
   }
 ]
