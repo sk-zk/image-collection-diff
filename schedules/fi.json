@@ -3,5 +3,100 @@
     "region": "Uusimaa",
     "period": "22. Heinäkuu 2024 - 06. Syyskuu 2024",
     "type": "backpack"
+  },
+  {
+    "region": "Ahvenanmaa",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Etelä-Karjala",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Etelä-Pohjanmaa",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Etelä-Savo",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kainuu",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kanta-Häme",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Keski-Pohjanmaa",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Keski-Suomi",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kymenlaakso",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Lappi",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Päijät-Häme",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pirkanmaa",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pohjanmaa",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pohjois-Karjala",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pohjois-Pohjanmaa",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pohjois-Savo",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Satakunta",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Uusimaa",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Varsinais-Suomi",
+    "period": "27. Toukokuu 2024 - 30. Heinäkuu 2024",
+    "type": "vehicle"
   }
 ]
