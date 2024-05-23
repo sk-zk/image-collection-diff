@@ -3327,6 +3327,14 @@
     "type": "backpack"
   },
   {
+    "region": "United States Virgin Islands",
+    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "subdivisions": [
+      "St. Croix Island"
+    ],
+    "type": "vehicle"
+  },
+  {
     "region": "Utah",
     "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
     "subdivisions": [
