@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "region": "Capital Region of Denmark",
+    "period": "June 14, 2024 - July 29, 2024",
+    "type": "backpack"
+  },
+  {
+    "region": "Capital Region of Denmark",
+    "period": "June 03, 2024 - June 28, 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Central Region of Denmark",
+    "period": "June 03, 2024 - June 28, 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "North Denmark Region",
+    "period": "June 03, 2024 - June 28, 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Region Zealand",
+    "period": "June 03, 2024 - June 28, 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Region of Southern Denmark",
+    "period": "June 03, 2024 - June 28, 2024",
+    "type": "vehicle"
+  }
+]
