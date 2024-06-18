@@ -1,23 +1,7 @@
 [
   {
     "region": "Alberta",
-    "period": "Pedestrian (backpack) locations for July 10, 2023 - August 10, 2023 - (Click the Link(s) Below for a Map View)",
-    "subdivisions": [
-      "Edmonton"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Alberta",
-    "period": "Pedestrian (backpack) locations for July 10, 2023 - August 10, 2023 - (Click the Link(s) Below for a Map View)",
-    "subdivisions": [
-      "Calgary"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Alberta",
-    "period": "Pedestrian (backpack) locations for July 10, 2023 - August 10, 2023 - (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for August 26, 2024 - September 09, 2024",
     "subdivisions": [
       "Calgary",
       "Canmore",
@@ -39,11 +23,19 @@
       "Wainwright",
       "Whitecourt"
     ],
+    "type": "vehicle"
+  },
+  {
+    "region": "British Columbia",
+    "period": "Pedestrian (backpack) locations for July 16, 2024 - August 09, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "subdivisions": [
+      "Greater Vancouver"
+    ],
     "type": "backpack"
   },
   {
     "region": "British Columbia",
-    "period": "Vehicle locations for June 01, 2023 - September 30, 2023",
+    "period": "Pedestrian (backpack) locations for July 16, 2024 - August 09, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
     "subdivisions": [
       "Alberni Clayoquot",
       "Bulkley Nechako",
@@ -75,11 +67,11 @@
       "Sunshine Coast",
       "Thompson Nicola"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   },
   {
     "region": "Manitoba",
-    "period": "Vehicle locations for July 01, 2023 - September 15, 2023",
+    "period": "Vehicle locations for August 15, 2024 - August 22, 2024",
     "subdivisions": [
       "Beausejour Area",
       "Brandon Area",
@@ -109,7 +101,7 @@
   },
   {
     "region": "New Brunswick",
-    "period": "Vehicle locations for August 15, 2023 - September 30, 2023",
+    "period": "Vehicle locations for September 02, 2024 - September 16, 2024",
     "subdivisions": [
       "Albert County",
       "Carleton County",
@@ -131,7 +123,7 @@
   },
   {
     "region": "Newfoundland and Labrador",
-    "period": "Vehicle locations for August 15, 2023 - September 15, 2023",
+    "period": "Vehicle locations for September 18, 2024 - September 27, 2024",
     "subdivisions": [
       "Avalon Peninsula-St. John's",
       "Bonavista/Trinity-Clarenville",
@@ -148,7 +140,7 @@
   },
   {
     "region": "Nova Scotia",
-    "period": "Vehicle locations for July 01, 2023 - August 30, 2023",
+    "period": "Vehicle locations for September 07, 2024 - September 17, 2024",
     "subdivisions": [
       "Annapolis County",
       "Antigonish County",
@@ -173,7 +165,7 @@
   },
   {
     "region": "Ontario",
-    "period": "Pedestrian (backpack) locations for May 01, 2023 - May 19, 2023 - (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for June 21, 2024 - July 16, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
     "subdivisions": [
       "Toronto"
     ],
@@ -181,15 +173,7 @@
   },
   {
     "region": "Ontario",
-    "period": "Pedestrian (backpack) locations for May 01, 2023 - May 19, 2023 - (Click the Link(s) Below for a Map View)",
-    "subdivisions": [
-      "City of Ottawa"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Ontario",
-    "period": "Pedestrian (backpack) locations for May 01, 2023 - May 19, 2023 - (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for June 21, 2024 - July 16, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
     "subdivisions": [
       "Algoma District",
       "Bruce County",
@@ -245,7 +229,7 @@
   },
   {
     "region": "Prince Edward Island",
-    "period": "Vehicle locations for July 01, 2023 - July 31, 2023",
+    "period": "Vehicle locations for September 23, 2024 - September 30, 2024",
     "subdivisions": [
       "Kings County (Prince Edward Island)",
       "Prince County",
@@ -255,24 +239,15 @@
   },
   {
     "region": "Quebec",
-    "period": "Pedestrian (backpack) locations for May 23, 2023 - June 02, 2023 - (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for August 12, 2024 - August 31, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
     "subdivisions": [
-      "Longueuil Regional County Municipality",
       "Montréal Regional County Municipality"
     ],
     "type": "backpack"
   },
   {
     "region": "Quebec",
-    "period": "Pedestrian (backpack) locations for May 23, 2023 - June 02, 2023 - (Click the Link(s) Below for a Map View)",
-    "subdivisions": [
-      "Gatineau Regional County Municipality"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Quebec",
-    "period": "Pedestrian (backpack) locations for May 23, 2023 - June 02, 2023 - (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for August 12, 2024 - August 31, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
     "subdivisions": [
       "Abitibi Ouest Regional County Municipality",
       "Abitibi Regional County Municipality",
@@ -377,7 +352,7 @@
   },
   {
     "region": "Saskatchewan",
-    "period": "Vehicle locations for July 01, 2023 - September 30, 2023",
+    "period": "Vehicle locations for August 21, 2024 - August 27, 2024",
     "subdivisions": [
       "Assiniboia",
       "Battleford",
