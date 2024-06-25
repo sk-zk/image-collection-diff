@@ -1,15 +1,7 @@
 [
   {
     "region": "Região Centro-Oeste do Brasil",
-    "period": "Localizações de veículos em 23 de Outubro de 2023 - 11 de Janeiro de 2024",
-    "subdivisions": [
-      "Mato Grosso"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Região Centro-Oeste do Brasil",
-    "period": "Localizações de veículos em 23 de Outubro de 2023 - 11 de Janeiro de 2024",
+    "period": "Localizações de veículos em 02 de Julho de 2024 - 05 de Setembro de 2024",
     "subdivisions": [
       "Goiás"
     ],
@@ -17,7 +9,7 @@
   },
   {
     "region": "Região Centro-Oeste do Brasil",
-    "period": "Localizações de veículos em 23 de Outubro de 2023 - 11 de Janeiro de 2024",
+    "period": "Localizações de veículos em 02 de Julho de 2024 - 05 de Setembro de 2024",
     "subdivisions": [
       "Distrito Federal"
     ],
@@ -25,7 +17,15 @@
   },
   {
     "region": "Região Centro-Oeste do Brasil",
-    "period": "Localizações de veículos em 23 de Outubro de 2023 - 11 de Janeiro de 2024",
+    "period": "Localizações de veículos em 02 de Julho de 2024 - 05 de Setembro de 2024",
+    "subdivisions": [
+      "Mato Grosso"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Centro-Oeste do Brasil",
+    "period": "Localizações de veículos em 02 de Julho de 2024 - 05 de Setembro de 2024",
     "subdivisions": [
       "Mato Grosso do Sul"
     ],
@@ -33,23 +33,7 @@
   },
   {
     "region": "Região Nordeste do Brasil",
-    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
-    "subdivisions": [
-      "Maranhão"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Região Nordeste do Brasil",
-    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
-    "subdivisions": [
-      "Piauí"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Região Nordeste do Brasil",
-    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "period": "Localizações de veículos em 19 de Outubro de 2024 - 22 de Dezembro de 2024",
     "subdivisions": [
       "Bahia"
     ],
@@ -57,23 +41,7 @@
   },
   {
     "region": "Região Nordeste do Brasil",
-    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
-    "subdivisions": [
-      "Paraíba"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Região Nordeste do Brasil",
-    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
-    "subdivisions": [
-      "Ceará"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Região Nordeste do Brasil",
-    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "period": "Localizações de veículos em 19 de Outubro de 2024 - 22 de Dezembro de 2024",
     "subdivisions": [
       "Pernambuco"
     ],
@@ -81,7 +49,23 @@
   },
   {
     "region": "Região Nordeste do Brasil",
-    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "period": "Localizações de veículos em 19 de Outubro de 2024 - 22 de Dezembro de 2024",
+    "subdivisions": [
+      "Maranhão"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de veículos em 19 de Outubro de 2024 - 22 de Dezembro de 2024",
+    "subdivisions": [
+      "Piauí"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de veículos em 19 de Outubro de 2024 - 22 de Dezembro de 2024",
     "subdivisions": [
       "Alagoas"
     ],
@@ -89,7 +73,7 @@
   },
   {
     "region": "Região Nordeste do Brasil",
-    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "period": "Localizações de veículos em 19 de Outubro de 2024 - 22 de Dezembro de 2024",
     "subdivisions": [
       "Sergipe"
     ],
@@ -97,48 +81,31 @@
   },
   {
     "region": "Região Nordeste do Brasil",
-    "period": "Localizações de veículos em 16 de Julho de 2024 - 21 de Setembro de 2024",
+    "period": "Localizações de veículos em 19 de Outubro de 2024 - 22 de Dezembro de 2024",
     "subdivisions": [
       "Rio Grande do Norte"
     ],
     "type": "vehicle"
   },
   {
-    "region": "Região Norte do Brasil",
-    "period": "Localizações de veículos em 25 de Abril de 2024 - 13 de Julho de 2024",
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de veículos em 19 de Outubro de 2024 - 22 de Dezembro de 2024",
     "subdivisions": [
-      "Amapá",
-      "Pará"
+      "Paraíba"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de veículos em 19 de Outubro de 2024 - 22 de Dezembro de 2024",
+    "subdivisions": [
+      "Ceará"
     ],
     "type": "vehicle"
   },
   {
     "region": "Região Norte do Brasil",
-    "period": "Localizações de veículos em 25 de Abril de 2024 - 13 de Julho de 2024",
-    "subdivisions": [
-      "Amazonas"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Região Norte do Brasil",
-    "period": "Localizações de veículos em 25 de Abril de 2024 - 13 de Julho de 2024",
-    "subdivisions": [
-      "Tocantins"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Região Norte do Brasil",
-    "period": "Localizações de veículos em 25 de Abril de 2024 - 13 de Julho de 2024",
-    "subdivisions": [
-      "Roraima"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Região Norte do Brasil",
-    "period": "Localizações de veículos em 25 de Abril de 2024 - 13 de Julho de 2024",
+    "period": "Localizações de veículos em 23 de Novembro de 2024 - 08 de Dezembro de 2024",
     "subdivisions": [
       "Rondônia"
     ],
@@ -146,15 +113,55 @@
   },
   {
     "region": "Região Norte do Brasil",
-    "period": "Localizações de veículos em 25 de Abril de 2024 - 13 de Julho de 2024",
+    "period": "Localizações de veículos em 23 de Novembro de 2024 - 08 de Dezembro de 2024",
     "subdivisions": [
       "Acre"
     ],
     "type": "vehicle"
   },
   {
+    "region": "Região Norte do Brasil",
+    "period": "Localizações de veículos em 23 de Novembro de 2024 - 08 de Dezembro de 2024",
+    "subdivisions": [
+      "Amazonas"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Norte do Brasil",
+    "period": "Localizações de veículos em 23 de Novembro de 2024 - 08 de Dezembro de 2024",
+    "subdivisions": [
+      "Tocantins"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Norte do Brasil",
+    "period": "Localizações de veículos em 23 de Novembro de 2024 - 08 de Dezembro de 2024",
+    "subdivisions": [
+      "Roraima"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Norte do Brasil",
+    "period": "Localizações de veículos em 23 de Novembro de 2024 - 08 de Dezembro de 2024",
+    "subdivisions": [
+      "Amapá"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Norte do Brasil",
+    "period": "Localizações de veículos em 23 de Novembro de 2024 - 08 de Dezembro de 2024",
+    "subdivisions": [
+      "Pará"
+    ],
+    "type": "vehicle"
+  },
+  {
     "region": "Região Sudeste do Brasil",
-    "period": "Localizações de veículos em 03 de Outubro de 2023 - 07 de Junho de 2024",
+    "period": "Localizações de veículos em 03 de Outubro de 2023 - 10 de Junho de 2024",
     "subdivisions": [
       "São Paulo"
     ],
@@ -162,7 +169,15 @@
   },
   {
     "region": "Região Sudeste do Brasil",
-    "period": "Localizações de veículos em 03 de Outubro de 2023 - 07 de Junho de 2024",
+    "period": "Localizações de veículos em 03 de Outubro de 2023 - 10 de Junho de 2024",
+    "subdivisions": [
+      "Minas Gerais"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Região Sudeste do Brasil",
+    "period": "Localizações de veículos em 03 de Outubro de 2023 - 10 de Junho de 2024",
     "subdivisions": [
       "Rio de Janeiro"
     ],
@@ -170,23 +185,23 @@
   },
   {
     "region": "Região Sudeste do Brasil",
-    "period": "Localizações de veículos em 03 de Outubro de 2023 - 07 de Junho de 2024",
+    "period": "Localizações de veículos em 03 de Outubro de 2023 - 10 de Junho de 2024",
     "subdivisions": [
       "Espírito Santo"
     ],
     "type": "vehicle"
   },
   {
-    "region": "Região Sudeste do Brasil",
-    "period": "Localizações de veículos em 03 de Outubro de 2023 - 07 de Junho de 2024",
+    "region": "Região Sul do Brasil",
+    "period": "Localizações de veículos em 11 de Abril de 2025 - 31 de Maio de 2025",
     "subdivisions": [
-      "Minas Gerais"
+      "Paraná"
     ],
     "type": "vehicle"
   },
   {
     "region": "Região Sul do Brasil",
-    "period": "Localizações de veículos em 13 de Maio de 2025 - 19 de Junho de 2025",
+    "period": "Localizações de veículos em 11 de Abril de 2025 - 31 de Maio de 2025",
     "subdivisions": [
       "Rio Grande do Sul"
     ],
@@ -194,17 +209,9 @@
   },
   {
     "region": "Região Sul do Brasil",
-    "period": "Localizações de veículos em 13 de Maio de 2025 - 19 de Junho de 2025",
+    "period": "Localizações de veículos em 11 de Abril de 2025 - 31 de Maio de 2025",
     "subdivisions": [
       "Santa Catarina"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Região Sul do Brasil",
-    "period": "Localizações de veículos em 13 de Maio de 2025 - 19 de Junho de 2025",
-    "subdivisions": [
-      "Paraná"
     ],
     "type": "vehicle"
   }
