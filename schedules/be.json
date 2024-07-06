@@ -1,7 +1,15 @@
 [
   {
     "region": "Brussel",
-    "period": "Voetgangerlocaties (rugzak) voor 13 mei 2024 - 24 juni 2024\n                                \n                                   (klik op de onderstaande links voor een kaart)",
+    "period": "Voetgangerlocaties (rugzak) voor 26 juli 2024 - 21 augustus 2024\n                                \n                                   (klik op de onderstaande links voor een kaart)",
+    "subdivisions": [
+      "Brussels Hoofdstedelijk Gewest"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Brussel",
+    "period": "Voetgangerlocaties (rugzak) voor 26 juli 2024 - 21 augustus 2024\n                                \n                                   (klik op de onderstaande links voor een kaart)",
     "subdivisions": [
       "Brussels Hoofdstedelijk Gewest"
     ],
@@ -9,10 +17,34 @@
   },
   {
     "region": "Vlaanderen",
-    "period": "Voetgangerlocaties (rugzak) voor 13 mei 2024 - 24 juni 2024\n                                \n                                   (klik op de onderstaande links voor een kaart)",
+    "period": "Voetgangerlocaties (rugzak) voor 26 juli 2024 - 21 augustus 2024\n                                \n                                   (klik op de onderstaande links voor een kaart)",
     "subdivisions": [
       "Vlaams Brabant"
     ],
     "type": "backpack"
+  },
+  {
+    "region": "Vlaanderen",
+    "period": "Voetgangerlocaties (rugzak) voor 26 juli 2024 - 21 augustus 2024\n                                \n                                   (klik op de onderstaande links voor een kaart)",
+    "subdivisions": [
+      "Antwerpen",
+      "Limburg",
+      "Oost-Vlaanderen",
+      "Vlaams Brabant",
+      "West-Vlaanderen"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Wallonië",
+    "period": "Voertuiglocaties voor 15 juli 2024 - 19 augustus 2024",
+    "subdivisions": [
+      "Henegouwen",
+      "Luik",
+      "Luxemburg",
+      "Namen",
+      "Waals Brabant"
+    ],
+    "type": "vehicle"
   }
 ]

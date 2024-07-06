@@ -1,10 +1,167 @@
 [
   {
+    "region": "Burgenland",
+    "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 24. Juni 2024 - 12. August 2024",
+    "subdivisions": [
+      "Eisenstadt",
+      "Eisenstadt-Umgebung",
+      "Güssing",
+      "Jennersdorf",
+      "Mattersburg",
+      "Neusiedl am See",
+      "Oberpullendorf",
+      "Oberwart",
+      "Rust"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Kärnten",
+    "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 24. Juni 2024 - 12. August 2024",
+    "subdivisions": [
+      "Feldkirchen",
+      "Hermagor",
+      "Klagenfurt Land",
+      "Klagenfurt Stadt",
+      "Klagenfurt-Land",
+      "Sankt Veit an der Glan",
+      "Spittal an der Drau",
+      "Villach-Land",
+      "Völkermarkt",
+      "Wolfsberg"
+    ],
+    "type": "vehicle"
+  },
+  {
     "region": "Niederösterreich",
     "period": "Wo wir zu Fuß (Rucksack) erfassen: 10. Mai 2024 - 19. Juni 2024\n                                \n                                   (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
     "subdivisions": [
       "Mödling",
       "Tulln an der Donau"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Niederösterreich",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 10. Mai 2024 - 19. Juni 2024\n                                \n                                   (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
+    "subdivisions": [
+      "Amstetten",
+      "Baden",
+      "Bruck an der Leitha",
+      "Gänserndorf",
+      "Gmünd",
+      "Hollabrunn",
+      "Horn",
+      "Korneuburg",
+      "Krems an der Donau",
+      "Krems-Land",
+      "Lilienfeld",
+      "Melk",
+      "Mistelbach",
+      "Mödling",
+      "Neunkirchen",
+      "Sankt Pölten-Land",
+      "Sankt Pölten-Stadt",
+      "Scheibbs",
+      "Tulln an der Donau",
+      "Waidhofen an der Thaya",
+      "Waidhofen an der Ybbs",
+      "Weiner Neustadt-Land",
+      "Weiner Neustadt-Stadt",
+      "Zwettl"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Ober­österreich",
+    "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 24. Juni 2024 - 12. August 2024",
+    "subdivisions": [
+      "Braunau am Inn",
+      "Eferding",
+      "Freistadt",
+      "Gmunden",
+      "Grieskirchen",
+      "Kirchdorf an der Krems",
+      "Linz-Land",
+      "Linz-Stadt",
+      "Perg",
+      "Ried im Innkreis",
+      "Rohrbach",
+      "Schärding",
+      "Steyr-Land",
+      "Steyr-Stadt",
+      "Urfahr-Umgebung",
+      "Vöcklabruck",
+      "Wels-Land",
+      "Wels-Stadt"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Salzburg",
+    "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 24. Juni 2024 - 12. August 2024",
+    "subdivisions": [
+      "Hallein",
+      "Salzburg-Stadt",
+      "Salzburg-Umgebung",
+      "Sankt Johann im Pongau",
+      "Tamsweg",
+      "Zell am See"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Steiermark",
+    "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 24. Juni 2024 - 12. August 2024",
+    "subdivisions": [
+      "Bruck-Mürzzuschlag",
+      "Deutschlandsberg",
+      "Graz-Stadt",
+      "Graz-Umgebung",
+      "Hartberg-Fürstenfeld",
+      "Leibnitz",
+      "Leoben",
+      "Liezen",
+      "Murau",
+      "Murtal",
+      "Südoststeiermark",
+      "Voitsberg",
+      "Weiz"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Tirol",
+    "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 24. Juni 2024 - 12. August 2024",
+    "subdivisions": [
+      "Imst",
+      "Innsbruck Stadt",
+      "Innsbruck-Land",
+      "Kitzbühel",
+      "Kufstein",
+      "Landeck",
+      "Leinz",
+      "Reutte",
+      "Schwaz"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Vorarlberg",
+    "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 24. Juni 2024 - 12. August 2024",
+    "subdivisions": [
+      "Bludenz",
+      "Bregenz",
+      "Dornbirn",
+      "Feldkirch"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Wien",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 10. Mai 2024 - 19. Juni 2024\n                                \n                                   (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
+    "subdivisions": [
+      "Wien"
     ],
     "type": "backpack"
   },

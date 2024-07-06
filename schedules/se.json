@@ -1,5 +1,15 @@
 [
   {
+    "region": "Stockholm",
+    "period": "05 Juli 2024 - 16 Augusti 2024",
+    "type": "backpack"
+  },
+  {
+    "region": "Blekinge",
+    "period": "13 Juni 2024 - 05 Augusti 2024",
+    "type": "vehicle"
+  },
+  {
     "region": "Dalarna",
     "period": "18 Juni 2024 - 20 Augusti 2024",
     "type": "vehicle"
@@ -10,18 +20,8 @@
     "type": "vehicle"
   },
   {
-    "region": "Hallands",
-    "period": "15 Juli 2023 - 28 Juli 2023",
-    "type": "vehicle"
-  },
-  {
     "region": "Jamtland",
     "period": "18 Juni 2024 - 20 Augusti 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Jonkoping",
-    "period": "03 Juli 2023 - 10 Juli 2023",
     "type": "vehicle"
   },
   {
@@ -36,17 +36,12 @@
   },
   {
     "region": "Ostergotland",
-    "period": "03 Juli 2023 - 10 Juli 2023",
-    "type": "vehicle"
-  },
-  {
-    "region": "Skane",
-    "period": "15 Juli 2023 - 28 Juli 2023",
+    "period": "13 Juni 2024 - 05 Augusti 2024",
     "type": "vehicle"
   },
   {
     "region": "Sodermanland",
-    "period": "19 Juni 2023 - 10 Juli 2023",
+    "period": "01 Juli 2024 - 05 Augusti 2024",
     "type": "vehicle"
   },
   {
@@ -55,8 +50,8 @@
     "type": "vehicle"
   },
   {
-    "region": "Uppsala",
-    "period": "19 Juni 2023 - 10 Juli 2023",
+    "region": "Varmland",
+    "period": "01 Juli 2024 - 05 Augusti 2024",
     "type": "vehicle"
   },
   {
@@ -72,11 +67,6 @@
   {
     "region": "Vastmanland",
     "period": "18 Juni 2024 - 20 Augusti 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Vastra Gotaland",
-    "period": "03 Juli 2023 - 10 Juli 2023",
     "type": "vehicle"
   }
 ]

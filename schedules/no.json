@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "region": "Agder",
+    "period": "22. juli 2024 - 12. august 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Innlandet",
+    "period": "15. juli 2024 - 30. august 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Jan Mayen",
+    "period": "08. juli 2024 - 30. august 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "More Og Romsdal",
+    "period": "08. juli 2024 - 26. juli 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Nordland",
+    "period": "08. juli 2024 - 26. juli 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Oslo",
+    "period": "15. juli 2024 - 30. august 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Rogaland",
+    "period": "08. juli 2024 - 26. juli 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Svalbard",
+    "period": "08. juli 2024 - 30. august 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Troms Og Finnmark",
+    "period": "08. juli 2024 - 30. august 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Trondelag",
+    "period": "08. juli 2024 - 26. juli 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Vestfold Og Telemark",
+    "period": "15. juli 2024 - 30. august 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Vestland",
+    "period": "08. juli 2024 - 26. juli 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Viken",
+    "period": "08. juli 2024 - 30. august 2024",
+    "type": "vehicle"
+  }
+]

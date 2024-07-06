@@ -5,8 +5,63 @@
     "type": "backpack"
   },
   {
+    "region": "Drenthe",
+    "period": "09 juli 2024 - 28 augustus 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Flevoland",
+    "period": "09 juli 2024 - 28 augustus 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Friesland",
+    "period": "09 juli 2024 - 28 augustus 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Gelderland",
+    "period": "09 juli 2024 - 28 augustus 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Groningen",
+    "period": "09 juli 2024 - 28 augustus 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Limburg",
+    "period": "09 juli 2024 - 28 augustus 2024",
+    "type": "vehicle"
+  },
+  {
     "region": "Noord Brabant",
-    "period": "06 februari 2024 - 01 maart 2024",
+    "period": "09 juli 2024 - 28 augustus 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Noord Holland",
+    "period": "09 juli 2024 - 28 augustus 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Overijssel",
+    "period": "09 juli 2024 - 28 augustus 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Utrecht",
+    "period": "09 juli 2024 - 28 augustus 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zeeland",
+    "period": "09 juli 2024 - 28 augustus 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zuid Holland",
+    "period": "09 juli 2024 - 28 augustus 2024",
     "type": "vehicle"
   }
 ]
