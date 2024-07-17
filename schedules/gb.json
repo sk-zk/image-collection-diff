@@ -58,7 +58,7 @@
   },
   {
     "region": "Cheshire",
-    "period": "Vehicle locations for August 07, 2024 - September 05, 2024",
+    "period": "Vehicle locations for August 10, 2024 - September 06, 2024",
     "subdivisions": [
       "Cheshire East",
       "Cheshire West and Chester",
@@ -69,23 +69,16 @@
   },
   {
     "region": "Cumbria",
-    "period": "Vehicle locations for August 17, 2024 - September 14, 2024",
+    "period": "Vehicle locations for July 30, 2024 - August 30, 2024",
     "subdivisions": [
+      "Cumberland",
       "Westmorland and Furness"
     ],
     "type": "vehicle"
   },
   {
-    "region": "Cumbria",
-    "period": "Vehicle locations for August 17, 2024 - September 14, 2024",
-    "subdivisions": [
-      "Cumberland"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Derbyshire",
-    "period": "Vehicle locations for July 19, 2024 - August 22, 2024",
+    "period": "Vehicle locations for August 28, 2024 - September 15, 2024",
     "subdivisions": [
       "City of Derby",
       "Derbyshire County"
@@ -113,7 +106,7 @@
   },
   {
     "region": "Durham",
-    "period": "Vehicle locations for September 12, 2024 - October 10, 2024",
+    "period": "Vehicle locations for July 30, 2024 - August 30, 2024",
     "subdivisions": [
       "County Durham",
       "Darlington",
@@ -124,7 +117,7 @@
   },
   {
     "region": "East Riding of Yorkshire",
-    "period": "Vehicle locations for September 06, 2024 - October 09, 2024",
+    "period": "Vehicle locations for August 05, 2024 - September 15, 2024",
     "subdivisions": [
       "City of Kingston upon Hull",
       "East Riding of Yorkshire"
@@ -301,17 +294,24 @@
   },
   {
     "region": "Lancashire",
-    "period": "Vehicle locations for August 17, 2024 - September 14, 2024",
+    "period": "Vehicle locations for July 26, 2024 - August 30, 2024",
     "subdivisions": [
       "Blackburn with Darwen",
-      "Blackpool",
+      "Blackpool"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Lancashire",
+    "period": "Vehicle locations for July 26, 2024 - August 30, 2024",
+    "subdivisions": [
       "Lancashire County"
     ],
     "type": "vehicle"
   },
   {
     "region": "Leicestershire",
-    "period": "Vehicle locations for June 30, 2024 - August 04, 2024",
+    "period": "Vehicle locations for August 28, 2024 - September 15, 2024",
     "subdivisions": [
       "City of Leicester",
       "Leicestershire County"
@@ -320,7 +320,7 @@
   },
   {
     "region": "Lincolnshire",
-    "period": "Vehicle locations for September 06, 2024 - October 04, 2024",
+    "period": "Vehicle locations for August 05, 2024 - September 15, 2024",
     "subdivisions": [
       "Lincolnshire County",
       "North East Lincolnshire",
@@ -330,7 +330,7 @@
   },
   {
     "region": "Merseyside",
-    "period": "Vehicle locations for August 08, 2024 - September 13, 2024",
+    "period": "Vehicle locations for August 10, 2024 - September 06, 2024",
     "subdivisions": [
       "Knowsley",
       "Liverpool",
@@ -350,7 +350,7 @@
   },
   {
     "region": "North Yorkshire",
-    "period": "Vehicle locations for September 11, 2024 - October 10, 2024",
+    "period": "Vehicle locations for July 30, 2024 - August 30, 2024",
     "subdivisions": [
       "Middlesbrough",
       "North Yorkshire County",
@@ -370,7 +370,7 @@
   },
   {
     "region": "Nottinghamshire",
-    "period": "Vehicle locations for July 10, 2024 - August 22, 2024",
+    "period": "Vehicle locations for August 28, 2024 - September 15, 2024",
     "subdivisions": [
       "City of Nottingham",
       "Nottinghamshire County"
@@ -406,7 +406,7 @@
   },
   {
     "region": "South Yorkshire",
-    "period": "Vehicle locations for September 06, 2024 - October 04, 2024",
+    "period": "Vehicle locations for August 14, 2024 - September 06, 2024",
     "subdivisions": [
       "Barnsley",
       "Doncaster",
@@ -442,7 +442,7 @@
   },
   {
     "region": "Tyne and Wear",
-    "period": "Vehicle locations for September 12, 2024 - October 17, 2024",
+    "period": "Vehicle locations for July 30, 2024 - August 30, 2024",
     "subdivisions": [
       "Gateshead",
       "Newcastle upon Tyne",
@@ -472,15 +472,8 @@
     "region": "West Midlands",
     "period": "Pedestrian (backpack) locations for June 07, 2024 - July 19, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
     "subdivisions": [
-      "Coventry"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "West Midlands",
-    "period": "Pedestrian (backpack) locations for June 07, 2024 - July 19, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
-    "subdivisions": [
       "Birmingham",
+      "Coventry",
       "Dudley",
       "Sandwell",
       "Solihull",
@@ -499,7 +492,7 @@
   },
   {
     "region": "West Yorkshire",
-    "period": "Vehicle locations for August 18, 2024 - September 29, 2024",
+    "period": "Vehicle locations for August 03, 2024 - September 15, 2024",
     "subdivisions": [
       "Bradford",
       "Calderdale",
