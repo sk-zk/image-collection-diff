@@ -1,0 +1,91 @@
+[
+  {
+    "region": "București - Ilfov",
+    "period": "Locațiile vehiculelor pentru 25 Iulie 2024 - 04 Octombrie 2024",
+    "subdivisions": [
+      "București - Ilfov"
+    ]
+  },
+  {
+    "region": "Centru",
+    "period": "Locațiile vehiculelor pentru 25 Iulie 2024 - 04 Octombrie 2024",
+    "subdivisions": [
+      "Alba",
+      "Brașov",
+      "Covasna",
+      "Harghita",
+      "Mureș",
+      "Sigiu"
+    ]
+  },
+  {
+    "region": "Nord-Est",
+    "period": "Locațiile vehiculelor pentru 25 Iulie 2024 - 04 Octombrie 2024",
+    "subdivisions": [
+      "Bacău",
+      "Botoșani",
+      "Iași",
+      "Neamț",
+      "Suceava",
+      "Vaslui"
+    ]
+  },
+  {
+    "region": "Nord-Vest",
+    "period": "Locațiile vehiculelor pentru 25 Iulie 2024 - 04 Octombrie 2024",
+    "subdivisions": [
+      "Bihor",
+      "Bistrița-Năsăud",
+      "Clug",
+      "Maramureș",
+      "Sălaj",
+      "Satu Mare"
+    ]
+  },
+  {
+    "region": "Sud - Muntenia",
+    "period": "Locațiile vehiculelor pentru 25 Iulie 2024 - 04 Octombrie 2024",
+    "subdivisions": [
+      "Argeș",
+      "Călărași",
+      "Dâmbovița",
+      "Giurgiu",
+      "Ialomița",
+      "Prahova",
+      "Teleorman"
+    ]
+  },
+  {
+    "region": "Sud-Est",
+    "period": "Locațiile vehiculelor pentru 25 Iulie 2024 - 04 Octombrie 2024",
+    "subdivisions": [
+      "Brăila",
+      "Buzău",
+      "Constanța",
+      "Galați",
+      "Tulcea",
+      "Vrancea"
+    ]
+  },
+  {
+    "region": "Sud-Vest Oltenia",
+    "period": "Locațiile vehiculelor pentru 25 Iulie 2024 - 04 Octombrie 2024",
+    "subdivisions": [
+      "Dolj",
+      "Gorj",
+      "Mehedinți",
+      "Olt",
+      "Vâlcea"
+    ]
+  },
+  {
+    "region": "Vest",
+    "period": "Locațiile vehiculelor pentru 25 Iulie 2024 - 04 Octombrie 2024",
+    "subdivisions": [
+      "Arad",
+      "Caraș-Severin",
+      "Hunedoara",
+      "Timiș"
+    ]
+  }
+]
