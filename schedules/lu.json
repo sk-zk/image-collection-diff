@@ -3,5 +3,65 @@
     "region": "Luxembourg",
     "period": "31 mai 2024 - 25 juin 2024",
     "type": "backpack"
+  },
+  {
+    "region": "Capellen",
+    "period": "25 juillet 2024 - 12 août 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Clervaux",
+    "period": "25 juillet 2024 - 12 août 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Diekirch",
+    "period": "25 juillet 2024 - 12 août 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Echternach",
+    "period": "25 juillet 2024 - 12 août 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Esch-sur-Alzette",
+    "period": "25 juillet 2024 - 12 août 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Grevenmacher",
+    "period": "25 juillet 2024 - 12 août 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Luxembourg",
+    "period": "25 juillet 2024 - 12 août 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Mersch",
+    "period": "25 juillet 2024 - 12 août 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Redange",
+    "period": "25 juillet 2024 - 12 août 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Remich",
+    "period": "25 juillet 2024 - 12 août 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Vianden",
+    "period": "25 juillet 2024 - 12 août 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Wiltz",
+    "period": "25 juillet 2024 - 12 août 2024",
+    "type": "vehicle"
   }
 ]
