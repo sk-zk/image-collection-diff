@@ -94,7 +94,7 @@ def get_camera_type_from_heading(heading: str) -> str:
     backpack_strings = ["backpack", "batoh", "rucksack", "バックパック", "背包", "sac à dos",
                         "ryggsäck", "vrsta", "pedestre", "plecak", "ryggsekk", "rugzak",
                         "mochila", "apparati a spalla", "pedone", "hátizsák", "reppu",
-                        "ruksak"]
+                        "ruksak", "Раница"]
     for string in backpack_strings:
         if string in lower:
             return "backpack"
@@ -102,7 +102,7 @@ def get_camera_type_from_heading(heading: str) -> str:
     vehicle_strings = ["vehicle", "vozidlo", "fahrzeug", "車両", "車輛", "véhicules",
                        "fordon", "vozilo", "veículo", "pojazd", "kjøretøy", "voertuig",
                        "vehículo", "veicoli", "veicolo", "jármű", "ajoneuvo", "priemonė",
-                       "sõiduk", "transportlīdzeklis"]
+                       "sõiduk", "transportlīdzeklis", "vehiculelor"]
     for string in vehicle_strings:
         if string in lower:
             return "vehicle"
