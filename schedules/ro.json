@@ -4,7 +4,8 @@
     "period": "Locațiile vehiculelor pentru 25 Iulie 2024 - 04 Octombrie 2024",
     "subdivisions": [
       "București - Ilfov"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Centru",
@@ -16,7 +17,8 @@
       "Harghita",
       "Mureș",
       "Sigiu"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Nord-Est",
@@ -28,7 +30,8 @@
       "Neamț",
       "Suceava",
       "Vaslui"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Nord-Vest",
@@ -40,7 +43,8 @@
       "Maramureș",
       "Sălaj",
       "Satu Mare"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Sud - Muntenia",
@@ -53,7 +57,8 @@
       "Ialomița",
       "Prahova",
       "Teleorman"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Sud-Est",
@@ -65,7 +70,8 @@
       "Galați",
       "Tulcea",
       "Vrancea"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Sud-Vest Oltenia",
@@ -76,7 +82,8 @@
       "Mehedinți",
       "Olt",
       "Vâlcea"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Vest",
@@ -86,6 +93,7 @@
       "Caraș-Severin",
       "Hunedoara",
       "Timiș"
-    ]
+    ],
+    "type": "vehicle"
   }
 ]
