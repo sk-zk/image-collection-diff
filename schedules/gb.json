@@ -58,7 +58,7 @@
   },
   {
     "region": "Cheshire",
-    "period": "Vehicle locations for August 10, 2024 - September 06, 2024",
+    "period": "Vehicle locations for August 10, 2024 - September 30, 2024",
     "subdivisions": [
       "Cheshire East",
       "Cheshire West and Chester",
@@ -78,7 +78,7 @@
   },
   {
     "region": "Derbyshire",
-    "period": "Vehicle locations for August 28, 2024 - September 15, 2024",
+    "period": "Vehicle locations for August 28, 2024 - September 30, 2024",
     "subdivisions": [
       "City of Derby",
       "Derbyshire County"
@@ -117,7 +117,7 @@
   },
   {
     "region": "East Riding of Yorkshire",
-    "period": "Vehicle locations for August 05, 2024 - September 15, 2024",
+    "period": "Vehicle locations for August 05, 2024 - September 30, 2024",
     "subdivisions": [
       "City of Kingston upon Hull",
       "East Riding of Yorkshire"
@@ -294,24 +294,17 @@
   },
   {
     "region": "Lancashire",
-    "period": "Vehicle locations for July 26, 2024 - August 30, 2024",
+    "period": "Vehicle locations for July 26, 2024 - September 30, 2024",
     "subdivisions": [
       "Blackburn with Darwen",
-      "Blackpool"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Lancashire",
-    "period": "Vehicle locations for July 26, 2024 - August 30, 2024",
-    "subdivisions": [
+      "Blackpool",
       "Lancashire County"
     ],
     "type": "vehicle"
   },
   {
     "region": "Leicestershire",
-    "period": "Vehicle locations for August 28, 2024 - September 15, 2024",
+    "period": "Vehicle locations for August 28, 2024 - September 30, 2024",
     "subdivisions": [
       "City of Leicester",
       "Leicestershire County"
@@ -320,7 +313,7 @@
   },
   {
     "region": "Lincolnshire",
-    "period": "Vehicle locations for August 05, 2024 - September 15, 2024",
+    "period": "Vehicle locations for August 05, 2024 - September 30, 2024",
     "subdivisions": [
       "Lincolnshire County",
       "North East Lincolnshire",
@@ -330,7 +323,7 @@
   },
   {
     "region": "Merseyside",
-    "period": "Vehicle locations for August 10, 2024 - September 06, 2024",
+    "period": "Vehicle locations for August 10, 2024 - September 30, 2024",
     "subdivisions": [
       "Knowsley",
       "Liverpool",
@@ -350,7 +343,7 @@
   },
   {
     "region": "North Yorkshire",
-    "period": "Vehicle locations for July 30, 2024 - August 30, 2024",
+    "period": "Vehicle locations for July 30, 2024 - September 30, 2024",
     "subdivisions": [
       "Middlesbrough",
       "North Yorkshire County",
@@ -370,7 +363,7 @@
   },
   {
     "region": "Nottinghamshire",
-    "period": "Vehicle locations for August 28, 2024 - September 15, 2024",
+    "period": "Vehicle locations for August 28, 2024 - September 30, 2024",
     "subdivisions": [
       "City of Nottingham",
       "Nottinghamshire County"
@@ -406,7 +399,7 @@
   },
   {
     "region": "South Yorkshire",
-    "period": "Vehicle locations for August 14, 2024 - September 06, 2024",
+    "period": "Vehicle locations for August 14, 2024 - September 30, 2024",
     "subdivisions": [
       "Barnsley",
       "Doncaster",
@@ -417,7 +410,7 @@
   },
   {
     "region": "Staffordshire",
-    "period": "Vehicle locations for June 30, 2024 - August 24, 2024",
+    "period": "Vehicle locations for June 30, 2024 - September 30, 2024",
     "subdivisions": [
       "Staffordshire County",
       "Stoke-on-Trent"
@@ -492,7 +485,7 @@
   },
   {
     "region": "West Yorkshire",
-    "period": "Vehicle locations for August 03, 2024 - September 15, 2024",
+    "period": "Vehicle locations for August 03, 2024 - September 30, 2024",
     "subdivisions": [
       "Bradford",
       "Calderdale",
