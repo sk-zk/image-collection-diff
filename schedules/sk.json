@@ -3,5 +3,45 @@
     "region": "Bratislavsky",
     "period": "03. september 2024 - 27. september 2024",
     "type": "backpack"
+  },
+  {
+    "region": "Banskobystricky",
+    "period": "22. august 2024 - 10. október 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Bratislavsky",
+    "period": "22. august 2024 - 10. október 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kosicky",
+    "period": "22. august 2024 - 10. október 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Nitriansky",
+    "period": "22. august 2024 - 10. október 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Presovsky",
+    "period": "22. august 2024 - 10. október 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Trenciansky",
+    "period": "22. august 2024 - 10. október 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Trnavsky",
+    "period": "22. august 2024 - 10. október 2024",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zilinsky",
+    "period": "22. august 2024 - 10. október 2024",
+    "type": "vehicle"
   }
 ]
