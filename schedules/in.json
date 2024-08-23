@@ -6,22 +6,22 @@
   },
   {
     "region": "Arunachal Pradesh",
-    "period": "January 01, 2025 - February 28, 2025",
+    "period": "March 01, 2025 - April 30, 2025",
     "type": "vehicle"
   },
   {
     "region": "Assam",
-    "period": "January 01, 2025 - February 28, 2025",
+    "period": "February 01, 2025 - March 31, 2025",
     "type": "vehicle"
   },
   {
     "region": "Bihar",
-    "period": "December 15, 2024 - February 28, 2025",
+    "period": "February 01, 2025 - March 31, 2025",
     "type": "vehicle"
   },
   {
     "region": "Chandigarh",
-    "period": "October 01, 2024 - November 30, 2024",
+    "period": "December 01, 2024 - January 31, 2025",
     "type": "vehicle"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "region": "Dadra and Nagar Haveli and Daman and Diu",
-    "period": "February 01, 2024 - June 30, 2024",
+    "period": "August 21, 2024 - September 30, 2024",
     "type": "vehicle"
   },
   {
     "region": "Delhi",
-    "period": "October 01, 2024 - December 31, 2024",
+    "period": "November 01, 2024 - December 31, 2024",
     "type": "vehicle"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "region": "Haryana",
-    "period": "October 15, 2024 - January 31, 2025",
+    "period": "October 01, 2024 - December 31, 2024",
     "type": "vehicle"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "region": "Jharkhand",
-    "period": "February 01, 2025 - April 30, 2025",
+    "period": "September 01, 2024 - October 30, 2024",
     "type": "vehicle"
   },
   {
