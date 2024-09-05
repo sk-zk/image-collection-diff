@@ -223,26 +223,33 @@
   },
   {
     "region": "California",
-    "period": "Pedestrian (backpack) locations for February 01, 2024 - September 30, 2024",
+    "period": "Pedestrian (backpack) locations for January 01, 2024 - December 31, 2024",
     "subdivisions": [
       "Alameda County",
+      "San Francisco County",
+      "San Mateo County",
+      "Santa Clara County",
+      "Santa Cruz County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "California",
+    "period": "Pedestrian (backpack) locations for January 01, 2024 - December 31, 2024",
+    "subdivisions": [
       "Los Angeles County",
       "Napa County",
       "Orange County",
       "Sacramento County",
       "San Diego County",
-      "San Francisco County",
-      "San Mateo County",
       "Santa Barbara County",
-      "Santa Clara County",
-      "Santa Cruz County",
       "Sonoma County"
     ],
     "type": "backpack"
   },
   {
     "region": "California",
-    "period": "Pedestrian (backpack) locations for February 01, 2024 - September 30, 2024",
+    "period": "Pedestrian (backpack) locations for January 01, 2024 - December 31, 2024",
     "subdivisions": [
       "Alameda County",
       "Alpine County",
