@@ -78,7 +78,7 @@
   },
   {
     "region": "Derbyshire",
-    "period": "Vehicle locations for August 28, 2024 - October 11, 2024",
+    "period": "Vehicle locations for August 28, 2024 - October 18, 2024",
     "subdivisions": [
       "City of Derby",
       "Derbyshire County"
@@ -161,28 +161,7 @@
   },
   {
     "region": "Greater London",
-    "period": "Pedestrian (backpack) locations for June 24, 2024 - August 30, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
-    "subdivisions": [
-      "Camden",
-      "City of London",
-      "City of Westminster",
-      "Greenwich",
-      "Hackney",
-      "Hammersmith and Fulham",
-      "Islington",
-      "Kensington and Chelsea",
-      "Lambeth",
-      "Newham",
-      "Southwark",
-      "Tower Hamlets",
-      "Waltham Forest",
-      "Wandsworth"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Greater London",
-    "period": "Pedestrian (backpack) locations for June 24, 2024 - August 30, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for February 10, 2024 - March 31, 2024",
     "subdivisions": [
       "Barking and Dagenham",
       "Barnet",
@@ -218,23 +197,11 @@
       "Waltham Forest",
       "Wandsworth"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Greater Manchester",
-    "period": "Pedestrian (backpack) locations for May 16, 2024 - July 04, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
-    "subdivisions": [
-      "Bury",
-      "Manchester",
-      "Salford",
-      "Stockport",
-      "Trafford"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Greater Manchester",
-    "period": "Pedestrian (backpack) locations for May 16, 2024 - July 04, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for August 01, 2024 - September 30, 2024",
     "subdivisions": [
       "Bolton",
       "Bury",
@@ -247,7 +214,7 @@
       "Trafford",
       "Wigan"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Hampshire",
@@ -380,7 +347,7 @@
   },
   {
     "region": "Shropshire",
-    "period": "Vehicle locations for June 21, 2024 - October 11, 2024",
+    "period": "Vehicle locations for June 21, 2024 - October 18, 2024",
     "subdivisions": [
       "Shropshire",
       "Telford and Wrekin"
@@ -410,7 +377,7 @@
   },
   {
     "region": "Staffordshire",
-    "period": "Vehicle locations for June 30, 2024 - October 11, 2024",
+    "period": "Vehicle locations for June 30, 2024 - October 18, 2024",
     "subdivisions": [
       "Staffordshire County",
       "Stoke-on-Trent"
@@ -455,15 +422,7 @@
   },
   {
     "region": "West Midlands",
-    "period": "Pedestrian (backpack) locations for June 07, 2024 - July 19, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
-    "subdivisions": [
-      "Birmingham"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "West Midlands",
-    "period": "Pedestrian (backpack) locations for June 07, 2024 - July 19, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for August 29, 2024 - October 18, 2024",
     "subdivisions": [
       "Birmingham",
       "Coventry",
@@ -473,7 +432,7 @@
       "Walsall",
       "Wolverhampton"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "West Sussex",
