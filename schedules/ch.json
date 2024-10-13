@@ -9,7 +9,7 @@
   },
   {
     "region": "Espace Mittelland",
-    "period": "Lieux de passage des véhicules sur la période 18 juillet 2022 - 08 août 2022",
+    "period": "Lieux de passage des véhicules sur la période 25 juillet 2024 - 10 septembre 2024",
     "subdivisions": [
       "Berne",
       "Fribourg",
@@ -75,7 +75,7 @@
   },
   {
     "region": "Zurich",
-    "period": "Zones piétonnes (sac à dos) sur la période 27 mai 2024 - 18 juin 2024\n                                \n                                   (Cliquez sur les liens ci-dessous pour voir les lieux sur une carte.)",
+    "period": "Zones piétonnes (sac à dos) sur la période 27 mai 2024 - 18 juin 2024",
     "subdivisions": [
       "Zurich"
     ],
@@ -83,10 +83,10 @@
   },
   {
     "region": "Zurich",
-    "period": "Zones piétonnes (sac à dos) sur la période 27 mai 2024 - 18 juin 2024\n                                \n                                   (Cliquez sur les liens ci-dessous pour voir les lieux sur une carte.)",
+    "period": "Lieux de passage des véhicules sur la période 25 juillet 2024 - 10 septembre 2024",
     "subdivisions": [
       "Zurich"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   }
 ]

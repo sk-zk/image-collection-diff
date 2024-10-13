@@ -27,7 +27,7 @@
   },
   {
     "region": "British Columbia",
-    "period": "Pedestrian (backpack) locations for July 16, 2024 - August 09, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for July 16, 2024 - August 09, 2024",
     "subdivisions": [
       "Greater Vancouver"
     ],
@@ -35,7 +35,7 @@
   },
   {
     "region": "British Columbia",
-    "period": "Pedestrian (backpack) locations for July 16, 2024 - August 09, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for September 09, 2024 - September 30, 2024",
     "subdivisions": [
       "Alberni Clayoquot",
       "Bulkley Nechako",
@@ -67,7 +67,7 @@
       "Sunshine Coast",
       "Thompson Nicola"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Manitoba",
@@ -165,7 +165,7 @@
   },
   {
     "region": "Ontario",
-    "period": "Pedestrian (backpack) locations for June 25, 2024 - July 16, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for June 25, 2024 - July 16, 2024",
     "subdivisions": [
       "Toronto"
     ],
@@ -173,7 +173,7 @@
   },
   {
     "region": "Ontario",
-    "period": "Pedestrian (backpack) locations for June 25, 2024 - July 16, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for June 25, 2024 - August 14, 2024",
     "subdivisions": [
       "Algoma District",
       "Bruce County",
@@ -225,7 +225,7 @@
       "Wellington County",
       "York Regional Municipality"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Prince Edward Island",
@@ -239,7 +239,7 @@
   },
   {
     "region": "Quebec",
-    "period": "Pedestrian (backpack) locations for August 12, 2024 - August 31, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for August 12, 2024 - August 31, 2024",
     "subdivisions": [
       "Montréal Regional County Municipality"
     ],
@@ -247,7 +247,7 @@
   },
   {
     "region": "Quebec",
-    "period": "Pedestrian (backpack) locations for August 12, 2024 - August 31, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for August 08, 2024 - September 03, 2024",
     "subdivisions": [
       "Abitibi Ouest Regional County Municipality",
       "Abitibi Regional County Municipality",
@@ -348,7 +348,7 @@
       "Thérèse De Blainville Regional County Municipality",
       "Vaudreuil Soulanges Regional County Municipality"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Saskatchewan",

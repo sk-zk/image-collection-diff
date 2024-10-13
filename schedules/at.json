@@ -34,7 +34,7 @@
   },
   {
     "region": "Niederösterreich",
-    "period": "Wo wir zu Fuß (Rucksack) erfassen: 10. Mai 2024 - 19. Juni 2024\n                                \n                                   (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 10. Mai 2024 - 19. Juni 2024",
     "subdivisions": [
       "Mödling",
       "Tulln an der Donau"
@@ -43,7 +43,7 @@
   },
   {
     "region": "Niederösterreich",
-    "period": "Wo wir zu Fuß (Rucksack) erfassen: 10. Mai 2024 - 19. Juni 2024\n                                \n                                   (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
+    "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 24. Juni 2024 - 12. August 2024",
     "subdivisions": [
       "Amstetten",
       "Baden",
@@ -70,7 +70,7 @@
       "Weiner Neustadt-Stadt",
       "Zwettl"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Ober­österreich",
@@ -159,7 +159,7 @@
   },
   {
     "region": "Wien",
-    "period": "Wo wir zu Fuß (Rucksack) erfassen: 10. Mai 2024 - 19. Juni 2024\n                                \n                                   (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 10. Mai 2024 - 19. Juni 2024",
     "subdivisions": [
       "Wien"
     ],
@@ -167,10 +167,10 @@
   },
   {
     "region": "Wien",
-    "period": "Wo wir zu Fuß (Rucksack) erfassen: 10. Mai 2024 - 19. Juni 2024\n                                \n                                   (Klicken Sie auf die Links unten um eine Kartenansicht anzuzeigen)",
+    "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 24. Juni 2024 - 12. August 2024",
     "subdivisions": [
       "Wien"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   }
 ]

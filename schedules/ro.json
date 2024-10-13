@@ -1,17 +1,18 @@
 [
   {
     "region": "București - Ilfov",
-    "period": "Locații pietonale (cu rucsacul) pentru 10 Septembrie 2024 - 11 Octombrie 2024\n                                \n                                   Faceți click pe Linkuri de mai jos pentru Vizualizare hartă",
+    "period": "Locații pietonale (cu rucsacul) pentru 10 Septembrie 2024 - 11 Octombrie 2024",
     "subdivisions": [
       "București - Ilfov"
     ]
   },
   {
     "region": "București - Ilfov",
-    "period": "Locații pietonale (cu rucsacul) pentru 10 Septembrie 2024 - 11 Octombrie 2024\n                                \n                                   Faceți click pe Linkuri de mai jos pentru Vizualizare hartă",
+    "period": "Locațiile vehiculelor pentru 25 Iulie 2024 - 15 Octombrie 2024",
     "subdivisions": [
       "București - Ilfov"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Centru",

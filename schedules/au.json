@@ -1,7 +1,7 @@
 [
   {
     "region": "Australian Capital Territory",
-    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025",
     "subdivisions": [
       "Australian Capital Territory"
     ],
@@ -9,15 +9,15 @@
   },
   {
     "region": "Australian Capital Territory",
-    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for October 01, 2024 - January 31, 2025",
     "subdivisions": [
       "Australian Capital Territory"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "New South Wales",
-    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025",
     "subdivisions": [
       "Blacktown",
       "Burwood",
@@ -49,15 +49,15 @@
   },
   {
     "region": "New South Wales",
-    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for November 01, 2023 - September 30, 2024",
     "subdivisions": [
       "Sydney"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "New South Wales",
-    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for October 01, 2024 - January 31, 2025",
     "subdivisions": [
       "Albury",
       "Armidale Regional",
@@ -142,11 +142,11 @@
       "Woollahra",
       "Yass Valley"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Queensland",
-    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025",
     "subdivisions": [
       "Brisbane",
       "Gold Coast"
@@ -155,7 +155,7 @@
   },
   {
     "region": "Queensland",
-    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for October 01, 2024 - January 31, 2025",
     "subdivisions": [
       "Banana",
       "Barcaldine",
@@ -192,11 +192,11 @@
       "Western Downs",
       "Whitsunday"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "South Australia",
-    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025",
     "subdivisions": [
       "Adelaide",
       "Burnside",
@@ -213,7 +213,7 @@
   },
   {
     "region": "South Australia",
-    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for October 01, 2024 - January 31, 2025",
     "subdivisions": [
       "Adelaide",
       "Adelaide Hills",
@@ -257,11 +257,11 @@
       "Whyalla",
       "Wudinna"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Victoria",
-    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025",
     "subdivisions": [
       "Bayside Casey",
       "Boroondara",
@@ -282,7 +282,7 @@
   },
   {
     "region": "Victoria",
-    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for October 01, 2024 - January 31, 2025",
     "subdivisions": [
       "Alpine",
       "Ararat",
@@ -347,11 +347,11 @@
       "Yarra Ranges",
       "Yarriambiack"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Western Australia",
-    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025",
     "subdivisions": [
       "Cambridge",
       "Fremantle",
@@ -365,7 +365,7 @@
   },
   {
     "region": "Western Australia",
-    "period": "Pedestrian (backpack) locations for October 01, 2024 - January 31, 2025\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for October 01, 2024 - January 31, 2025",
     "subdivisions": [
       "Albany",
       "Armadale",
@@ -439,6 +439,6 @@
       "Woodanilling",
       "Yilgarn"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   }
 ]

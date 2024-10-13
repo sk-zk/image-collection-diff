@@ -33,7 +33,7 @@
   },
   {
     "region": "Campania",
-    "period": "Posizione del rilevamento con apparati a spalla periodo 22 Aprile 2024 - 24 Maggio 2024\n                                \n                                   (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 22 Aprile 2024 - 24 Maggio 2024",
     "subdivisions": [
       "Napoli"
     ],
@@ -41,7 +41,7 @@
   },
   {
     "region": "Campania",
-    "period": "Posizione del rilevamento con apparati a spalla periodo 22 Aprile 2024 - 24 Maggio 2024\n                                \n                                   (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "period": "Posizione dei veicoli di rilevamento periodo 14 Febbraio 2024 - 29 Aprile 2024",
     "subdivisions": [
       "Avellino",
       "Benevento",
@@ -49,7 +49,7 @@
       "Napoli",
       "Salerno"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Emilia-Romagna",
@@ -80,7 +80,7 @@
   },
   {
     "region": "Lazio",
-    "period": "Posizione del rilevamento con apparati a spalla periodo 04 Aprile 2024 - 02 Agosto 2024\n                                \n                                   (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 04 Aprile 2024 - 02 Agosto 2024",
     "subdivisions": [
       "Roma"
     ],
@@ -88,22 +88,22 @@
   },
   {
     "region": "Lazio",
-    "period": "Posizione del rilevamento con apparati a spalla periodo 04 Aprile 2024 - 02 Agosto 2024\n                                \n                                   (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "period": "Posizione dei veicoli di rilevamento periodo 11 Marzo 2024 - 04 Maggio 2024",
     "subdivisions": [
       "Rieti",
       "Viterbo"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Lazio",
-    "period": "Posizione del rilevamento con apparati a spalla periodo 04 Aprile 2024 - 02 Agosto 2024\n                                \n                                   (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "period": "Posizione dei veicoli di rilevamento periodo 11 Marzo 2024 - 29 Marzo 2024",
     "subdivisions": [
       "Frosinone",
       "Latina",
       "Roma"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Liguria",
@@ -118,7 +118,7 @@
   },
   {
     "region": "Lombardia",
-    "period": "Posizione del rilevamento con apparati a spalla periodo 25 Marzo 2024 - 29 Aprile 2024\n                                \n                                   (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 25 Marzo 2024 - 29 Aprile 2024",
     "subdivisions": [
       "Milano"
     ],
@@ -126,7 +126,7 @@
   },
   {
     "region": "Lombardia",
-    "period": "Posizione del rilevamento con apparati a spalla periodo 25 Marzo 2024 - 29 Aprile 2024\n                                \n                                   (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 02 Aprile 2024 - 01 Maggio 2024",
     "subdivisions": [
       "Como"
     ],
@@ -134,15 +134,15 @@
   },
   {
     "region": "Lombardia",
-    "period": "Posizione del rilevamento con apparati a spalla periodo 25 Marzo 2024 - 29 Aprile 2024\n                                \n                                   (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "period": "Posizione dei veicoli di rilevamento periodo 09 Aprile 2024 - 05 Luglio 2024",
     "subdivisions": [
       "Mantova"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Lombardia",
-    "period": "Posizione del rilevamento con apparati a spalla periodo 25 Marzo 2024 - 29 Aprile 2024\n                                \n                                   (Fare clic sui collegamenti sottostanti per una visualizzazione della mappa)",
+    "period": "Posizione dei veicoli di rilevamento periodo 27 Maggio 2024 - 05 Luglio 2024",
     "subdivisions": [
       "Bergamo",
       "Brescia",
@@ -156,7 +156,7 @@
       "Sondrio",
       "Varese"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Marche",

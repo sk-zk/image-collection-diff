@@ -1,7 +1,7 @@
 [
   {
     "region": "Central Region",
-    "period": "Pedestrian (backpack) locations for May 13, 2024 - June 02, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for May 13, 2024 - June 02, 2024",
     "subdivisions": [
       "Attard",
       "Balzan",
@@ -16,7 +16,7 @@
   },
   {
     "region": "Central Region",
-    "period": "Pedestrian (backpack) locations for May 13, 2024 - June 02, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for February 14, 2024 - March 05, 2024",
     "subdivisions": [
       "Attard",
       "Balzan",
@@ -32,7 +32,7 @@
       "Sliema",
       "Xbiex"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Gozo Region",
@@ -57,7 +57,7 @@
   },
   {
     "region": "Northern Region",
-    "period": "Pedestrian (backpack) locations for May 13, 2024 - June 02, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for May 13, 2024 - June 02, 2024",
     "subdivisions": [
       "Mdina",
       "Mellieħa",
@@ -70,15 +70,15 @@
   },
   {
     "region": "Northern Region",
-    "period": "Pedestrian (backpack) locations for May 13, 2024 - June 02, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for February 14, 2024 - March 01, 2024",
     "subdivisions": [
       "Swieqi"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Northern Region",
-    "period": "Pedestrian (backpack) locations for May 13, 2024 - June 02, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for February 14, 2024 - March 05, 2024",
     "subdivisions": [
       "Dingli",
       "Għargħur",
@@ -92,11 +92,11 @@
       "Rabat",
       "St Paul's Bay"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "South Eastern Region",
-    "period": "Pedestrian (backpack) locations for May 13, 2024 - June 02, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for May 13, 2024 - June 02, 2024",
     "subdivisions": [
       "Birgu",
       "Cospicua",
@@ -114,7 +114,7 @@
   },
   {
     "region": "South Eastern Region",
-    "period": "Pedestrian (backpack) locations for May 13, 2024 - June 02, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for February 14, 2024 - March 05, 2024",
     "subdivisions": [
       "Birgu",
       "Cospicua",
@@ -131,11 +131,11 @@
       "Żabbar",
       "Żejtun"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Southern Region",
-    "period": "Pedestrian (backpack) locations for May 13, 2024 - June 02, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for May 13, 2024 - June 02, 2024",
     "subdivisions": [
       "Birżebbuġa",
       "Qrendi",
@@ -146,7 +146,7 @@
   },
   {
     "region": "Southern Region",
-    "period": "Pedestrian (backpack) locations for May 13, 2024 - June 02, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for February 14, 2024 - March 05, 2024",
     "subdivisions": [
       "Birżebbuġa",
       "Gudja",
@@ -163,6 +163,6 @@
       "Żurrieq",
       "Ħamrun"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   }
 ]

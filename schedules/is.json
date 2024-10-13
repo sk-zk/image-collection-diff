@@ -1,7 +1,7 @@
 [
   {
     "region": "Capital Region",
-    "period": "Pedestrian (backpack) locations for July 29, 2024 - August 30, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Pedestrian (backpack) locations for July 29, 2024 - August 30, 2024",
     "subdivisions": [
       "Reykjavík"
     ],
@@ -9,7 +9,7 @@
   },
   {
     "region": "Capital Region",
-    "period": "Pedestrian (backpack) locations for July 29, 2024 - August 30, 2024\n                                \n                                   (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for August 02, 2024 - September 07, 2024",
     "subdivisions": [
       "Garðabær",
       "Hafnarfjörður",
@@ -19,7 +19,7 @@
       "Reykjavík",
       "Seltjarnarnes"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Eastern Region",

@@ -1,7 +1,7 @@
 [
   {
     "region": "Brussel",
-    "period": "Voetgangerlocaties (rugzak) voor 26 juli 2024 - 21 augustus 2024\n                                \n                                   (klik op de onderstaande links voor een kaart)",
+    "period": "Voetgangerlocaties (rugzak) voor 26 juli 2024 - 21 augustus 2024",
     "subdivisions": [
       "Brussels Hoofdstedelijk Gewest"
     ],
@@ -9,15 +9,15 @@
   },
   {
     "region": "Brussel",
-    "period": "Voetgangerlocaties (rugzak) voor 26 juli 2024 - 21 augustus 2024\n                                \n                                   (klik op de onderstaande links voor een kaart)",
+    "period": "Voertuiglocaties voor 15 juli 2024 - 19 augustus 2024",
     "subdivisions": [
       "Brussels Hoofdstedelijk Gewest"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Vlaanderen",
-    "period": "Voetgangerlocaties (rugzak) voor 26 juli 2024 - 21 augustus 2024\n                                \n                                   (klik op de onderstaande links voor een kaart)",
+    "period": "Voetgangerlocaties (rugzak) voor 26 juli 2024 - 21 augustus 2024",
     "subdivisions": [
       "Vlaams Brabant"
     ],
@@ -25,7 +25,7 @@
   },
   {
     "region": "Vlaanderen",
-    "period": "Voetgangerlocaties (rugzak) voor 26 juli 2024 - 21 augustus 2024\n                                \n                                   (klik op de onderstaande links voor een kaart)",
+    "period": "Voertuiglocaties voor 15 juli 2024 - 19 augustus 2024",
     "subdivisions": [
       "Antwerpen",
       "Limburg",
@@ -33,7 +33,7 @@
       "Vlaams Brabant",
       "West-Vlaanderen"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   },
   {
     "region": "Wallonië",

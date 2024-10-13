@@ -1,7 +1,7 @@
 [
   {
     "region": "Île-de-France",
-    "period": "Zones piétonnes (sac à dos) sur la période 25 mars 2024 - 19 avril 2024\n                                \n                                   (Cliquez sur les liens ci-dessous pour voir les lieux sur une carte.)",
+    "period": "Zones piétonnes (sac à dos) sur la période 25 mars 2024 - 19 avril 2024",
     "subdivisions": [
       "Hauts-de-Seine",
       "Paris",
@@ -14,7 +14,7 @@
   },
   {
     "region": "Île-de-France",
-    "period": "Zones piétonnes (sac à dos) sur la période 25 mars 2024 - 19 avril 2024\n                                \n                                   (Cliquez sur les liens ci-dessous pour voir les lieux sur une carte.)",
+    "period": "Lieux de passage des véhicules sur la période 18 juin 2024 - 30 juin 2024",
     "subdivisions": [
       "Essonne",
       "Hauts-de-Seine",
@@ -25,6 +25,6 @@
       "Val-de-Marne",
       "Yvelines"
     ],
-    "type": "backpack"
+    "type": "vehicle"
   }
 ]
