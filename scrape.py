@@ -62,7 +62,7 @@ def extract_detailed_schedule(soup) -> List[dict]:
         collections = section.find_all(class_="dl-level-2")
 
         for collection in collections:
-            period = section.find("h5").text.strip()
+            period = collection.find("h5").text.strip()
             camera_type = get_camera_type_from_heading(period)
             subdivision_tags = collection.find_all("span", class_="dl-level-name")
             subdivisions = []
