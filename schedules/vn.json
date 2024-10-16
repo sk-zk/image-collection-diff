@@ -1,7 +1,7 @@
 [
   {
     "region": "Central Highlands",
-    "period": "Vehicle locations for August 30, 2024 - October 24, 2024",
+    "period": "Vehicle locations for August 30, 2024 - February 28, 2025",
     "subdivisions": [
       "Dak Lak",
       "Dak Nong",
@@ -13,7 +13,7 @@
   },
   {
     "region": "Mekong River Delta",
-    "period": "Vehicle locations for July 24, 2024 - October 19, 2024",
+    "period": "Vehicle locations for July 24, 2024 - February 28, 2025",
     "subdivisions": [
       "An Giang",
       "Bac Lieu",
@@ -32,8 +32,21 @@
     "type": "vehicle"
   },
   {
+    "region": "North Central Coastal",
+    "period": "Vehicle locations for March 05, 2024 - February 28, 2025",
+    "subdivisions": [
+      "Ha Tinh",
+      "Nghe An",
+      "Quang Binh",
+      "Quang Tri",
+      "Thanh Hoa",
+      "Thua Thien-Hue"
+    ],
+    "type": "vehicle"
+  },
+  {
     "region": "Northeast",
-    "period": "Vehicle locations for July 30, 2024 - October 24, 2024",
+    "period": "Vehicle locations for July 30, 2024 - February 28, 2025",
     "subdivisions": [
       "Bac Giang",
       "Bac Kan",
@@ -49,7 +62,7 @@
   },
   {
     "region": "Northwest",
-    "period": "Vehicle locations for July 30, 2024 - October 24, 2024",
+    "period": "Vehicle locations for July 30, 2024 - February 28, 2025",
     "subdivisions": [
       "Dien Bien",
       "Hoa Binh",
@@ -62,7 +75,7 @@
   },
   {
     "region": "Red River Delta",
-    "period": "Vehicle locations for March 08, 2024 - July 30, 2024",
+    "period": "Vehicle locations for March 08, 2024 - February 28, 2025",
     "subdivisions": [
       "Bac Ninh",
       "Ha Nam",
@@ -94,7 +107,7 @@
   },
   {
     "region": "Southeast",
-    "period": "Vehicle locations for February 16, 2024 - July 24, 2024",
+    "period": "Vehicle locations for February 16, 2024 - February 28, 2025",
     "subdivisions": [
       "Ba Ria-Vung Tau",
       "Binh Duong",
