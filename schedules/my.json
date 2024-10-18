@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "region": "Selangor",
+    "period": "October 18, 2024 - December 31, 2024",
+    "type": "backpack"
+  },
+  {
+    "region": "Federal Territory of Kuala Lumpur",
+    "period": "October 18, 2024 - December 31, 2024",
+    "type": "backpack"
+  },
+  {
+    "region": "Melaka",
+    "period": "October 18, 2024 - December 31, 2024",
+    "type": "backpack"
+  },
+  {
+    "region": "Johor",
+    "period": "October 18, 2024 - December 31, 2024",
+    "type": "backpack"
+  },
+  {
+    "region": "Pulau Pinang",
+    "period": "October 18, 2024 - December 31, 2024",
+    "type": "backpack"
+  }
+]
