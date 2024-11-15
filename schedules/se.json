@@ -5,68 +5,8 @@
     "type": "backpack"
   },
   {
-    "region": "Blekinge",
-    "period": "13 Juni 2024 - 05 Augusti 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Dalarna",
-    "period": "18 Juni 2024 - 20 Augusti 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Gavleborg",
-    "period": "18 Juni 2024 - 20 Augusti 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Jamtland",
-    "period": "18 Juni 2024 - 20 Augusti 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Norrbotten",
-    "period": "18 Juni 2024 - 20 Augusti 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Orebro",
-    "period": "18 Juni 2024 - 20 Augusti 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Ostergotland",
-    "period": "13 Juni 2024 - 05 Augusti 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Sodermanland",
-    "period": "01 Juli 2024 - 05 Augusti 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Stockholm",
-    "period": "18 Juni 2024 - 31 December 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Varmland",
-    "period": "01 Juli 2024 - 05 Augusti 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Vasterbotten",
-    "period": "18 Juni 2024 - 20 Augusti 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Vasternorrland",
-    "period": "18 Juni 2024 - 20 Augusti 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Vastmanland",
-    "period": "18 Juni 2024 - 20 Augusti 2024",
+    "region": "Vastra Gotaland",
+    "period": "19 November 2024 - 21 November 2024",
     "type": "vehicle"
   }
 ]
