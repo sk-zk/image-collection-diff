@@ -1,5 +1,40 @@
 [
   {
+    "region": "Delhi",
+    "period": "November 18, 2024 - March 31, 2025",
+    "type": "ipad"
+  },
+  {
+    "region": "Gujarat",
+    "period": "November 18, 2024 - March 31, 2025",
+    "type": "ipad"
+  },
+  {
+    "region": "Karnataka",
+    "period": "November 18, 2024 - March 31, 2025",
+    "type": "ipad"
+  },
+  {
+    "region": "Maharashtra",
+    "period": "November 18, 2024 - March 31, 2025",
+    "type": "ipad"
+  },
+  {
+    "region": "Tamil Nadu",
+    "period": "November 18, 2024 - March 31, 2025",
+    "type": "ipad"
+  },
+  {
+    "region": "Telangana",
+    "period": "November 18, 2024 - March 31, 2025",
+    "type": "ipad"
+  },
+  {
+    "region": "West Bengal",
+    "period": "November 18, 2024 - March 31, 2025",
+    "type": "ipad"
+  },
+  {
     "region": "Andhra Pradesh",
     "period": "May 01, 2024 - August 31, 2024",
     "type": "vehicle"
