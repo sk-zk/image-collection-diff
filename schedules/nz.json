@@ -1,43 +1,88 @@
 [
   {
     "region": "Auckland",
-    "period": "Pedestrian (backpack) locations for January 01, 2024 - February 28, 2024 - (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for January 01, 2025 - March 31, 2025",
     "subdivisions": [
-      "Auckland"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Auckland",
-    "period": "Vehicle locations for December 01, 2023 - February 28, 2024",
-    "subdivisions": [
-      "Auckland"
+      "Auckland",
+      "Far North District",
+      "Hamilton City",
+      "Hauraki District",
+      "Kaipara District",
+      "Kawerau District",
+      "Matamata-Piako District",
+      "Opotiki District",
+      "Otorohanga District",
+      "Rotorua District",
+      "South Waikato District",
+      "Taupo District",
+      "Tauranga City",
+      "Thames-Coromandel District",
+      "Waikato District",
+      "Waipa District",
+      "Waitomo District",
+      "Western Bay of Plenty District",
+      "Whakatane District",
+      "Whangarei District"
     ],
     "type": "vehicle"
   },
   {
     "region": "Christchurch",
-    "period": "Vehicle locations for December 01, 2023 - February 28, 2024",
+    "period": "Vehicle locations for January 01, 2025 - March 31, 2025",
     "subdivisions": [
-      "Christchurch City"
+      "Ashburton District",
+      "Buller District",
+      "Central Otago District",
+      "Christchurch City",
+      "Clutha District",
+      "Dunedin City",
+      "Gore District",
+      "Grey District",
+      "Hurunui District",
+      "Invercargill City",
+      "Kaikoura District",
+      "Mackenzie District",
+      "Marlborough District",
+      "Nelson City",
+      "Queenstown-Lakes District",
+      "Selwyn District",
+      "Southland District",
+      "Tasman District",
+      "Timaru District",
+      "Waimakariri District",
+      "Waimate District",
+      "Waitaki District",
+      "Westland District"
     ],
     "type": "vehicle"
   },
   {
     "region": "Wellington",
-    "period": "Pedestrian (backpack) locations for January 01, 2024 - February 28, 2024 - (Click the Link(s) Below for a Map View)",
+    "period": "Vehicle locations for January 01, 2025 - March 31, 2025",
     "subdivisions": [
-      "Wellington City"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Wellington",
-    "period": "Vehicle locations for December 01, 2023 - February 28, 2024",
-    "subdivisions": [
+      "Carterton District",
+      "Central Hawke's Bay District",
+      "Gisborne District",
+      "Hastings District",
+      "Horowhenua District",
+      "Kapiti Coast District",
       "Lower Hutt City",
+      "Manawatu District",
+      "Masterton District",
+      "Napier City",
+      "New Plymouth District",
+      "Palmerston North City",
       "Porirua City",
-      "Wellington City"
+      "Rangitikei District",
+      "Ruapehu District",
+      "South Taranaki District",
+      "South Wairarapa District",
+      "Stratford District",
+      "Tararua District",
+      "Upper Hutt City",
+      "Wairoa District",
+      "Wellington City",
+      "Whanganui District"
     ],
     "type": "vehicle"
   }
