@@ -1,7 +1,7 @@
 [
   {
     "region": "Alabama",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Autauga County",
       "Baldwin County",
@@ -75,7 +75,7 @@
   },
   {
     "region": "Alaska",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Aleutians East Borough",
       "Aleutians West Census Area",
@@ -111,15 +111,7 @@
   },
   {
     "region": "Arizona",
-    "period": "Pedestrian (backpack) locations for April 10, 2024 - May 05, 2024",
-    "subdivisions": [
-      "Maricopa County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Arizona",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Apache County",
       "Cochise County",
@@ -141,7 +133,7 @@
   },
   {
     "region": "Arkansas",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Arkansas County",
       "Ashley County",
@@ -223,7 +215,7 @@
   },
   {
     "region": "California",
-    "period": "Pedestrian (backpack) locations for January 01, 2024 - December 31, 2024",
+    "period": "Pedestrian (backpack) locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Alameda County",
       "San Francisco County",
@@ -235,21 +227,7 @@
   },
   {
     "region": "California",
-    "period": "Pedestrian (backpack) locations for February 01, 2024 - September 30, 2024",
-    "subdivisions": [
-      "Los Angeles County",
-      "Napa County",
-      "Orange County",
-      "Sacramento County",
-      "San Diego County",
-      "Santa Barbara County",
-      "Sonoma County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "California",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Alameda County",
       "Alpine County",
@@ -314,15 +292,7 @@
   },
   {
     "region": "Colorado",
-    "period": "Pedestrian (backpack) locations for June 20, 2024 - July 30, 2024",
-    "subdivisions": [
-      "Denver County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Colorado",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adams County",
       "Alamosa County",
@@ -394,7 +364,7 @@
   },
   {
     "region": "Connecticut",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Fairfield County",
       "Hartford County",
@@ -409,7 +379,7 @@
   },
   {
     "region": "Delaware",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Kent County",
       "New Castle County",
@@ -419,15 +389,7 @@
   },
   {
     "region": "District of Columbia",
-    "period": "Pedestrian (backpack) locations for July 30, 2024 - September 01, 2024",
-    "subdivisions": [
-      "Washington, D.C"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "District of Columbia",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Washington, D.C"
     ],
@@ -435,24 +397,7 @@
   },
   {
     "region": "Florida",
-    "period": "Pedestrian (backpack) locations for March 10, 2024 - April 10, 2024",
-    "subdivisions": [
-      "Hillsborough County",
-      "Miami-Dade County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Florida",
-    "period": "Pedestrian (backpack) locations for March 10, 2024 - May 01, 2024",
-    "subdivisions": [
-      "Orange County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Florida",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Alachua County",
       "Baker County",
@@ -526,7 +471,7 @@
   },
   {
     "region": "Georgia",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Appling County",
       "Atkinson County",
@@ -692,7 +637,7 @@
   },
   {
     "region": "Hawaii",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Hawaii County",
       "Honolulu County",
@@ -704,7 +649,7 @@
   },
   {
     "region": "Idaho",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Ada County",
       "Adams County",
@@ -755,15 +700,7 @@
   },
   {
     "region": "Illinois",
-    "period": "Pedestrian (backpack) locations for July 01, 2024 - August 20, 2024",
-    "subdivisions": [
-      "Cook County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Illinois",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adams County",
       "Alexander County",
@@ -872,7 +809,7 @@
   },
   {
     "region": "Indiana",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adams County",
       "Allen County",
@@ -971,7 +908,7 @@
   },
   {
     "region": "Iowa",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adair County",
       "Adams County",
@@ -1077,7 +1014,7 @@
   },
   {
     "region": "Kansas",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Allen County",
       "Anderson County",
@@ -1189,7 +1126,7 @@
   },
   {
     "region": "Kentucky",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adair County",
       "Allen County",
@@ -1316,7 +1253,7 @@
   },
   {
     "region": "Louisiana",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Acadia Parish",
       "Allen Parish",
@@ -1387,7 +1324,7 @@
   },
   {
     "region": "Maine",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Androscoggin County",
       "Aroostook County",
@@ -1410,7 +1347,7 @@
   },
   {
     "region": "Maryland",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Allegany County",
       "Anne Arundel County",
@@ -1441,15 +1378,7 @@
   },
   {
     "region": "Massachusetts",
-    "period": "Pedestrian (backpack) locations for August 20, 2024 - September 30, 2024",
-    "subdivisions": [
-      "Suffolk County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Massachusetts",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Barnstable County",
       "Berkshire County",
@@ -1470,15 +1399,7 @@
   },
   {
     "region": "Michigan",
-    "period": "Pedestrian (backpack) locations for June 20, 2024 - July 30, 2024",
-    "subdivisions": [
-      "Wayne County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Michigan",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Alcona County",
       "Alger County",
@@ -1568,15 +1489,7 @@
   },
   {
     "region": "Minnesota",
-    "period": "Pedestrian (backpack) locations for June 20, 2024 - July 30, 2024",
-    "subdivisions": [
-      "Hennepin County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Minnesota",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Aitkin County",
       "Anoka County",
@@ -1670,7 +1583,7 @@
   },
   {
     "region": "Mississippi",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adams County",
       "Alcorn County",
@@ -1759,7 +1672,7 @@
   },
   {
     "region": "Missouri",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adair County",
       "Andrew County",
@@ -1881,7 +1794,7 @@
   },
   {
     "region": "Montana",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Beaverhead County",
       "Big Horn County",
@@ -1944,7 +1857,7 @@
   },
   {
     "region": "Nebraska",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adams County",
       "Antelope County",
@@ -2044,15 +1957,7 @@
   },
   {
     "region": "Nevada",
-    "period": "Pedestrian (backpack) locations for April 15, 2024 - May 20, 2024",
-    "subdivisions": [
-      "Clark County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Nevada",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Carson City",
       "Churchill County",
@@ -2076,7 +1981,7 @@
   },
   {
     "region": "New Hampshire",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Belknap County",
       "Carroll County",
@@ -2093,7 +1998,7 @@
   },
   {
     "region": "New Jersey",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Atlantic County",
       "Bergen County",
@@ -2121,7 +2026,7 @@
   },
   {
     "region": "New Mexico",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Bernalillo County",
       "Catron County",
@@ -2161,19 +2066,7 @@
   },
   {
     "region": "New York",
-    "period": "Pedestrian (backpack) locations for August 10, 2024 - September 30, 2024",
-    "subdivisions": [
-      "Bronx County",
-      "Kings County",
-      "New York County",
-      "Queens County",
-      "Richmond County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "New York",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Albany County",
       "Allegany County",
@@ -2242,23 +2135,7 @@
   },
   {
     "region": "North Carolina",
-    "period": "Pedestrian (backpack) locations for June 01, 2024 - July 14, 2024",
-    "subdivisions": [
-      "Wake County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "North Carolina",
-    "period": "Pedestrian (backpack) locations for July 20, 2024 - August 30, 2024",
-    "subdivisions": [
-      "Mecklenburg County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "North Carolina",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Alamance County",
       "Alexander County",
@@ -2365,7 +2242,7 @@
   },
   {
     "region": "North Dakota",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adams County",
       "Barnes County",
@@ -2425,16 +2302,7 @@
   },
   {
     "region": "Ohio",
-    "period": "Pedestrian (backpack) locations for July 10, 2024 - August 25, 2024",
-    "subdivisions": [
-      "Cuyahoga County",
-      "Hamilton County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Ohio",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adams County",
       "Allen County",
@@ -2529,7 +2397,7 @@
   },
   {
     "region": "Oklahoma",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adair County",
       "Alfalfa County",
@@ -2613,7 +2481,7 @@
   },
   {
     "region": "Oregon",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Baker County",
       "Benton County",
@@ -2656,15 +2524,7 @@
   },
   {
     "region": "Pennsylvania",
-    "period": "Pedestrian (backpack) locations for August 01, 2024 - September 20, 2024",
-    "subdivisions": [
-      "Philadelphia County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Pennsylvania",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adams County",
       "Allegheny County",
@@ -2738,7 +2598,7 @@
   },
   {
     "region": "Puerto Rico",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adjuntas Municipio",
       "Aguada Municipio",
@@ -2823,7 +2683,7 @@
   },
   {
     "region": "Rhode Island",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Bristol County",
       "Kent County",
@@ -2835,7 +2695,7 @@
   },
   {
     "region": "South Carolina",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Abbeville County",
       "Aiken County",
@@ -2888,7 +2748,7 @@
   },
   {
     "region": "South Dakota",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Aurora County",
       "Beadle County",
@@ -2961,7 +2821,7 @@
   },
   {
     "region": "Tennessee",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Anderson County",
       "Bedford County",
@@ -3063,18 +2923,7 @@
   },
   {
     "region": "Texas",
-    "period": "Pedestrian (backpack) locations for March 10, 2024 - May 10, 2024",
-    "subdivisions": [
-      "Bexar County",
-      "Dallas County",
-      "Harris County",
-      "Travis County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Texas",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Anderson County",
       "Andrews County",
@@ -3335,7 +3184,7 @@
   },
   {
     "region": "United States Virgin Islands",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "St. Croix Island"
     ],
@@ -3343,7 +3192,7 @@
   },
   {
     "region": "Utah",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Beaver County",
       "Box Elder County",
@@ -3379,7 +3228,7 @@
   },
   {
     "region": "Vermont",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Addison County",
       "Bennington County",
@@ -3400,7 +3249,7 @@
   },
   {
     "region": "Virginia",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Accomack County",
       "Albemarle County",
@@ -3540,15 +3389,7 @@
   },
   {
     "region": "Washington",
-    "period": "Pedestrian (backpack) locations for May 01, 2024 - July 20, 2024",
-    "subdivisions": [
-      "King County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Washington",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adams County",
       "Asotin County",
@@ -3594,7 +3435,7 @@
   },
   {
     "region": "West Virginia",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Barbour County",
       "Berkeley County",
@@ -3656,7 +3497,7 @@
   },
   {
     "region": "Wisconsin",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Adams County",
       "Ashland County",
@@ -3735,7 +3576,7 @@
   },
   {
     "region": "Wyoming",
-    "period": "Vehicle locations for January 01, 2024 - December 31, 2024",
+    "period": "Vehicle locations for December 01, 2024 - December 31, 2025",
     "subdivisions": [
       "Albany County",
       "Big Horn County",
