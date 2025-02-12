@@ -1,92 +1,10 @@
 [
   {
-    "region": "Espace Mittelland",
-    "period": "Lieux de passage des véhicules sur la période 18 juillet 2022 - 08 août 2022",
-    "subdivisions": [
-      "Soleure"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Espace Mittelland",
-    "period": "Lieux de passage des véhicules sur la période 25 juillet 2024 - 10 septembre 2024",
-    "subdivisions": [
-      "Berne",
-      "Fribourg",
-      "Jura",
-      "Neuchâtel"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Région lémanique",
-    "period": "Lieux de passage des véhicules sur la période 25 juillet 2024 - 10 septembre 2024",
-    "subdivisions": [
-      "Genève",
-      "Valais",
-      "Vaud"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Suisse centrale",
-    "period": "Lieux de passage des véhicules sur la période 25 juillet 2024 - 10 septembre 2024",
-    "subdivisions": [
-      "Lucerne",
-      "Nidwald",
-      "Obwald",
-      "Schwytz",
-      "Uri",
-      "Zoug"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Suisse du Nord-Ouest",
-    "period": "Lieux de passage des véhicules sur la période 25 juillet 2024 - 10 septembre 2024",
-    "subdivisions": [
-      "Argovie",
-      "Bâle-Campagne",
-      "Bâle-Ville"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Suisse orientale",
-    "period": "Lieux de passage des véhicules sur la période 25 juillet 2024 - 10 septembre 2024",
-    "subdivisions": [
-      "Appenzell Rhodes-Extérieures",
-      "Appenzell Rhodes-Intérieures",
-      "Glaris",
-      "Grisons",
-      "Saint-Gall",
-      "Schaffhouse",
-      "Thurgovie"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Tessin",
-    "period": "Lieux de passage des véhicules sur la période 25 juillet 2024 - 10 septembre 2024",
-    "subdivisions": [
-      "Tessin"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Zurich",
-    "period": "Zones piétonnes (sac à dos) sur la période 16 décembre 2024 - 05 janvier 2025",
+    "period": "Zones piétonnes (sac à dos) sur la période 10 février 2025 - 31 décembre 2025",
     "subdivisions": [
       "Zurich"
     ],
     "type": "backpack"
-  },
-  {
-    "region": "Zurich",
-    "period": "Lieux de passage des véhicules sur la période 25 juillet 2024 - 10 septembre 2024",
-    "subdivisions": [
-      "Zurich"
-    ],
-    "type": "vehicle"
   }
 ]
