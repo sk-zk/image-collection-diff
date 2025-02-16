@@ -111,6 +111,22 @@
   },
   {
     "region": "Arizona",
+    "period": "Pedestrian (backpack) locations for June 05, 2025 - June 25, 2025",
+    "subdivisions": [
+      "Maricopa County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Arizona",
+    "period": "Pedestrian (backpack) locations for June 10, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Pima County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Arizona",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Apache County",
@@ -215,7 +231,7 @@
   },
   {
     "region": "California",
-    "period": "Pedestrian (backpack) locations for January 01, 2025 - December 31, 2025",
+    "period": "Pedestrian (backpack) locations for April 01, 2025 - May 30, 2025",
     "subdivisions": [
       "Alameda County",
       "San Francisco County",
@@ -292,6 +308,21 @@
   },
   {
     "region": "Colorado",
+    "period": "Pedestrian (backpack) locations for June 01, 2025 - July 12, 2025",
+    "subdivisions": [
+      "Adams County",
+      "Arapahoe County",
+      "Boulder County",
+      "City and County of Broomfield",
+      "Clear Creek County",
+      "Denver County",
+      "Jefferson County",
+      "Weld County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Colorado",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Adams County",
@@ -364,6 +395,15 @@
   },
   {
     "region": "Connecticut",
+    "period": "Pedestrian (backpack) locations for September 01, 2025 - September 30, 2025",
+    "subdivisions": [
+      "Hartford County",
+      "New Haven County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Connecticut",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Fairfield County",
@@ -389,11 +429,33 @@
   },
   {
     "region": "District of Columbia",
+    "period": "Pedestrian (backpack) locations for July 01, 2025 - August 15, 2025",
+    "subdivisions": [
+      "Washington, D.C"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "District of Columbia",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Washington, D.C"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Florida",
+    "period": "Pedestrian (backpack) locations for March 17, 2025 - May 30, 2025",
+    "subdivisions": [
+      "Duval County",
+      "Hillsborough County",
+      "Lee County",
+      "Miami-Dade County",
+      "Orange County",
+      "Palm Beach County",
+      "Sarasota County"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Florida",
@@ -468,6 +530,15 @@
       "Washington County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Georgia",
+    "period": "Pedestrian (backpack) locations for May 01, 2025 - June 30, 2025",
+    "subdivisions": [
+      "DeKalb County",
+      "Fulton County"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Georgia",
@@ -637,6 +708,14 @@
   },
   {
     "region": "Hawaii",
+    "period": "Pedestrian (backpack) locations for April 01, 2025 - May 15, 2025",
+    "subdivisions": [
+      "Honolulu County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Hawaii",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Hawaii County",
@@ -697,6 +776,14 @@
       "Washington County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Illinois",
+    "period": "Pedestrian (backpack) locations for August 01, 2025 - September 30, 2025",
+    "subdivisions": [
+      "Cook County"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Illinois",
@@ -806,6 +893,14 @@
       "Woodford County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Indiana",
+    "period": "Pedestrian (backpack) locations for June 01, 2025 - July 10, 2025",
+    "subdivisions": [
+      "Marion County"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Indiana",
@@ -1126,6 +1221,15 @@
   },
   {
     "region": "Kentucky",
+    "period": "Pedestrian (backpack) locations for May 01, 2025 - May 30, 2025",
+    "subdivisions": [
+      "Jefferson County",
+      "Knox County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Kentucky",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Adair County",
@@ -1347,6 +1451,15 @@
   },
   {
     "region": "Maryland",
+    "period": "Pedestrian (backpack) locations for July 01, 2025 - August 30, 2025",
+    "subdivisions": [
+      "Baltimore",
+      "Baltimore County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Maryland",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Allegany County",
@@ -1378,6 +1491,14 @@
   },
   {
     "region": "Massachusetts",
+    "period": "Pedestrian (backpack) locations for September 01, 2025 - September 30, 2025",
+    "subdivisions": [
+      "Suffolk County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Massachusetts",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Barnstable County",
@@ -1396,6 +1517,15 @@
       "Worcester County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Michigan",
+    "period": "Pedestrian (backpack) locations for July 01, 2025 - August 30, 2025",
+    "subdivisions": [
+      "Kent County",
+      "Wayne County"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Michigan",
@@ -1486,6 +1616,14 @@
       "Wexford County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Minnesota",
+    "period": "Pedestrian (backpack) locations for September 01, 2025 - September 30, 2025",
+    "subdivisions": [
+      "Hennepin County"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Minnesota",
@@ -1669,6 +1807,19 @@
       "Yazoo County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Missouri",
+    "period": "Pedestrian (backpack) locations for June 01, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Cass County",
+      "Clay County",
+      "Jackson County",
+      "Platte County",
+      "St. Louis",
+      "St. Louis County"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Missouri",
@@ -1957,6 +2108,14 @@
   },
   {
     "region": "Nevada",
+    "period": "Pedestrian (backpack) locations for June 01, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Clark County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Nevada",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Carson City",
@@ -2026,6 +2185,14 @@
   },
   {
     "region": "New Mexico",
+    "period": "Pedestrian (backpack) locations for June 20, 2025 - July 30, 2025",
+    "subdivisions": [
+      "Bernalillo County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "New Mexico",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Bernalillo County",
@@ -2063,6 +2230,19 @@
       "Valencia County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "New York",
+    "period": "Pedestrian (backpack) locations for August 01, 2025 - September 20, 2025",
+    "subdivisions": [
+      "Bronx County",
+      "Erie County",
+      "Monroe County",
+      "New York County",
+      "Queens County",
+      "Richmond County"
+    ],
+    "type": "backpack"
   },
   {
     "region": "New York",
@@ -2132,6 +2312,15 @@
       "Yates County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "North Carolina",
+    "period": "Pedestrian (backpack) locations for June 01, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Halifax County",
+      "Mecklenburg County"
+    ],
+    "type": "backpack"
   },
   {
     "region": "North Carolina",
@@ -2302,6 +2491,15 @@
   },
   {
     "region": "Ohio",
+    "period": "Pedestrian (backpack) locations for July 01, 2025 - August 10, 2025",
+    "subdivisions": [
+      "Franklin County",
+      "Montgomery County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Ohio",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Adams County",
@@ -2397,6 +2595,15 @@
   },
   {
     "region": "Oklahoma",
+    "period": "Pedestrian (backpack) locations for September 01, 2025 - September 30, 2025",
+    "subdivisions": [
+      "Oklahoma County",
+      "Tulsa County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Oklahoma",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Adair County",
@@ -2481,6 +2688,14 @@
   },
   {
     "region": "Oregon",
+    "period": "Pedestrian (backpack) locations for June 01, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Multnomah County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Oregon",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Baker County",
@@ -2521,6 +2736,16 @@
       "Yamhill County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Pennsylvania",
+    "period": "Pedestrian (backpack) locations for August 01, 2025 - August 30, 2025",
+    "subdivisions": [
+      "Allegheny County",
+      "Lehigh County",
+      "Philadelphia County"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Pennsylvania",
@@ -2683,6 +2908,14 @@
   },
   {
     "region": "Rhode Island",
+    "period": "Pedestrian (backpack) locations for September 01, 2025 - September 30, 2025",
+    "subdivisions": [
+      "Providence County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Rhode Island",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Bristol County",
@@ -2821,6 +3054,15 @@
   },
   {
     "region": "Tennessee",
+    "period": "Pedestrian (backpack) locations for May 01, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Davidson County",
+      "Shelby County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Tennessee",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Anderson County",
@@ -2920,6 +3162,21 @@
       "Wilson County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Texas",
+    "period": "Pedestrian (backpack) locations for July 01, 2025 - August 30, 2025",
+    "subdivisions": [
+      "Bexar County",
+      "Dallas County",
+      "El Paso County",
+      "Harris County",
+      "Hays County",
+      "Hidalgo County",
+      "Travis County",
+      "Williamson County"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Texas",
@@ -3192,6 +3449,14 @@
   },
   {
     "region": "Utah",
+    "period": "Pedestrian (backpack) locations for June 01, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Salt Lake County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Utah",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Beaver County",
@@ -3389,6 +3654,15 @@
   },
   {
     "region": "Washington",
+    "period": "Pedestrian (backpack) locations for May 01, 2025 - June 30, 2025",
+    "subdivisions": [
+      "King County",
+      "Thurston County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Washington",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Adams County",
@@ -3494,6 +3768,14 @@
       "Wyoming County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Wisconsin",
+    "period": "Pedestrian (backpack) locations for September 01, 2025 - September 30, 2025",
+    "subdivisions": [
+      "Milwaukee County"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Wisconsin",

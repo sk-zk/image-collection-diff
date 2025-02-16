@@ -1,1 +1,120 @@
-[]
+[
+  {
+    "region": "Central",
+    "period": "Pedestrian (backpack) locations for February 17, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Ang Mo Kio",
+      "Bishan-Toa Payoh",
+      "Jalan Besar",
+      "Tanjong Pagar"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Central",
+    "period": "Vehicle locations for February 17, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Ang Mo Kio",
+      "Bishan-Toa Payoh",
+      "Jalan Besar",
+      "Potong Pasir",
+      "Radin Mas",
+      "Sengkang West",
+      "Tanjong Pagar"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "North East",
+    "period": "Pedestrian (backpack) locations for February 17, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Aljunied",
+      "Pasir Ris Punggol",
+      "Punggol East",
+      "Tampines"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "North East",
+    "period": "Vehicle locations for February 17, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Aljunied",
+      "Hougang",
+      "Pasir Ris Punggol",
+      "Punggol East",
+      "Tampines"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "North West",
+    "period": "Pedestrian (backpack) locations for February 17, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Holland-Bukit Timah",
+      "Marsiling-Yew Tee",
+      "Nee Soon",
+      "Sembawang"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "North West",
+    "period": "Vehicle locations for February 17, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Bukit Panjang",
+      "Holland-Bukit Timah",
+      "Marsiling-Yew Tee",
+      "Nee Soon",
+      "Sembawang"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "South East",
+    "period": "Pedestrian (backpack) locations for February 17, 2025 - June 30, 2025",
+    "subdivisions": [
+      "MacPherson",
+      "Marine Parade",
+      "Mountbatten"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "South East",
+    "period": "Vehicle locations for February 17, 2025 - June 30, 2025",
+    "subdivisions": [
+      "East Coast",
+      "Fengshang",
+      "MacPherson",
+      "Marine Parade",
+      "Mountbatten"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "South West",
+    "period": "Pedestrian (backpack) locations for February 17, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Chua Chu Kang",
+      "Jurong",
+      "West Coast",
+      "Yuhua"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "South West",
+    "period": "Vehicle locations for February 17, 2025 - June 30, 2025",
+    "subdivisions": [
+      "Bukit Batok",
+      "Chua Chu Kang",
+      "Hong Kah North",
+      "Jurong",
+      "Pioneer",
+      "West Coast",
+      "Yuhua"
+    ],
+    "type": "vehicle"
+  }
+]
