@@ -1,5 +1,80 @@
 [
   {
+    "region": "Bihar",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Delhi",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Goa",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Gujarat",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Karnataka",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Kerala",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Madhya Pradesh",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Maharashtra",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Odisha",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Punjab",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Rajasthan",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Tamil Nadu",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Telangana",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Uttar Pradesh",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "West Bengal",
+    "period": "February 24, 2025 - June 30, 2025",
+    "type": "backpack"
+  },
+  {
     "region": "Delhi",
     "period": "November 18, 2024 - March 31, 2025",
     "type": "ipad"
@@ -92,6 +167,11 @@
   {
     "region": "Punjab",
     "period": "November 02, 2024 - February 28, 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Telangana",
+    "period": "February 24, 2025 - March 31, 2025",
     "type": "vehicle"
   },
   {
