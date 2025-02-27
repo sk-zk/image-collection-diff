@@ -116,22 +116,12 @@
   },
   {
     "region": "Assam",
-    "period": "March 01, 2025 - March 31, 2025",
+    "period": "February 19, 2025 - April 30, 2025",
     "type": "vehicle"
   },
   {
     "region": "Bihar",
-    "period": "March 01, 2025 - March 31, 2025",
-    "type": "vehicle"
-  },
-  {
-    "region": "Delhi",
-    "period": "November 23, 2024 - January 31, 2025",
-    "type": "vehicle"
-  },
-  {
-    "region": "Haryana",
-    "period": "November 20, 2024 - February 28, 2025",
+    "period": "February 28, 2025 - March 31, 2025",
     "type": "vehicle"
   },
   {
@@ -141,7 +131,7 @@
   },
   {
     "region": "Manipur",
-    "period": "March 01, 2025 - March 31, 2025",
+    "period": "February 19, 2025 - March 31, 2025",
     "type": "vehicle"
   },
   {
@@ -166,7 +156,7 @@
   },
   {
     "region": "Punjab",
-    "period": "November 02, 2024 - February 28, 2025",
+    "period": "November 02, 2024 - March 31, 2025",
     "type": "vehicle"
   },
   {
