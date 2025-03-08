@@ -1,20 +1,103 @@
 [
   {
-    "region": "Île-de-France",
-    "period": "Zones piétonnes (sac à dos) sur la période 25 mars 2024 - 19 avril 2024",
+    "region": "Auvergne-Rhône-Alpes",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
     "subdivisions": [
-      "Hauts-de-Seine",
-      "Paris",
-      "Seine-Saint-Denis",
-      "Seine-et-Marne",
-      "Val-de-Marne",
-      "Yvelines"
+      "Ain",
+      "Allier",
+      "Ardèche",
+      "Cantal",
+      "Drôme",
+      "Haute-Loire",
+      "Haute-Savoie",
+      "Isère",
+      "Loire",
+      "Puy de Dome",
+      "Rhône",
+      "Savoie"
     ],
-    "type": "backpack"
+    "type": "vehicle"
+  },
+  {
+    "region": "Bourgogne-Franche-Comté",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
+    "subdivisions": [
+      "Côte-d'Or",
+      "Doubs",
+      "Haute-Saône",
+      "Jura",
+      "Nièvre",
+      "Saône-et-Loire",
+      "Territoire de Belfort",
+      "Yonne"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Bretagne",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
+    "subdivisions": [
+      "Côtes-d'Armor",
+      "Finistère",
+      "Ille-et-Vilaine",
+      "Morbihan"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Centre-Val de Loire",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
+    "subdivisions": [
+      "Cher",
+      "Eure-et-Loir",
+      "Indre",
+      "Indre-et-Loire",
+      "Loir-et-Cher",
+      "Loiret"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Corse",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
+    "subdivisions": [
+      "Corse-du-Sud",
+      "Haute-Corse"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Grand Est",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
+    "subdivisions": [
+      "Ardennes",
+      "Aube",
+      "Bas-Rhin",
+      "Haut-Rhin",
+      "Haute-Marne",
+      "Marne",
+      "Meurthe-et-Moselle",
+      "Meuse",
+      "Moselle",
+      "Vosges"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Hauts-de-France",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
+    "subdivisions": [
+      "Aisne",
+      "Nord",
+      "Oise",
+      "Pas-de-Calais",
+      "Somme"
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Île-de-France",
-    "period": "Lieux de passage des véhicules sur la période 18 juin 2024 - 30 juin 2024",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
     "subdivisions": [
       "Essonne",
       "Hauts-de-Seine",
@@ -24,6 +107,82 @@
       "Val-d'Oise",
       "Val-de-Marne",
       "Yvelines"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Normandie",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
+    "subdivisions": [
+      "Calvados",
+      "Eure",
+      "Manche",
+      "Orne",
+      "Seine-Maritime"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Nouvelle-Aquitaine",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
+    "subdivisions": [
+      "Charente",
+      "Charente-Maritime",
+      "Corrèze",
+      "Creuse",
+      "Deux-Sèvres",
+      "Dordogne",
+      "Gironde",
+      "Haute-Vienne",
+      "Landes",
+      "Lot-et-Garonne",
+      "Pyrénées-Atlantiques",
+      "Vienne"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Occitanie",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
+    "subdivisions": [
+      "Ariège",
+      "Aude",
+      "Aveyron",
+      "Gard",
+      "Gers",
+      "Haute-Garonne",
+      "Hautes-Pyrénées",
+      "Hérault",
+      "Lot",
+      "Lozère",
+      "Pyrénées-Orientales",
+      "Tarn",
+      "Tarn-et-Garonne"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Pays de la Loire",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
+    "subdivisions": [
+      "Loire-Atlantique",
+      "Maine-et-Loire",
+      "Mayenne",
+      "Sarthe",
+      "Vendée"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Provence-Alpes-Côte d'Azur",
+    "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
+    "subdivisions": [
+      "Alpes-Maritimes",
+      "Alpes-de-Haute-Provence",
+      "Bouches-du-Rhône",
+      "Hautes-Alpes",
+      "Var",
+      "Vaucluse"
     ],
     "type": "vehicle"
   }

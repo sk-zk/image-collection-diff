@@ -1,7 +1,7 @@
 [
   {
     "region": "Abruzzo",
-    "period": "Posizione dei veicoli di rilevamento periodo 22 Aprile 2024 - 25 Maggio 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Chieti",
       "L'Aquila",
@@ -12,7 +12,7 @@
   },
   {
     "region": "Basilicata",
-    "period": "Posizione dei veicoli di rilevamento periodo 02 Aprile 2024 - 05 Aprile 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Matera",
       "Potenza"
@@ -21,7 +21,7 @@
   },
   {
     "region": "Calabria",
-    "period": "Posizione dei veicoli di rilevamento periodo 18 Marzo 2024 - 25 Marzo 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Catanzaro",
       "Cosenza",
@@ -33,7 +33,7 @@
   },
   {
     "region": "Campania",
-    "period": "Posizione del rilevamento con apparati a spalla periodo 22 Aprile 2024 - 24 Maggio 2024",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 31 Marzo 2025 - 29 Maggio 2025",
     "subdivisions": [
       "Napoli"
     ],
@@ -41,7 +41,7 @@
   },
   {
     "region": "Campania",
-    "period": "Posizione dei veicoli di rilevamento periodo 14 Febbraio 2024 - 29 Aprile 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Avellino",
       "Benevento",
@@ -53,7 +53,7 @@
   },
   {
     "region": "Emilia-Romagna",
-    "period": "Posizione dei veicoli di rilevamento periodo 14 Maggio 2024 - 09 Luglio 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Bologna",
       "Ferrara",
@@ -69,7 +69,7 @@
   },
   {
     "region": "Friuli-Venezia Giulia",
-    "period": "Posizione dei veicoli di rilevamento periodo 03 Aprile 2024 - 27 Giugno 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Gorizia",
       "Pordenone",
@@ -80,7 +80,7 @@
   },
   {
     "region": "Lazio",
-    "period": "Posizione del rilevamento con apparati a spalla periodo 04 Aprile 2024 - 02 Agosto 2024",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 31 Marzo 2025 - 29 Maggio 2025",
     "subdivisions": [
       "Roma"
     ],
@@ -88,26 +88,19 @@
   },
   {
     "region": "Lazio",
-    "period": "Posizione dei veicoli di rilevamento periodo 11 Marzo 2024 - 04 Maggio 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
+      "Frosinone",
+      "Latina",
       "Rieti",
+      "Roma",
       "Viterbo"
     ],
     "type": "vehicle"
   },
   {
-    "region": "Lazio",
-    "period": "Posizione dei veicoli di rilevamento periodo 11 Marzo 2024 - 29 Marzo 2024",
-    "subdivisions": [
-      "Frosinone",
-      "Latina",
-      "Roma"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Liguria",
-    "period": "Posizione dei veicoli di rilevamento periodo 02 Maggio 2024 - 10 Maggio 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Genova",
       "Imperia",
@@ -118,7 +111,7 @@
   },
   {
     "region": "Lombardia",
-    "period": "Posizione del rilevamento con apparati a spalla periodo 25 Marzo 2024 - 29 Aprile 2024",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 10 Aprile 2025 - 23 Maggio 2025",
     "subdivisions": [
       "Milano"
     ],
@@ -126,23 +119,7 @@
   },
   {
     "region": "Lombardia",
-    "period": "Posizione del rilevamento con apparati a spalla periodo 02 Aprile 2024 - 01 Maggio 2024",
-    "subdivisions": [
-      "Como"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Lombardia",
-    "period": "Posizione dei veicoli di rilevamento periodo 09 Aprile 2024 - 05 Luglio 2024",
-    "subdivisions": [
-      "Mantova"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Lombardia",
-    "period": "Posizione dei veicoli di rilevamento periodo 27 Maggio 2024 - 05 Luglio 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Bergamo",
       "Brescia",
@@ -150,6 +127,7 @@
       "Cremona",
       "Lecco",
       "Lodi",
+      "Mantova",
       "Milano",
       "Monza e Brianza",
       "Pavia",
@@ -160,7 +138,7 @@
   },
   {
     "region": "Marche",
-    "period": "Posizione dei veicoli di rilevamento periodo 25 Aprile 2024 - 13 Maggio 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Ancona",
       "Ascoli Piceno",
@@ -172,7 +150,7 @@
   },
   {
     "region": "Molise",
-    "period": "Posizione dei veicoli di rilevamento periodo 18 Aprile 2024 - 19 Aprile 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Campobasso",
       "Isernia"
@@ -181,7 +159,15 @@
   },
   {
     "region": "Piemonte",
-    "period": "Posizione dei veicoli di rilevamento periodo 13 Maggio 2024 - 27 Maggio 2024",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 31 Marzo 2025 - 07 Maggio 2025",
+    "subdivisions": [
+      "Torino"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Piemonte",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Alessandria",
       "Asti",
@@ -196,7 +182,7 @@
   },
   {
     "region": "Puglia",
-    "period": "Posizione dei veicoli di rilevamento periodo 25 Marzo 2024 - 18 Aprile 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Bari",
       "Barletta-Andria-Trani",
@@ -209,7 +195,7 @@
   },
   {
     "region": "Sardegna",
-    "period": "Posizione dei veicoli di rilevamento periodo 02 Aprile 2024 - 09 Aprile 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Cagliari",
       "Carbonia-Iglesias",
@@ -224,7 +210,7 @@
   },
   {
     "region": "Sicilia",
-    "period": "Posizione dei veicoli di rilevamento periodo 15 Febbraio 2024 - 14 Marzo 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Agrigento",
       "Caltanissetta",
@@ -240,7 +226,23 @@
   },
   {
     "region": "Toscana",
-    "period": "Posizione dei veicoli di rilevamento periodo 11 Aprile 2024 - 07 Maggio 2024",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 16 Aprile 2025 - 30 Maggio 2025",
+    "subdivisions": [
+      "Firenze"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Toscana",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 08 Aprile 2025 - 13 Maggio 2025",
+    "subdivisions": [
+      "Pisa"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Toscana",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Arezzo",
       "Firenze",
@@ -257,7 +259,7 @@
   },
   {
     "region": "Trentino-Alto Adige",
-    "period": "Posizione dei veicoli di rilevamento periodo 03 Aprile 2024 - 16 Luglio 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Bolzano / Bozen",
       "Trento"
@@ -266,7 +268,7 @@
   },
   {
     "region": "Umbria",
-    "period": "Posizione dei veicoli di rilevamento periodo 18 Aprile 2024 - 08 Maggio 2024",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Perugia",
       "Terni"
@@ -274,8 +276,24 @@
     "type": "vehicle"
   },
   {
+    "region": "Valle d'Aosta / Vallée d'Aoste",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
+    "subdivisions": [
+      "Valle d'Aosta / Vallée d'Aoste"
+    ],
+    "type": "vehicle"
+  },
+  {
     "region": "Veneto",
-    "period": "Posizione dei veicoli di rilevamento periodo 04 Aprile 2024 - 12 Luglio 2024",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 28 Aprile 2025 - 30 Maggio 2025",
+    "subdivisions": [
+      "Venezia"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Veneto",
+    "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Belluno",
       "Padova",

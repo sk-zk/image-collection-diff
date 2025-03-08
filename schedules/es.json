@@ -1,87 +1,32 @@
 [
   {
     "region": "Andalucía",
-    "period": "Recopilado mediante vehículos: 13 de abril de 2024 - 20 de abril de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
-      "Granada"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Andalucía",
-    "period": "Recopilado mediante vehículos: 15 de abril de 2024 - 03 de mayo de 2024",
-    "subdivisions": [
+      "Almería",
+      "Cádiz",
+      "Córdoba",
+      "Granada",
+      "Huelva",
+      "Jaén",
+      "Málaga",
       "Sevilla"
     ],
     "type": "vehicle"
   },
   {
-    "region": "Andalucía",
-    "period": "Recopilado mediante vehículos: 16 de abril de 2024 - 20 de mayo de 2024",
-    "subdivisions": [
-      "Jaén"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Andalucía",
-    "period": "Recopilado mediante vehículos: 16 de abril de 2024 - 25 de mayo de 2024",
-    "subdivisions": [
-      "Málaga"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Andalucía",
-    "period": "Recopilado mediante vehículos: 20 de abril de 2024 - 03 de mayo de 2024",
-    "subdivisions": [
-      "Huelva"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Andalucía",
-    "period": "Recopilado mediante vehículos: 06 de mayo de 2024 - 20 de mayo de 2024",
-    "subdivisions": [
-      "Córdoba"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Andalucía",
-    "period": "Recopilado mediante vehículos: 30 de marzo de 2024 - 13 de abril de 2024",
-    "subdivisions": [
-      "Almería"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Andalucía",
-    "period": "Recopilado mediante vehículos: 31 de marzo de 2024 - 01 de mayo de 2024",
-    "subdivisions": [
-      "Cádiz"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Aragón",
-    "period": "Recopilado mediante vehículos: 28 de mayo de 2024 - 05 de junio de 2023",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
+      "Huesca",
+      "Teruel",
       "Zaragoza"
     ],
     "type": "vehicle"
   },
   {
-    "region": "Aragón",
-    "period": "Recopilado mediante vehículos: 01 de junio de 2024 - 08 de junio de 2024",
-    "subdivisions": [
-      "Huesca"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Baleares",
-    "period": "Recopilado mediante vehículos: 06 de mayo de 2024 - 10 de mayo de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
       "Illes Balears"
     ],
@@ -89,23 +34,16 @@
   },
   {
     "region": "Canarias",
-    "period": "Recopilado mediante vehículos: 25 de abril de 2024 - 13 de mayo de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
+      "Las Palmas",
       "Santa Cruz de Tenerife"
     ],
     "type": "vehicle"
   },
   {
-    "region": "Canarias",
-    "period": "Recopilado mediante vehículos: 26 de abril de 2024 - 13 de mayo de 2024",
-    "subdivisions": [
-      "Las Palmas"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Cantabria",
-    "period": "Recopilado mediante vehículos: 10 de junio de 2024 - 10 de julio de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
       "Cantabria"
     ],
@@ -113,90 +51,35 @@
   },
   {
     "region": "Castilla - La Mancha",
-    "period": "Recopilado mediante vehículos: 16 de mayo de 2024 - 20 de mayo de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
-      "Ciudad Real"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Castilla - La Mancha",
-    "period": "Recopilado mediante vehículos: 23 de mayo de 2024 - 01 de junio de 2024",
-    "subdivisions": [
-      "Albacete"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Castilla - La Mancha",
-    "period": "Recopilado mediante vehículos: 24 de mayo de 2024 - 30 de mayo de 2024",
-    "subdivisions": [
+      "Albacete",
+      "Ciudad Real",
+      "Cuenca",
+      "Guadalajara",
       "Toledo"
     ],
     "type": "vehicle"
   },
   {
-    "region": "Castilla - La Mancha",
-    "period": "Recopilado mediante vehículos: 24 de mayo de 2024 - 02 de junio de 2024",
-    "subdivisions": [
-      "Cuenca"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Castilla - La Mancha",
-    "period": "Recopilado mediante vehículos: 27 de mayo de 2024 - 30 de mayo de 2024",
-    "subdivisions": [
-      "Guadalajara"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Castilla y León",
-    "period": "Recopilado mediante vehículos: 28 de mayo de 2024 - 30 de mayo de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
-      "Ávila"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Castilla y León",
-    "period": "Recopilado mediante vehículos: 29 de mayo de 2024 - 04 de junio de 2024",
-    "subdivisions": [
+      "Ávila",
+      "Burgos",
+      "León",
+      "Palencia",
       "Salamanca",
       "Segovia",
+      "Soria",
       "Valladolid",
       "Zamora"
     ],
     "type": "vehicle"
   },
   {
-    "region": "Castilla y León",
-    "period": "Recopilado mediante vehículos: 31 de mayo de 2024 - 04 de junio de 2024",
-    "subdivisions": [
-      "Palencia"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Castilla y León",
-    "period": "Recopilado mediante vehículos: 01 de junio de 2024 - 28 de junio de 2024",
-    "subdivisions": [
-      "León"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Castilla y León",
-    "period": "Recopilado mediante vehículos: 12 de junio de 2024 - 28 de junio de 2024",
-    "subdivisions": [
-      "Burgos"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Cataluña",
-    "period": "Recopilado mediante peatones (mochila): 01 de mayo de 2024 - 31 de julio de 2024",
+    "period": "Recopilado mediante peatones (mochila): 08 de abril de 2025 - 10 de junio de 2025",
     "subdivisions": [
       "Barcelona"
     ],
@@ -204,39 +87,18 @@
   },
   {
     "region": "Cataluña",
-    "period": "Recopilado mediante vehículos: 19 de abril de 2024 - 25 de abril de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
+      "Barcelona",
+      "Girona/Gerona",
+      "Lleida/Lérida",
       "Tarragona"
     ],
     "type": "vehicle"
   },
   {
-    "region": "Cataluña",
-    "period": "Recopilado mediante vehículos: 24 de mayo de 2024 - 02 de junio de 2024",
-    "subdivisions": [
-      "Lleida/Lérida"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Cataluña",
-    "period": "Recopilado mediante vehículos: 25 de mayo de 2024 - 02 de junio de 2024",
-    "subdivisions": [
-      "Girona/Gerona"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Cataluña",
-    "period": "Recopilado mediante vehículos: 29 de marzo de 2024 - 24 de abril de 2024",
-    "subdivisions": [
-      "Barcelona"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Comunidad Foral de Navarra",
-    "period": "Recopilado mediante vehículos: 12 de junio de 2024 - 28 de junio de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
       "Navarra"
     ],
@@ -244,31 +106,25 @@
   },
   {
     "region": "Comunidad Valenciana",
-    "period": "Recopilado mediante vehículos: 22 de abril de 2024 - 26 de abril de 2024",
+    "period": "Recopilado mediante peatones (mochila): 09 de abril de 2025 - 26 de junio de 2025",
     "subdivisions": [
-      "Castelló/Castellón"
+      "València/Valencia"
     ],
-    "type": "vehicle"
+    "type": "backpack"
   },
   {
     "region": "Comunidad Valenciana",
-    "period": "Recopilado mediante vehículos: 23 de abril de 2024 - 26 de abril de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
+      "Alacant/Alicante",
+      "Castelló/Castellón",
       "València/Valencia"
     ],
     "type": "vehicle"
   },
   {
-    "region": "Comunidad Valenciana",
-    "period": "Recopilado mediante vehículos: 29 de abril de 2024 - 05 de mayo de 2024",
-    "subdivisions": [
-      "Alacant/Alicante"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Comunidad de Madrid",
-    "period": "Recopilado mediante peatones (mochila): 08 de abril de 2024 - 28 de mayo de 2024",
+    "period": "Recopilado mediante peatones (mochila): 07 de abril de 2025 - 13 de junio de 2025",
     "subdivisions": [
       "Madrid"
     ],
@@ -276,7 +132,7 @@
   },
   {
     "region": "Comunidad de Madrid",
-    "period": "Recopilado mediante vehículos: 19 de marzo de 2024 - 12 de abril de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
       "Madrid"
     ],
@@ -284,48 +140,27 @@
   },
   {
     "region": "Extremadura",
-    "period": "Recopilado mediante vehículos: 16 de mayo de 2024 - 20 de mayo de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
-      "Badajoz"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Extremadura",
-    "period": "Recopilado mediante vehículos: 23 de mayo de 2024 - 30 de mayo de 2024",
-    "subdivisions": [
+      "Badajoz",
       "Cáceres"
     ],
     "type": "vehicle"
   },
   {
     "region": "Galicia",
-    "period": "Recopilado mediante vehículos: 12 de junio de 2024 - 15 de junio de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
-      "Ourense/Orense"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Galicia",
-    "period": "Recopilado mediante vehículos: 14 de junio de 2024 - 16 de junio de 2024",
-    "subdivisions": [
+      "A Coruña",
+      "Lugo",
+      "Ourense/Orense",
       "Pontevedra"
     ],
     "type": "vehicle"
   },
   {
-    "region": "Galicia",
-    "period": "Recopilado mediante vehículos: 17 de junio de 2024 - 28 de junio de 2024",
-    "subdivisions": [
-      "A Coruña",
-      "Lugo"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "La Rioja",
-    "period": "Recopilado mediante vehículos: 12 de junio de 2024 - 28 de junio de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
       "La Rioja"
     ],
@@ -333,7 +168,7 @@
   },
   {
     "region": "País Vasco",
-    "period": "Recopilado mediante vehículos: 03 de junio de 2024 - 10 de julio de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
       "Araba/Álava",
       "Bizkaia/Vizcaya",
@@ -342,8 +177,16 @@
     "type": "vehicle"
   },
   {
+    "region": "Principado de Asturias",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
+    "subdivisions": [
+      "Asturias"
+    ],
+    "type": "vehicle"
+  },
+  {
     "region": "Región de Murcia",
-    "period": "Recopilado mediante vehículos: 10 de mayo de 2024 - 25 de mayo de 2024",
+    "period": "Recopilado mediante vehículos: 17 de marzo de 2025 - 02 de mayo de 2025",
     "subdivisions": [
       "Murcia"
     ],
