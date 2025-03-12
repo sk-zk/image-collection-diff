@@ -110,28 +110,38 @@
     "type": "ipad"
   },
   {
+    "region": "Andaman and Nicobar Islands",
+    "period": "March 17, 2025 - March 31, 2025",
+    "type": "vehicle"
+  },
+  {
     "region": "Arunachal Pradesh",
-    "period": "April 01, 2025 - April 30, 2025",
+    "period": "March 17, 2025 - April 30, 2025",
     "type": "vehicle"
   },
   {
     "region": "Assam",
-    "period": "February 19, 2025 - April 30, 2025",
+    "period": "March 01, 2025 - April 30, 2025",
     "type": "vehicle"
   },
   {
     "region": "Bihar",
-    "period": "February 28, 2025 - March 31, 2025",
+    "period": "March 01, 2025 - March 31, 2025",
     "type": "vehicle"
   },
   {
-    "region": "Kerala",
-    "period": "January 18, 2025 - March 31, 2025",
+    "region": "Jammu and Kashmir",
+    "period": "March 11, 2025 - April 30, 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ladakh",
+    "period": "April 01, 2025 - April 30, 2025",
     "type": "vehicle"
   },
   {
     "region": "Manipur",
-    "period": "February 19, 2025 - March 31, 2025",
+    "period": "March 01, 2025 - April 30, 2025",
     "type": "vehicle"
   },
   {
@@ -155,23 +165,13 @@
     "type": "vehicle"
   },
   {
-    "region": "Punjab",
-    "period": "November 02, 2024 - March 31, 2025",
-    "type": "vehicle"
-  },
-  {
     "region": "Telangana",
     "period": "February 24, 2025 - March 31, 2025",
     "type": "vehicle"
   },
   {
     "region": "Tripura",
-    "period": "April 01, 2025 - April 30, 2025",
-    "type": "vehicle"
-  },
-  {
-    "region": "Uttar Pradesh",
-    "period": "December 16, 2024 - March 31, 2025",
+    "period": "March 01, 2025 - April 30, 2025",
     "type": "vehicle"
   }
 ]
