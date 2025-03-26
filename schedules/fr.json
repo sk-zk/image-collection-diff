@@ -1,6 +1,14 @@
 [
   {
     "region": "Auvergne-Rhône-Alpes",
+    "period": "Zones piétonnes (sac à dos) sur la période 01 avril 2025 - 06 mai 2025",
+    "subdivisions": [
+      "Rhône"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Auvergne-Rhône-Alpes",
     "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
     "subdivisions": [
       "Ain",
@@ -85,6 +93,14 @@
   },
   {
     "region": "Hauts-de-France",
+    "period": "Zones piétonnes (sac à dos) sur la période 07 mai 2025 - 10 juin 2025",
+    "subdivisions": [
+      "Nord"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Hauts-de-France",
     "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
     "subdivisions": [
       "Aisne",
@@ -94,6 +110,22 @@
       "Somme"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Île-de-France",
+    "period": "Zones piétonnes (sac à dos) sur la période 08 mai 2025 - 12 juin 2025",
+    "subdivisions": [
+      "Yvelines"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Île-de-France",
+    "period": "Zones piétonnes (sac à dos) sur la période 09 avril 2025 - 04 juin 2025",
+    "subdivisions": [
+      "Paris"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Île-de-France",
@@ -112,6 +144,14 @@
   },
   {
     "region": "Normandie",
+    "period": "Zones piétonnes (sac à dos) sur la période 29 avril 2025 - 03 juin 2025",
+    "subdivisions": [
+      "Seine-Maritime"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Normandie",
     "period": "Lieux de passage des véhicules sur la période 17 mars 2025 - 25 juin 2025",
     "subdivisions": [
       "Calvados",
@@ -121,6 +161,14 @@
       "Seine-Maritime"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Nouvelle-Aquitaine",
+    "period": "Zones piétonnes (sac à dos) sur la période 16 avril 2025 - 26 mai 2025",
+    "subdivisions": [
+      "Gironde"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Nouvelle-Aquitaine",
@@ -140,6 +188,14 @@
       "Vienne"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Occitanie",
+    "period": "Zones piétonnes (sac à dos) sur la période 07 avril 2025 - 13 mai 2025",
+    "subdivisions": [
+      "Haute-Garonne"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Occitanie",
@@ -172,6 +228,23 @@
       "Vendée"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Provence-Alpes-Côte d'Azur",
+    "period": "Zones piétonnes (sac à dos) sur la période 31 mars 2025 - 02 mai 2025",
+    "subdivisions": [
+      "Alpes-Maritimes",
+      "Var"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Provence-Alpes-Côte d'Azur",
+    "period": "Zones piétonnes (sac à dos) sur la période 31 mars 2025 - 05 mai 2025",
+    "subdivisions": [
+      "Bouches-du-Rhône"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Provence-Alpes-Côte d'Azur",

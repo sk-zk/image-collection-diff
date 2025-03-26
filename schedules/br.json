@@ -1,6 +1,15 @@
 [
   {
     "region": "Região Centro-Oeste do Brasil",
+    "period": "Localizações de pedestre (mochila) em 25 de Março de 2025 - 30 de Setembro de 2025",
+    "subdivisions": [
+      "Distrito Federal",
+      "Goiás"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Região Centro-Oeste do Brasil",
     "period": "Localizações de veículos em 02 de Julho de 2024 - 05 de Setembro de 2024",
     "subdivisions": [
       "Goiás"
@@ -30,6 +39,15 @@
       "Mato Grosso do Sul"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Região Nordeste do Brasil",
+    "period": "Localizações de pedestre (mochila) em 25 de Março de 2025 - 30 de Setembro de 2025",
+    "subdivisions": [
+      "Bahia",
+      "Pernambuco"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Região Nordeste do Brasil",
@@ -158,6 +176,16 @@
       "Pará"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Região Sudeste do Brasil",
+    "period": "Localizações de pedestre (mochila) em 25 de Março de 2025 - 30 de Setembro de 2025",
+    "subdivisions": [
+      "Minas Gerais",
+      "Rio de Janeiro",
+      "São Paulo"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Região Sudeste do Brasil",
