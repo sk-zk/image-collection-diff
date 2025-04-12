@@ -1,77 +1,77 @@
 [
   {
     "region": "Bihar",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "Delhi",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "Goa",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "Gujarat",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "Karnataka",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "Kerala",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "Madhya Pradesh",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "Maharashtra",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "Odisha",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "Punjab",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "Rajasthan",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "Tamil Nadu",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "Telangana",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "Uttar Pradesh",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
     "region": "West Bengal",
-    "period": "February 24, 2025 - June 30, 2025",
+    "period": "February 24, 2025 - July 31, 2025",
     "type": "backpack"
   },
   {
@@ -110,8 +110,8 @@
     "type": "ipad"
   },
   {
-    "region": "Andaman and Nicobar Islands",
-    "period": "March 17, 2025 - March 31, 2025",
+    "region": "Andhra Pradesh",
+    "period": "April 16, 2025 - July 15, 2025",
     "type": "vehicle"
   },
   {
@@ -125,32 +125,52 @@
     "type": "vehicle"
   },
   {
-    "region": "Bihar",
-    "period": "March 01, 2025 - March 31, 2025",
+    "region": "Delhi",
+    "period": "April 16, 2025 - July 15, 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Goa",
+    "period": "April 16, 2025 - July 15, 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Gujarat",
+    "period": "April 16, 2025 - July 15, 2025",
     "type": "vehicle"
   },
   {
     "region": "Jammu and Kashmir",
-    "period": "March 11, 2025 - April 30, 2025",
+    "period": "March 11, 2025 - May 31, 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Jharkhand",
+    "period": "April 16, 2025 - July 15, 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Karnataka",
+    "period": "April 16, 2025 - July 15, 2025",
     "type": "vehicle"
   },
   {
     "region": "Ladakh",
-    "period": "April 01, 2025 - April 30, 2025",
+    "period": "April 01, 2025 - May 31, 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Madhya Pradesh",
+    "period": "April 16, 2025 - July 15, 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Maharashtra",
+    "period": "April 16, 2025 - July 15, 2025",
     "type": "vehicle"
   },
   {
     "region": "Manipur",
-    "period": "March 01, 2025 - April 30, 2025",
-    "type": "vehicle"
-  },
-  {
-    "region": "Meghalaya",
-    "period": "March 01, 2025 - April 30, 2025",
-    "type": "vehicle"
-  },
-  {
-    "region": "Mizoram",
     "period": "March 01, 2025 - April 30, 2025",
     "type": "vehicle"
   },
@@ -165,13 +185,28 @@
     "type": "vehicle"
   },
   {
-    "region": "Telangana",
-    "period": "February 24, 2025 - March 31, 2025",
+    "region": "Rajasthan",
+    "period": "April 16, 2025 - July 15, 2025",
     "type": "vehicle"
   },
   {
-    "region": "Tripura",
-    "period": "March 01, 2025 - April 30, 2025",
+    "region": "Tamil Nadu",
+    "period": "April 16, 2025 - July 15, 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Telangana",
+    "period": "April 16, 2025 - July 15, 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Uttar Pradesh",
+    "period": "April 16, 2025 - July 15, 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "West Bengal",
+    "period": "April 10, 2025 - July 15, 2025",
     "type": "vehicle"
   }
 ]
