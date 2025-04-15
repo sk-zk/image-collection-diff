@@ -1,1 +1,84 @@
-[]
+[
+  {
+    "region": "Baden-Württemberg",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 27. Mai 2025 - 11. Juli 2025",
+    "subdivisions": [
+      "Landeshauptstadt Stuttgart"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Bayern",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 28. April 2025 - 24. Juli 2025",
+    "subdivisions": [
+      "Landeshauptstadt München",
+      "Landkreis München"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Berlin",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 28. April 2025 - 09. Juni 2025",
+    "subdivisions": [
+      "Bundeshauptstadt Berlin"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Hamburg",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 18. Mai 2025 - 26. Juni 2025",
+    "subdivisions": [
+      "Stadt Hamburg"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Hessen",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 17. Juni 2025 - 01. August 2025",
+    "subdivisions": [
+      "Stadt Frankfurt am Main",
+      "Stadt Offenbach am Main"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Nordrhein-Westfalen",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 27. Mai 2025 - 04. Juli 2025",
+    "subdivisions": [
+      "Stadt Dortmund"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Nordrhein-Westfalen",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 09. Juni 2025 - 15. Juli 2025",
+    "subdivisions": [
+      "Stadt Essen"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Nordrhein-Westfalen",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 18. Juni 2025 - 24. Juli 2025",
+    "subdivisions": [
+      "Landeshauptstadt Düsseldorf"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Nordrhein-Westfalen",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 27. Juni 2025 - 12. August 2025",
+    "subdivisions": [
+      "Stadt Köln"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Sachsen",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 18. Mai 2025 - 20. Juni 2025",
+    "subdivisions": [
+      "Stadt Leipzig"
+    ],
+    "type": "backpack"
+  }
+]

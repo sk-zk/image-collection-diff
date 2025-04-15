@@ -1,67 +1,72 @@
 [
   {
     "region": "Attica",
-    "period": "February 15, 2024 - March 30, 2024",
+    "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   },
   {
     "region": "Central Greece",
-    "period": "February 15, 2024 - March 30, 2024",
+    "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   },
   {
     "region": "Central Macedonia",
-    "period": "February 15, 2024 - March 30, 2024",
+    "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   },
   {
     "region": "Crete",
-    "period": "February 15, 2024 - March 30, 2024",
+    "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   },
   {
     "region": "East Macedonia and Thrace",
-    "period": "February 15, 2024 - March 30, 2024",
+    "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   },
   {
     "region": "Epirus",
-    "period": "February 15, 2024 - March 30, 2024",
+    "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   },
   {
     "region": "Ionian Islands",
-    "period": "February 15, 2024 - March 30, 2024",
+    "period": "April 14, 2025 - June 27, 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Mount Athos",
+    "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   },
   {
     "region": "North Aegean",
-    "period": "February 15, 2024 - March 30, 2024",
+    "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   },
   {
     "region": "Peloponnese",
-    "period": "February 15, 2024 - March 30, 2024",
+    "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   },
   {
     "region": "Southern Aegean",
-    "period": "February 15, 2024 - March 30, 2024",
+    "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   },
   {
     "region": "Thessaly",
-    "period": "February 15, 2024 - March 30, 2024",
+    "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   },
   {
     "region": "Western Greece",
-    "period": "February 15, 2024 - March 30, 2024",
+    "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   },
   {
     "region": "Western Macedonia",
-    "period": "February 15, 2024 - March 30, 2024",
+    "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   }
 ]
