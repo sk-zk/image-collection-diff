@@ -1,0 +1,136 @@
+[
+  {
+    "region": "Rajoni Juglindor",
+    "period": "Vendndodhjet e automjeteve për 17 Prill 2025 - 03 Qërshor 2025",
+    "subdivisions": [
+      "Bogdanci",
+      "Bosilovo",
+      "Dojrani",
+      "Gjevgjelia",
+      "Konçe",
+      "Novo Selo",
+      "Radovish",
+      "Strumicë",
+      "Vallandovë",
+      "Vasilevo"
+    ]
+  },
+  {
+    "region": "Rajoni Jugperendimor",
+    "period": "Vendndodhjet e automjeteve për 17 Prill 2025 - 03 Qërshor 2025",
+    "subdivisions": [
+      "Debarca",
+      "Dibër",
+      "Kërçovë",
+      "Makedonski Brod",
+      "Ohër",
+      "Plasnica",
+      "Qendra Zhupa",
+      "Strugë",
+      "Vevçani"
+    ]
+  },
+  {
+    "region": "Rajoni Lindor",
+    "period": "Vendndodhjet e automjeteve për 17 Prill 2025 - 03 Qërshor 2025",
+    "subdivisions": [
+      "Berovë",
+      "Çeshinovë-Obleşevë",
+      "Dellçevë",
+      "Kalliri",
+      "Karabinat",
+      "Kokrrat",
+      "Makedonska Kamenica",
+      "Pehçevë",
+      "Probishtip",
+      "Shtip",
+      "Vinicë"
+    ]
+  },
+  {
+    "region": "Rajoni Verilindor",
+    "period": "Vendndodhjet e automjeteve për 17 Prill 2025 - 03 Qërshor 2025",
+    "subdivisions": [
+      "Kratovë",
+      "Kriva Pallankës",
+      "Kumanovë",
+      "Likovë",
+      "Rankovce",
+      "Staro Nagoriçanit"
+    ]
+  },
+  {
+    "region": "Rajoni i Pellagonisë",
+    "period": "Vendndodhjet e automjeteve për 17 Prill 2025 - 03 Qërshor 2025",
+    "subdivisions": [
+      "Demir Hisar",
+      "Gështenja të errëta",
+      "Krushevë",
+      "Manastir",
+      "Më të ulëtat",
+      "Prilep",
+      "Serioze",
+      "Të rinjtë",
+      "Tumë"
+    ]
+  },
+  {
+    "region": "Rajoni i Pollogskit",
+    "period": "Vendndodhjet e automjeteve për 17 Prill 2025 - 03 Qërshor 2025",
+    "subdivisions": [
+      "Bërvenicë",
+      "Bogovinë",
+      "Gostivarit",
+      "Jegunoc",
+      "Mavrovës dhe Rostushës",
+      "Tearcë",
+      "Tetova",
+      "Vrapçishtit",
+      "Xhelino"
+    ]
+  },
+  {
+    "region": "Rajoni i Shkupit",
+    "period": "Vendndodhjet e automjeteve për 17 Prill 2025 - 03 Qërshor 2025",
+    "subdivisions": [
+      "Çuçer-Sandevë",
+      "Haraçinë",
+      "Ilinden",
+      "Petrovec",
+      "Sopishtit",
+      "Studeniçanit",
+      "Zelenikovë"
+    ]
+  },
+  {
+    "region": "Rajoni i Vardarit",
+    "period": "Vendndodhjet e automjeteve për 17 Prill 2025 - 03 Qërshor 2025",
+    "subdivisions": [
+      "Çashkë",
+      "Demir Kapia",
+      "Gradsko",
+      "Kavadari",
+      "Lozovo",
+      "Negotinë",
+      "Rossoman",
+      "Shën Nikolla",
+      "Velesi"
+    ]
+  },
+  {
+    "region": "Shkup",
+    "period": "Vendndodhjet e automjeteve për 17 Prill 2025 - 03 Qërshor 2025",
+    "subdivisions": [
+      "Aeroporti",
+      "Butel",
+      "Çairit",
+      "Gazi Babë",
+      "Gjorçe Petrov",
+      "Karposh",
+      "Kisela Voda",
+      "Qendra",
+      "Saraj",
+      "Shutkë"
+    ]
+  }
+]
