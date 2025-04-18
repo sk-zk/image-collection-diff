@@ -103,7 +103,7 @@ def get_camera_type_from_heading(heading: str) -> str:
                        "fordon", "vozilo", "veículo", "pojazd", "kjøretøy", "voertuig",
                        "vehículo", "veicoli", "veicolo", "jármű", "ajoneuvo", "priemonė",
                        "sõiduk", "transportlīdzeklis", "vehiculelor", "όχημα", "automjeti",
-                       "vozilo"]
+                       "automjeteve", "vozilo"]
     for string in vehicle_strings:
         if string in lower:
             return "vehicle"
