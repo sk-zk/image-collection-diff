@@ -13,7 +13,8 @@
       "Strumicë",
       "Vallandovë",
       "Vasilevo"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Rajoni Jugperendimor",
@@ -28,7 +29,8 @@
       "Qendra Zhupa",
       "Strugë",
       "Vevçani"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Rajoni Lindor",
@@ -45,7 +47,8 @@
       "Probishtip",
       "Shtip",
       "Vinicë"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Rajoni Verilindor",
@@ -57,7 +60,8 @@
       "Likovë",
       "Rankovce",
       "Staro Nagoriçanit"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Rajoni i Pellagonisë",
@@ -72,7 +76,8 @@
       "Serioze",
       "Të rinjtë",
       "Tumë"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Rajoni i Pollogskit",
@@ -87,7 +92,8 @@
       "Tetova",
       "Vrapçishtit",
       "Xhelino"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Rajoni i Shkupit",
@@ -100,7 +106,8 @@
       "Sopishtit",
       "Studeniçanit",
       "Zelenikovë"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Rajoni i Vardarit",
@@ -115,7 +122,8 @@
       "Rossoman",
       "Shën Nikolla",
       "Velesi"
-    ]
+    ],
+    "type": "vehicle"
   },
   {
     "region": "Shkup",
@@ -131,6 +139,7 @@
       "Qendra",
       "Saraj",
       "Shutkë"
-    ]
+    ],
+    "type": "vehicle"
   }
 ]
