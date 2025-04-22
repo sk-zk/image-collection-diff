@@ -3,7 +3,7 @@ name: Scrape and push
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 16 * * *"
+    - cron: "00 18 * * *"
 
 jobs:
   scrape:
