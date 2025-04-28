@@ -1,6 +1,14 @@
 [
   {
     "region": "Espace Mittelland",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 28. April 2025 - 25. Juli 2025",
+    "subdivisions": [
+      "Bern"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Espace Mittelland",
     "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 19. Mai 2025 - 09. Juli 2025",
     "subdivisions": [
       "Bern",
@@ -13,6 +21,14 @@
   },
   {
     "region": "Genferseeregion",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 28. April 2025 - 30. Juli 2025",
+    "subdivisions": [
+      "Genf"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Genferseeregion",
     "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 19. Mai 2025 - 09. Juli 2025",
     "subdivisions": [
       "Genf",
@@ -20,6 +36,15 @@
       "Wallis"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Nordwestschweiz",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 28. April 2025 - 31. Juli 2025",
+    "subdivisions": [
+      "Basel-Landschaft",
+      "Basel-Stadt"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Nordwestschweiz",
