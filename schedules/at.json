@@ -34,6 +34,15 @@
   },
   {
     "region": "Niederösterreich",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 05. Mai 2025 - 20. Juni 2025",
+    "subdivisions": [
+      "Korneuburg",
+      "Tulln an der Donau"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Niederösterreich",
     "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 28. Juli 2025 - 08. September 2025",
     "subdivisions": [
       "Amstetten",
@@ -147,6 +156,14 @@
       "Feldkirch"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Wien",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 05. Mai 2025 - 20. Juni 2025",
+    "subdivisions": [
+      "Wien"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Wien",
