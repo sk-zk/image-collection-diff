@@ -1,72 +1,7 @@
 [
   {
     "region": "Hlavní město Praha",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Jihočeský kraj",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Jihomoravský kraj",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Karlovarský kraj",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Kraj Vysočina",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Kralovehradecky kraj",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Liberecký kraj",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Moravskoslezský kraj",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Olomoucký kraj",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Pardubický kraj",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Plzeňský kraj",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Středočeský kraj",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Ústecký kraj",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
-  },
-  {
-    "region": "Zlínský kraj",
-    "period": "24. červen 2024 - 27. srpen 2024",
-    "type": "vehicle"
+    "period": "13. květen 2025 - 09. červenec 2025",
+    "type": "backpack"
   }
 ]

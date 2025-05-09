@@ -1,70 +1,10 @@
 [
   {
     "region": "Budapest",
-    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
+    "period": "Gyalogosok (Hátizsák) által bejárt helyek 2025. Május 12. - 2025. Július 07.",
     "subdivisions": [
       "Budapest"
     ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Dél-Alföld",
-    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
-    "subdivisions": [
-      "Bács-Kiskun",
-      "Békés",
-      "Csongrád-Csanád"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Dél-Dunántúl",
-    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
-    "subdivisions": [
-      "Baranya",
-      "Somogy",
-      "Tolna"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Észak-Alföld",
-    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
-    "subdivisions": [
-      "Hajdú-Bihar",
-      "Jász-Nagykun-Szolnok",
-      "Szabolcs-Szatmár-Bereg"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Észak-Magyarország",
-    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
-    "subdivisions": [
-      "Borsod-Abaúj-Zemplén",
-      "Heves",
-      "Nógrád"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Közép-Dunántúl",
-    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
-    "subdivisions": [
-      "Fejér",
-      "Komárom-Esztergom",
-      "Veszprém"
-    ],
-    "type": "vehicle"
-  },
-  {
-    "region": "Nyugat-Dunántúl",
-    "period": "Járművek által bejárt helyek 2024. Április 15. - 2024. Július 05.",
-    "subdivisions": [
-      "Győr-Moson-Sopron",
-      "Vas",
-      "Zala"
-    ],
-    "type": "vehicle"
+    "type": "backpack"
   }
 ]
