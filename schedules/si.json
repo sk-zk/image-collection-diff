@@ -1,62 +1,67 @@
 [
   {
+    "region": "Osrednjeslovenska",
+    "period": "29. maj 2025 - 03. julij 2025",
+    "type": "backpack"
+  },
+  {
     "region": "Gorenjska",
-    "period": "17. april 2024 - 08. maj 2024",
+    "period": "12. junij 2025 - 30. oktober 2025",
     "type": "backpack"
   },
   {
     "region": "Goriska",
-    "period": "14. april 2024 - 02. maj 2024",
+    "period": "12. junij 2025 - 30. oktober 2025",
     "type": "backpack"
   },
   {
     "region": "Jugovzhodna Slovenija",
-    "period": "23. april 2024 - 10. maj 2024",
+    "period": "12. junij 2025 - 30. oktober 2025",
     "type": "backpack"
   },
   {
     "region": "Koroska",
-    "period": "14. april 2024 - 10. maj 2024",
+    "period": "12. junij 2025 - 30. oktober 2025",
     "type": "backpack"
   },
   {
     "region": "Obalno-kraska",
-    "period": "14. april 2024 - 02. maj 2024",
+    "period": "12. junij 2025 - 30. oktober 2025",
     "type": "backpack"
   },
   {
     "region": "Osrednjeslovenska",
-    "period": "14. april 2024 - 10. maj 2024",
+    "period": "12. junij 2025 - 30. oktober 2025",
     "type": "backpack"
   },
   {
     "region": "Podravska",
-    "period": "14. april 2024 - 10. maj 2024",
+    "period": "12. junij 2025 - 30. oktober 2025",
     "type": "backpack"
   },
   {
     "region": "Pomurska",
-    "period": "14. april 2024 - 10. maj 2024",
+    "period": "12. junij 2025 - 30. oktober 2025",
     "type": "backpack"
   },
   {
     "region": "Primorsko-notranjska",
-    "period": "14. april 2024 - 10. maj 2024",
+    "period": "12. junij 2025 - 30. oktober 2025",
     "type": "backpack"
   },
   {
     "region": "Savinjska",
-    "period": "14. april 2024 - 10. maj 2024",
+    "period": "12. junij 2025 - 30. oktober 2025",
     "type": "backpack"
   },
   {
     "region": "Spodnjeposavska",
-    "period": "23. april 2024 - 10. maj 2024",
+    "period": "12. junij 2025 - 30. oktober 2025",
     "type": "backpack"
   },
   {
     "region": "Zasavska",
-    "period": "14. april 2024 - 10. maj 2024",
+    "period": "12. junij 2025 - 30. oktober 2025",
     "type": "backpack"
   }
 ]

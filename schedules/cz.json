@@ -3,5 +3,75 @@
     "region": "Hlavní město Praha",
     "period": "13. květen 2025 - 09. červenec 2025",
     "type": "backpack"
+  },
+  {
+    "region": "Hlavní město Praha",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Jihočeský kraj",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Jihomoravský kraj",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Karlovarský kraj",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kraj Vysočina",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kralovehradecky kraj",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Liberecký kraj",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Moravskoslezský kraj",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Olomoucký kraj",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pardubický kraj",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Plzeňský kraj",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Středočeský kraj",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ústecký kraj",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zlínský kraj",
+    "period": "12. červen 2025 - 11. září 2025",
+    "type": "vehicle"
   }
 ]
