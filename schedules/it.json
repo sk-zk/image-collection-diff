@@ -293,6 +293,14 @@
   },
   {
     "region": "Veneto",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 18 Maggio 2025 - 13 Giugno 2025",
+    "subdivisions": [
+      "Verona"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Veneto",
     "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Belluno",
