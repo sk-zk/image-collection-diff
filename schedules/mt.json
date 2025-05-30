@@ -1,7 +1,7 @@
 [
   {
     "region": "Central Region",
-    "period": "Vehicle locations for May 23, 2025 - June 01, 2025",
+    "period": "Vehicle locations for May 30, 2025 - June 15, 2025",
     "subdivisions": [
       "Attard",
       "Balzan",
@@ -21,7 +21,7 @@
   },
   {
     "region": "Gozo Region",
-    "period": "Vehicle locations for May 23, 2025 - June 01, 2025",
+    "period": "Vehicle locations for May 30, 2025 - June 15, 2025",
     "subdivisions": [
       "Fontana",
       "Għajnsielem",
@@ -42,7 +42,7 @@
   },
   {
     "region": "Northern Region",
-    "period": "Vehicle locations for May 23, 2025 - June 01, 2025",
+    "period": "Vehicle locations for May 30, 2025 - June 15, 2025",
     "subdivisions": [
       "Dingli",
       "Għargħur",
@@ -61,7 +61,7 @@
   },
   {
     "region": "South Eastern Region",
-    "period": "Vehicle locations for May 23, 2025 - June 01, 2025",
+    "period": "Vehicle locations for May 30, 2025 - June 15, 2025",
     "subdivisions": [
       "Birgu",
       "Cospicua",
@@ -82,7 +82,7 @@
   },
   {
     "region": "Southern Region",
-    "period": "Vehicle locations for May 23, 2025 - June 01, 2025",
+    "period": "Vehicle locations for May 30, 2025 - June 15, 2025",
     "subdivisions": [
       "Birżebbuġa",
       "Gudja",
