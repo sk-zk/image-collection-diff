@@ -1,5 +1,15 @@
 [
   {
+    "region": "Noord Holland",
+    "period": "09 juni 2025 - 16 juli 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Zuid Holland",
+    "period": "02 juni 2025 - 04 augustus 2025",
+    "type": "backpack"
+  },
+  {
     "region": "Drenthe",
     "period": "22 mei 2025 - 12 juni 2025",
     "type": "vehicle"
