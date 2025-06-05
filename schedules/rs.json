@@ -1,10 +1,7 @@
 [
   {
-    "region": "City of Belgrade",
-    "period": "Pedestrian (backpack) locations for August 26, 2024 - September 23, 2024",
-    "subdivisions": [
-      "Belgrade"
-    ],
+    "region": "Belgrade",
+    "period": "June 02, 2025 - August 05, 2025",
     "type": "backpack"
   }
 ]
