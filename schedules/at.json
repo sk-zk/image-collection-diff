@@ -74,6 +74,15 @@
   },
   {
     "region": "Ober­österreich",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 10. Juni 2025 - 15. Juli 2025",
+    "subdivisions": [
+      "Linz-Stadt",
+      "Urfahr-Umgebung"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Ober­österreich",
     "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 28. Juli 2025 - 08. September 2025",
     "subdivisions": [
       "Braunau am Inn",
@@ -99,6 +108,15 @@
   },
   {
     "region": "Salzburg",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 10. Juni 2025 - 15. Juli 2025",
+    "subdivisions": [
+      "Hallein",
+      "Salzburg-Stadt"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Salzburg",
     "period": "Wo wir mit dem Fahrzeug Bilder erfassen: 28. Juli 2025 - 08. September 2025",
     "subdivisions": [
       "Hallein",
@@ -109,6 +127,15 @@
       "Zell am See"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Steiermark",
+    "period": "Wo wir zu Fuß (Rucksack) erfassen: 10. Juni 2025 - 15. Juli 2025",
+    "subdivisions": [
+      "Graz-Stadt",
+      "Graz-Umgebung"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Steiermark",
