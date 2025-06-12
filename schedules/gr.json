@@ -1,6 +1,11 @@
 [
   {
     "region": "Attica",
+    "period": "June 13, 2025 - July 18, 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Attica",
     "period": "April 14, 2025 - June 27, 2025",
     "type": "vehicle"
   },
