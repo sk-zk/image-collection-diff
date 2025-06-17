@@ -69,6 +69,14 @@
   },
   {
     "region": "Friuli-Venezia Giulia",
+    "period": "Posizione del rilevamento con apparati a spalla periodo 18 Giugno 2025 - 21 Giugno 2025",
+    "subdivisions": [
+      "Udine"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Friuli-Venezia Giulia",
     "period": "Posizione dei veicoli di rilevamento periodo 17 Marzo 2025 - 30 Maggio 2025",
     "subdivisions": [
       "Gorizia",
