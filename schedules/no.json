@@ -3,5 +3,20 @@
     "region": "Oslo",
     "period": "20. juni 2025 - 05. august 2025",
     "type": "backpack"
+  },
+  {
+    "region": "Rogaland",
+    "period": "03. juli 2025 - 28. august 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Trondelag",
+    "period": "03. juli 2025 - 28. august 2025",
+    "type": "backpack"
+  },
+  {
+    "region": "Vestland",
+    "period": "03. juli 2025 - 28. august 2025",
+    "type": "backpack"
   }
 ]
