@@ -18,5 +18,70 @@
     "region": "Vestland",
     "period": "03. juli 2025 - 28. august 2025",
     "type": "backpack"
+  },
+  {
+    "region": "Agder",
+    "period": "15. juli 2025 - 03. oktober 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Innlandet",
+    "period": "15. juli 2025 - 03. oktober 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Jan Mayen",
+    "period": "15. juli 2025 - 03. oktober 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "More Og Romsdal",
+    "period": "15. juli 2025 - 03. oktober 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Nordland",
+    "period": "15. juli 2025 - 03. oktober 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Oslo",
+    "period": "15. juli 2025 - 03. oktober 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Rogaland",
+    "period": "15. juli 2025 - 03. oktober 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Svalbard",
+    "period": "15. juli 2025 - 03. oktober 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Troms Og Finnmark",
+    "period": "15. juli 2025 - 03. oktober 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Trondelag",
+    "period": "15. juli 2025 - 03. oktober 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Vestfold Og Telemark",
+    "period": "15. juli 2025 - 03. oktober 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Vestland",
+    "period": "15. juli 2025 - 03. oktober 2025",
+    "type": "vehicle"
+  },
+  {
+    "region": "Viken",
+    "period": "15. juli 2025 - 03. oktober 2025",
+    "type": "vehicle"
   }
 ]

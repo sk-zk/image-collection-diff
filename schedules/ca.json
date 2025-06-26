@@ -1,6 +1,22 @@
 [
   {
     "region": "Alberta",
+    "period": "Pedestrian (backpack) locations for August 07, 2025 - August 08, 2025",
+    "subdivisions": [
+      "Edmonton"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Alberta",
+    "period": "Pedestrian (backpack) locations for August 11, 2025 - August 12, 2025",
+    "subdivisions": [
+      "Calgary"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Alberta",
     "period": "Vehicle locations for June 27, 2025 - July 11, 2025",
     "subdivisions": [
       "Calgary",
@@ -24,6 +40,22 @@
       "Whitecourt"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "British Columbia",
+    "period": "Pedestrian (backpack) locations for August 14, 2025 - August 15, 2025",
+    "subdivisions": [
+      "Greater Vancouver"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "British Columbia",
+    "period": "Pedestrian (backpack) locations for August 19, 2025 - August 27, 2025",
+    "subdivisions": [
+      "Victoria"
+    ],
+    "type": "backpack"
   },
   {
     "region": "British Columbia",
@@ -67,6 +99,14 @@
       "Greater Vancouver"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Manitoba",
+    "period": "Pedestrian (backpack) locations for July 16, 2025 - July 25, 2025",
+    "subdivisions": [
+      "Winnipeg"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Manitoba",
@@ -147,6 +187,22 @@
   },
   {
     "region": "Ontario",
+    "period": "Pedestrian (backpack) locations for June 30, 2025 - July 04, 2025",
+    "subdivisions": [
+      "Toronto"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Ontario",
+    "period": "Pedestrian (backpack) locations for July 07, 2025 - July 10, 2025",
+    "subdivisions": [
+      "City of Ottawa"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Ontario",
     "period": "Vehicle locations for June 06, 2025 - August 04, 2025",
     "subdivisions": [
       "Algoma District",
@@ -210,6 +266,22 @@
       "Queens County (Prince Edward Island)"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Quebec",
+    "period": "Pedestrian (backpack) locations for July 07, 2025 - July 10, 2025",
+    "subdivisions": [
+      "Gatineau Regional County Municipality"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Quebec",
+    "period": "Pedestrian (backpack) locations for July 11, 2025 - July 15, 2025",
+    "subdivisions": [
+      "Montréal Regional County Municipality"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Quebec",
@@ -315,6 +387,14 @@
       "Vaudreuil Soulanges Regional County Municipality"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Saskatchewan",
+    "period": "Pedestrian (backpack) locations for July 28, 2025 - August 05, 2025",
+    "subdivisions": [
+      "Saskatoon"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Saskatchewan",

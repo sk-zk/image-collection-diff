@@ -6,5 +6,81 @@
       "Budapest"
     ],
     "type": "backpack"
+  },
+  {
+    "region": "Budapest",
+    "period": "Járművek által bejárt helyek 2025. Augusztus 01. - 2025. Szeptember 25.",
+    "subdivisions": [
+      "Budapest"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Dél-Alföld",
+    "period": "Járművek által bejárt helyek 2025. Augusztus 01. - 2025. Szeptember 25.",
+    "subdivisions": [
+      "Bács-Kiskun",
+      "Békés",
+      "Csongrád-Csanád"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Dél-Dunántúl",
+    "period": "Járművek által bejárt helyek 2025. Augusztus 01. - 2025. Szeptember 25.",
+    "subdivisions": [
+      "Baranya",
+      "Somogy",
+      "Tolna"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Észak-Alföld",
+    "period": "Járművek által bejárt helyek 2025. Augusztus 01. - 2025. Szeptember 25.",
+    "subdivisions": [
+      "Hajdú-Bihar",
+      "Jász-Nagykun-Szolnok",
+      "Szabolcs-Szatmár-Bereg"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Észak-Magyarország",
+    "period": "Járművek által bejárt helyek 2025. Augusztus 01. - 2025. Szeptember 25.",
+    "subdivisions": [
+      "Borsod-Abaúj-Zemplén",
+      "Heves",
+      "Nógrád"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Közép-Dunántúl",
+    "period": "Járművek által bejárt helyek 2025. Augusztus 01. - 2025. Szeptember 25.",
+    "subdivisions": [
+      "Fejér",
+      "Komárom-Esztergom",
+      "Veszprém"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Nyugat-Dunántúl",
+    "period": "Járművek által bejárt helyek 2025. Augusztus 01. - 2025. Szeptember 25.",
+    "subdivisions": [
+      "Győr-Moson-Sopron",
+      "Vas",
+      "Zala"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Pest",
+    "period": "Járművek által bejárt helyek 2025. Augusztus 01. - 2025. Szeptember 25.",
+    "subdivisions": [
+      "Pest"
+    ],
+    "type": "vehicle"
   }
 ]
