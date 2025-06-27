@@ -234,15 +234,8 @@
     "period": "Zones piétonnes (sac à dos) sur la période 31 mars 2025 - 02 mai 2025",
     "subdivisions": [
       "Alpes-Maritimes",
+      "Bouches-du-Rhône",
       "Var"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Provence-Alpes-Côte d'Azur",
-    "period": "Zones piétonnes (sac à dos) sur la période 31 mars 2025 - 05 mai 2025",
-    "subdivisions": [
-      "Bouches-du-Rhône"
     ],
     "type": "backpack"
   },
