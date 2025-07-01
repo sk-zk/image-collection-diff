@@ -1,11 +1,12 @@
 [
   {
     "region": "Central",
-    "period": "Vehicle locations for November 25, 2024 - May 30, 2025",
+    "period": "Vehicle locations for July 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Saraburi",
       "Singburi",
       "Chai Nat",
+      "Ang Thong",
       "Lop Buri",
       "Phra Nakhon Sri Ayutthaya"
     ],
@@ -13,9 +14,11 @@
   },
   {
     "region": "Western",
-    "period": "Vehicle locations for November 25, 2024 - May 30, 2025",
+    "period": "Vehicle locations for July 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Ratchaburi",
+      "Phachuap Khiri Khan",
+      "Suphan Buri",
       "Samut Songkhram",
       "Kanchanaburi",
       "Phetchaburi",
@@ -25,83 +28,78 @@
   },
   {
     "region": "Northeastern",
-    "period": "Pedestrian (backpack) locations for February 01, 2025 - April 30, 2025",
+    "period": "Vehicle locations for July 01, 2025 - December 31, 2025",
     "subdivisions": [
-      "Udon Thani"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Northeastern",
-    "period": "Vehicle locations for November 25, 2024 - May 30, 2025",
-    "subdivisions": [
-      "Nakhon Ratchasima"
+      "Khon Kaen",
+      "Nakhon Phanom",
+      "Yasothon",
+      "Maha Sarakham",
+      "Udon Thani",
+      "Sakon Nakhon",
+      "Ubon Ratchathani",
+      "Si Sa Ket",
+      "Loei",
+      "Kalasin",
+      "Roi Et",
+      "Nongbua Lamphu",
+      "Nong Khai",
+      "Nakhon Ratchasima",
+      "Buri Ram",
+      "Amnat Chareon",
+      "Mukdahan",
+      "Chaiyaphum",
+      "Surin",
+      "Bueng Kan"
     ],
     "type": "vehicle"
   },
   {
     "region": "Eastern",
-    "period": "Pedestrian (backpack) locations for February 01, 2025 - April 30, 2025",
-    "subdivisions": [
-      "Chon Buri"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Eastern",
-    "period": "Vehicle locations for November 25, 2024 - May 30, 2025",
+    "period": "Vehicle locations for July 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Chon Buri",
       "Rayong",
+      "Chanthaburi",
       "Prachin Buri",
-      "Chachoengsao"
+      "Chachoengsao",
+      "Trat",
+      "Nakhon Nayok",
+      "Sa Kaew"
     ],
     "type": "vehicle"
   },
   {
     "region": "Bangkok and Vicinities",
-    "period": "Pedestrian (backpack) locations for February 01, 2025 - April 30, 2025",
-    "subdivisions": [
-      "Bangkok",
-      "Nonthaburi",
-      "Samut Prakan"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Bangkok and Vicinities",
-    "period": "Vehicle locations for November 25, 2024 - May 30, 2025",
+    "period": "Vehicle locations for July 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Bangkok",
       "Pathum Thani",
       "Nakhon Pathom",
       "Nonthaburi",
-      "Samut Prakan"
+      "Samut Prakan",
+      "Samut Sakhon"
     ],
     "type": "vehicle"
   },
   {
     "region": "Northern",
-    "period": "Pedestrian (backpack) locations for February 01, 2025 - April 30, 2025",
-    "subdivisions": [
-      "Chiang Mai"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Northern",
-    "period": "Vehicle locations for November 25, 2024 - May 30, 2025",
+    "period": "Vehicle locations for July 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Uttaradit",
+      "Mae Hong Son",
       "Chiang Rai",
       "Phrae",
       "Lamphun",
+      "Nan",
       "Phayao",
       "Nakhon Sawan",
       "Phitsanulok",
       "Kam Phaeng Phet",
+      "Uthai Thani",
       "Sukhothai",
+      "Tak",
       "Phichit",
+      "Phetchabun",
       "Chiang Mai",
       "Lampang"
     ],
@@ -109,15 +107,7 @@
   },
   {
     "region": "Southern",
-    "period": "Pedestrian (backpack) locations for February 01, 2025 - April 30, 2025",
-    "subdivisions": [
-      "Phuket"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Southern",
-    "period": "Vehicle locations for November 25, 2024 - May 30, 2025",
+    "period": "Vehicle locations for July 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Phuket",
       "Krabi",
@@ -125,11 +115,14 @@
       "Phatthalung",
       "Surat Thani",
       "Chumphon",
+      "Yala",
       "Pattani",
+      "Ranong",
       "Nakhon Si Thammarat",
       "Trang",
       "Phangnga",
       "Songkhla",
+      "Narathiwat",
       "Hat Yai"
     ],
     "type": "vehicle"
