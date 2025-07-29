@@ -787,6 +787,14 @@
   },
   {
     "region": "Illinois",
+    "period": "Transit (iPhone/iPad) locations for August 18, 2025 - August 29, 2025",
+    "subdivisions": [
+      "Cook County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Illinois",
     "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Adams County",
@@ -2243,6 +2251,18 @@
       "Richmond County"
     ],
     "type": "backpack"
+  },
+  {
+    "region": "New York",
+    "period": "Transit (iPhone/iPad) locations for August 04, 2025 - August 14, 2025",
+    "subdivisions": [
+      "Bronx County",
+      "Kings County",
+      "New York County",
+      "Queens County",
+      "Richmond County"
+    ],
+    "type": "ipad"
   },
   {
     "region": "New York",
