@@ -231,11 +231,18 @@
   },
   {
     "region": "California",
-    "period": "Pedestrian (backpack) locations for April 01, 2025 - May 30, 2025",
+    "period": "Pedestrian (backpack) locations for April 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Alameda County",
+      "San Mateo County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "California",
+    "period": "Pedestrian (backpack) locations for April 01, 2025 - December 31, 2025",
+    "subdivisions": [
       "San Francisco County",
-      "San Mateo County",
       "Santa Clara County",
       "Santa Cruz County"
     ],
@@ -901,6 +908,14 @@
       "Woodford County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Illinois",
+    "period": "Transit (iPhone/iPad) locations for August 18, 2025 - August 29, 2025",
+    "subdivisions": [
+      "Cook County"
+    ],
+    "type": "ipad"
   },
   {
     "region": "Indiana",
@@ -2332,6 +2347,18 @@
       "Yates County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "New York",
+    "period": "Transit (iPhone/iPad) locations for August 04, 2025 - August 14, 2025",
+    "subdivisions": [
+      "Bronx County",
+      "Kings County",
+      "New York County",
+      "Queens County",
+      "Richmond County"
+    ],
+    "type": "ipad"
   },
   {
     "region": "North Carolina",
