@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "region": "Vilnius",
+    "period": "2024 m. rugsėjo 06 d - 2024 m. spalio 09 d",
+    "type": "Tipas: Pėsčiasis – kuprinė"
+  },
+  {
+    "region": "Alytus",
+    "period": "2024 m. gegužės 03 d - 2024 m. birželio 15 d",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kaunas",
+    "period": "2024 m. gegužės 10 d - 2024 m. birželio 25 d",
+    "type": "vehicle"
+  },
+  {
+    "region": "Klaipeda",
+    "period": "2024 m. gegužės 15 d - 2024 m. liepos 07 d",
+    "type": "vehicle"
+  },
+  {
+    "region": "Marjampole",
+    "period": "2024 m. gegužės 15 d - 2024 m. liepos 07 d",
+    "type": "vehicle"
+  },
+  {
+    "region": "Panevezys",
+    "period": "2024 m. gegužės 10 d - 2024 m. birželio 25 d",
+    "type": "vehicle"
+  },
+  {
+    "region": "Siauliai",
+    "period": "2024 m. gegužės 10 d - 2024 m. birželio 25 d",
+    "type": "vehicle"
+  },
+  {
+    "region": "Taurage",
+    "period": "2024 m. gegužės 15 d - 2024 m. liepos 07 d",
+    "type": "vehicle"
+  },
+  {
+    "region": "Telsiai",
+    "period": "2024 m. gegužės 15 d - 2024 m. liepos 07 d",
+    "type": "vehicle"
+  },
+  {
+    "region": "Utena",
+    "period": "2024 m. gegužės 03 d - 2024 m. birželio 15 d",
+    "type": "vehicle"
+  },
+  {
+    "region": "Vilnius",
+    "period": "2024 m. gegužės 03 d - 2024 m. birželio 15 d",
+    "type": "vehicle"
+  }
+]
