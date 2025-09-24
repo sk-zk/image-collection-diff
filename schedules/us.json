@@ -3173,8 +3173,15 @@
       "Harris County",
       "Hays County",
       "Hidalgo County",
-      "Travis County",
       "Williamson County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Texas",
+    "period": "Pedestrian (backpack) locations for July 01, 2025 - October 31, 2025",
+    "subdivisions": [
+      "Travis County"
     ],
     "type": "backpack"
   },
