@@ -28,6 +28,14 @@
   },
   {
     "region": "Northeastern",
+    "period": "Pedestrian (backpack) locations for September 30, 2025 - December 31, 2025",
+    "subdivisions": [
+      "Nakhon Ratchasima"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Northeastern",
     "period": "Vehicle locations for July 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Khon Kaen",
@@ -55,6 +63,14 @@
   },
   {
     "region": "Eastern",
+    "period": "Pedestrian (backpack) locations for September 30, 2025 - December 31, 2025",
+    "subdivisions": [
+      "Chon Buri"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Eastern",
     "period": "Vehicle locations for July 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Chon Buri",
@@ -70,6 +86,19 @@
   },
   {
     "region": "Bangkok and Vicinities",
+    "period": "Pedestrian (backpack) locations for September 30, 2025 - December 31, 2025",
+    "subdivisions": [
+      "Bangkok",
+      "Pathum Thani",
+      "Nakhon Pathom",
+      "Nonthaburi",
+      "Samut Prakan",
+      "Samut Sakhon"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Bangkok and Vicinities",
     "period": "Vehicle locations for July 01, 2025 - December 31, 2025",
     "subdivisions": [
       "Bangkok",
@@ -80,6 +109,16 @@
       "Samut Sakhon"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Northern",
+    "period": "Pedestrian (backpack) locations for September 30, 2025 - December 31, 2025",
+    "subdivisions": [
+      "Chiang Rai",
+      "Phitsanulok",
+      "Chiang Mai"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Northern",
@@ -104,6 +143,14 @@
       "Lampang"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Southern",
+    "period": "Pedestrian (backpack) locations for September 30, 2025 - December 31, 2025",
+    "subdivisions": [
+      "Krabi"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Southern",
