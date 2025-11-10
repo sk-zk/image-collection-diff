@@ -1,7 +1,15 @@
 [
   {
     "region": "Auckland",
-    "period": "Vehicle locations for January 01, 2025 - March 31, 2025",
+    "period": "Pedestrian (backpack) locations for January 01, 2026 - March 31, 2026",
+    "subdivisions": [
+      "Auckland"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Auckland",
+    "period": "Vehicle locations for January 01, 2026 - March 31, 2026",
     "subdivisions": [
       "Auckland",
       "Far North District",
@@ -28,7 +36,15 @@
   },
   {
     "region": "Christchurch",
-    "period": "Vehicle locations for January 01, 2025 - March 31, 2025",
+    "period": "Pedestrian (backpack) locations for January 01, 2026 - March 31, 2026",
+    "subdivisions": [
+      "Christchurch City"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Christchurch",
+    "period": "Vehicle locations for January 01, 2026 - March 31, 2026",
     "subdivisions": [
       "Ashburton District",
       "Buller District",
@@ -58,7 +74,15 @@
   },
   {
     "region": "Wellington",
-    "period": "Vehicle locations for January 01, 2025 - March 31, 2025",
+    "period": "Pedestrian (backpack) locations for January 01, 2026 - March 31, 2026",
+    "subdivisions": [
+      "Wellington City"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Wellington",
+    "period": "Vehicle locations for January 01, 2026 - March 31, 2026",
     "subdivisions": [
       "Carterton District",
       "Central Hawke's Bay District",
