@@ -1,31 +1,16 @@
 [
   {
     "region": "台北市",
-    "period": "2025年10月01日 - 2026年6月30日",
-    "type": "vehicle"
+    "period": "2026年2月02日 - 2026年4月30日",
+    "type": "backpack"
   },
   {
     "region": "新北市",
-    "period": "2025年10月01日 - 2026年6月30日",
-    "type": "vehicle"
+    "period": "2026年2月02日 - 2026年4月30日",
+    "type": "backpack"
   },
   {
-    "region": "基隆市",
-    "period": "2025年10月01日 - 2026年6月30日",
-    "type": "vehicle"
-  },
-  {
-    "region": "桃園市",
-    "period": "2025年10月01日 - 2026年6月30日",
-    "type": "vehicle"
-  },
-  {
-    "region": "新竹市",
-    "period": "2025年10月01日 - 2026年6月30日",
-    "type": "vehicle"
-  },
-  {
-    "region": "新竹縣",
+    "region": "南投縣",
     "period": "2025年10月01日 - 2026年6月30日",
     "type": "vehicle"
   },
@@ -35,7 +20,12 @@
     "type": "vehicle"
   },
   {
-    "region": "南投縣",
+    "region": "台北市",
+    "period": "2025年10月01日 - 2026年6月30日",
+    "type": "vehicle"
+  },
+  {
+    "region": "台南市",
     "period": "2025年10月01日 - 2026年6月30日",
     "type": "vehicle"
   },
@@ -50,12 +40,42 @@
     "type": "vehicle"
   },
   {
-    "region": "苗栗縣",
+    "region": "基隆市",
+    "period": "2025年10月01日 - 2026年6月30日",
+    "type": "vehicle"
+  },
+  {
+    "region": "屏東縣",
     "period": "2025年10月01日 - 2026年6月30日",
     "type": "vehicle"
   },
   {
     "region": "彰化縣",
+    "period": "2025年10月01日 - 2026年6月30日",
+    "type": "vehicle"
+  },
+  {
+    "region": "新北市",
+    "period": "2025年10月01日 - 2026年6月30日",
+    "type": "vehicle"
+  },
+  {
+    "region": "新竹市",
+    "period": "2025年10月01日 - 2026年6月30日",
+    "type": "vehicle"
+  },
+  {
+    "region": "新竹縣",
+    "period": "2025年10月01日 - 2026年6月30日",
+    "type": "vehicle"
+  },
+  {
+    "region": "桃園市",
+    "period": "2025年10月01日 - 2026年6月30日",
+    "type": "vehicle"
+  },
+  {
+    "region": "苗栗縣",
     "period": "2025年10月01日 - 2026年6月30日",
     "type": "vehicle"
   },
@@ -66,16 +86,6 @@
   },
   {
     "region": "高雄市",
-    "period": "2025年10月01日 - 2026年6月30日",
-    "type": "vehicle"
-  },
-  {
-    "region": "屏東縣",
-    "period": "2025年10月01日 - 2026年6月30日",
-    "type": "vehicle"
-  },
-  {
-    "region": "台南市",
     "period": "2025年10月01日 - 2026年6月30日",
     "type": "vehicle"
   }
