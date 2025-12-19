@@ -1,7 +1,7 @@
 [
   {
     "region": "Alabama",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Autauga County",
       "Baldwin County",
@@ -74,44 +74,8 @@
     "type": "vehicle"
   },
   {
-    "region": "Alaska",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
-    "subdivisions": [
-      "Aleutians East Borough",
-      "Aleutians West Census Area",
-      "Anchorage Municipality",
-      "Bethel Census Area",
-      "Bristol Bay Borough",
-      "Denali Borough",
-      "Dillingham Census Area",
-      "Fairbanks North Star Borough",
-      "Haines Borough",
-      "Hoonah-Angoon Census Area",
-      "Juneau City and Borough",
-      "Kenai Peninsula Borough",
-      "Ketchikan Gateway Borough",
-      "Kodiak Island Borough",
-      "Lake and Peninsula Borough",
-      "Matanuska-Susitna Borough",
-      "Nome Census Area",
-      "North Slope Borough",
-      "Northwest Arctic Borough",
-      "Petersburg Borough",
-      "Prince of Wales-Hyder Census Area",
-      "Sitka City and Borough",
-      "Skagway Municipality",
-      "Southeast Fairbanks Census Area",
-      "Valdez-Cordova Census Area",
-      "Wade Hampton Census Area",
-      "Wrangell City and Borough",
-      "Yakutat City and Borough",
-      "Yukon-Koyukuk Census Area"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Arizona",
-    "period": "Pedestrian (backpack) locations for June 05, 2025 - June 25, 2025",
+    "period": "Pedestrian (backpack) locations for June 25, 2026 - July 06, 2026",
     "subdivisions": [
       "Maricopa County"
     ],
@@ -119,15 +83,7 @@
   },
   {
     "region": "Arizona",
-    "period": "Pedestrian (backpack) locations for June 10, 2025 - June 30, 2025",
-    "subdivisions": [
-      "Pima County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Arizona",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Apache County",
       "Cochise County",
@@ -149,7 +105,7 @@
   },
   {
     "region": "Arkansas",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Arkansas County",
       "Ashley County",
@@ -231,7 +187,23 @@
   },
   {
     "region": "California",
-    "period": "Pedestrian (backpack) locations for January 01, 2025 - December 31, 2025",
+    "period": "Pedestrian (backpack) locations for April 13, 2026 - April 14, 2026",
+    "subdivisions": [
+      "Fresno County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "California",
+    "period": "Pedestrian (backpack) locations for April 16, 2026 - May 28, 2026",
+    "subdivisions": [
+      "Los Angeles County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "California",
+    "period": "Pedestrian (backpack) locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Alameda County",
       "San Francisco County",
@@ -243,7 +215,63 @@
   },
   {
     "region": "California",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Pedestrian (backpack) locations for June 01, 2026 - June 02, 2026",
+    "subdivisions": [
+      "Riverside County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "California",
+    "period": "Pedestrian (backpack) locations for June 04, 2026 - June 23, 2026",
+    "subdivisions": [
+      "San Diego County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "California",
+    "period": "Pedestrian (backpack) locations for March 02, 2026 - March 09, 2026",
+    "subdivisions": [
+      "Sacramento County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "California",
+    "period": "Pedestrian (backpack) locations for March 11, 2026 - March 11, 2026",
+    "subdivisions": [
+      "Napa County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "California",
+    "period": "Pedestrian (backpack) locations for March 13, 2026 - March 16, 2026",
+    "subdivisions": [
+      "Contra Costa County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "California",
+    "period": "Transit (iPhone/iPad) locations for April 17, 2026 - April 23, 2026",
+    "subdivisions": [
+      "Los Angeles County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "California",
+    "period": "Transit (iPhone/iPad) locations for April 27, 2026 - May 11, 2026",
+    "subdivisions": [
+      "San Francisco County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "California",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Alameda County",
       "Alpine County",
@@ -307,23 +335,32 @@
     "type": "vehicle"
   },
   {
-    "region": "Colorado",
-    "period": "Pedestrian (backpack) locations for June 01, 2025 - July 12, 2025",
+    "region": "California",
+    "period": "Transit (iPhone/iPad) locations for April 17, 2026 - April 23, 2026",
     "subdivisions": [
-      "Adams County",
-      "Arapahoe County",
-      "Boulder County",
-      "City and County of Broomfield",
-      "Clear Creek County",
-      "Denver County",
-      "Jefferson County",
-      "Weld County"
+      "Los Angeles County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "California",
+    "period": "Transit (iPhone/iPad) locations for April 27, 2026 - May 11, 2026",
+    "subdivisions": [
+      "San Francisco County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Colorado",
+    "period": "Pedestrian (backpack) locations for June 25, 2026 - July 08, 2026",
+    "subdivisions": [
+      "Douglas County"
     ],
     "type": "backpack"
   },
   {
     "region": "Colorado",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adams County",
       "Alamosa County",
@@ -395,16 +432,7 @@
   },
   {
     "region": "Connecticut",
-    "period": "Pedestrian (backpack) locations for September 01, 2025 - September 30, 2025",
-    "subdivisions": [
-      "Hartford County",
-      "New Haven County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Connecticut",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Fairfield County",
       "Hartford County",
@@ -419,7 +447,7 @@
   },
   {
     "region": "Delaware",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Kent County",
       "New Castle County",
@@ -429,15 +457,15 @@
   },
   {
     "region": "District of Columbia",
-    "period": "Pedestrian (backpack) locations for July 01, 2025 - August 15, 2025",
+    "period": "Transit (iPhone/iPad) locations for April 13, 2026 - April 15, 2026",
     "subdivisions": [
       "Washington, D.C"
     ],
-    "type": "backpack"
+    "type": "ipad"
   },
   {
     "region": "District of Columbia",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Washington, D.C"
     ],
@@ -445,21 +473,39 @@
   },
   {
     "region": "Florida",
-    "period": "Pedestrian (backpack) locations for March 17, 2025 - May 30, 2025",
+    "period": "Pedestrian (backpack) locations for March 02, 2026 - March 13, 2026",
     "subdivisions": [
-      "Duval County",
-      "Hillsborough County",
-      "Lee County",
-      "Miami-Dade County",
-      "Orange County",
-      "Palm Beach County",
-      "Sarasota County"
+      "Miami-Dade County"
     ],
     "type": "backpack"
   },
   {
     "region": "Florida",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Pedestrian (backpack) locations for March 16, 2026 - March 23, 2026",
+    "subdivisions": [
+      "Hillsborough County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Florida",
+    "period": "Pedestrian (backpack) locations for March 25, 2026 - April 01, 2026",
+    "subdivisions": [
+      "Orange County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Florida",
+    "period": "Transit (iPhone/iPad) locations for April 06, 2026 - April 07, 2026",
+    "subdivisions": [
+      "Miami-Dade County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Florida",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Alachua County",
       "Baker County",
@@ -532,17 +578,32 @@
     "type": "vehicle"
   },
   {
-    "region": "Georgia",
-    "period": "Pedestrian (backpack) locations for May 01, 2025 - June 30, 2025",
+    "region": "Florida",
+    "period": "Transit (iPhone/iPad) locations for April 06, 2026 - April 07, 2026",
     "subdivisions": [
-      "DeKalb County",
+      "Miami-Dade County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Georgia",
+    "period": "Pedestrian (backpack) locations for March 02, 2026 - March 19, 2026",
+    "subdivisions": [
       "Fulton County"
     ],
     "type": "backpack"
   },
   {
     "region": "Georgia",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Transit (iPhone/iPad) locations for April 09, 2026 - April 10, 2026",
+    "subdivisions": [
+      "Fulton County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Georgia",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Appling County",
       "Atkinson County",
@@ -707,16 +768,16 @@
     "type": "vehicle"
   },
   {
-    "region": "Hawaii",
-    "period": "Pedestrian (backpack) locations for April 01, 2025 - May 15, 2025",
+    "region": "Georgia",
+    "period": "Transit (iPhone/iPad) locations for April 09, 2026 - April 10, 2026",
     "subdivisions": [
-      "Honolulu County"
+      "Fulton County"
     ],
-    "type": "backpack"
+    "type": "ipad"
   },
   {
     "region": "Hawaii",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Hawaii County",
       "Honolulu County",
@@ -728,7 +789,15 @@
   },
   {
     "region": "Idaho",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Pedestrian (backpack) locations for July 10, 2026 - July 14, 2026",
+    "subdivisions": [
+      "Ada County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Idaho",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Ada County",
       "Adams County",
@@ -779,7 +848,7 @@
   },
   {
     "region": "Illinois",
-    "period": "Pedestrian (backpack) locations for August 01, 2025 - September 30, 2025",
+    "period": "Pedestrian (backpack) locations for June 05, 2026 - June 25, 2026",
     "subdivisions": [
       "Cook County"
     ],
@@ -787,7 +856,15 @@
   },
   {
     "region": "Illinois",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Transit (iPhone/iPad) locations for May 29, 2026 - June 08, 2026",
+    "subdivisions": [
+      "Cook County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Illinois",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adams County",
       "Alexander County",
@@ -895,8 +972,16 @@
     "type": "vehicle"
   },
   {
+    "region": "Illinois",
+    "period": "Transit (iPhone/iPad) locations for May 29, 2026 - June 08, 2026",
+    "subdivisions": [
+      "Cook County"
+    ],
+    "type": "ipad"
+  },
+  {
     "region": "Indiana",
-    "period": "Pedestrian (backpack) locations for June 01, 2025 - July 10, 2025",
+    "period": "Pedestrian (backpack) locations for August 10, 2026 - August 14, 2026",
     "subdivisions": [
       "Marion County"
     ],
@@ -904,7 +989,7 @@
   },
   {
     "region": "Indiana",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adams County",
       "Allen County",
@@ -1003,7 +1088,7 @@
   },
   {
     "region": "Iowa",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adair County",
       "Adams County",
@@ -1109,7 +1194,7 @@
   },
   {
     "region": "Kansas",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Allen County",
       "Anderson County",
@@ -1221,16 +1306,7 @@
   },
   {
     "region": "Kentucky",
-    "period": "Pedestrian (backpack) locations for May 01, 2025 - May 30, 2025",
-    "subdivisions": [
-      "Jefferson County",
-      "Knox County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Kentucky",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adair County",
       "Allen County",
@@ -1357,7 +1433,23 @@
   },
   {
     "region": "Louisiana",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Pedestrian (backpack) locations for April 10, 2026 - April 14, 2026",
+    "subdivisions": [
+      "East Baton Rouge Parish"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Louisiana",
+    "period": "Pedestrian (backpack) locations for April 03, 2026 - April 08, 2026",
+    "subdivisions": [
+      "New Orleans"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Louisiana",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Acadia Parish",
       "Allen Parish",
@@ -1428,7 +1520,7 @@
   },
   {
     "region": "Maine",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Androscoggin County",
       "Aroostook County",
@@ -1451,16 +1543,7 @@
   },
   {
     "region": "Maryland",
-    "period": "Pedestrian (backpack) locations for July 01, 2025 - August 30, 2025",
-    "subdivisions": [
-      "Baltimore",
-      "Baltimore County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Maryland",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Allegany County",
       "Anne Arundel County",
@@ -1491,7 +1574,7 @@
   },
   {
     "region": "Massachusetts",
-    "period": "Pedestrian (backpack) locations for September 01, 2025 - September 30, 2025",
+    "period": "Pedestrian (backpack) locations for May 26, 2026 - June 03, 2026",
     "subdivisions": [
       "Suffolk County"
     ],
@@ -1499,7 +1582,15 @@
   },
   {
     "region": "Massachusetts",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Transit (iPhone/iPad) locations for May 21, 2026 - May 27, 2026",
+    "subdivisions": [
+      "Suffolk County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Massachusetts",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Barnstable County",
       "Berkshire County",
@@ -1519,17 +1610,24 @@
     "type": "vehicle"
   },
   {
-    "region": "Michigan",
-    "period": "Pedestrian (backpack) locations for July 01, 2025 - August 30, 2025",
+    "region": "Massachusetts",
+    "period": "Transit (iPhone/iPad) locations for May 21, 2026 - May 27, 2026",
     "subdivisions": [
-      "Kent County",
+      "Suffolk County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Michigan",
+    "period": "Pedestrian (backpack) locations for June 29, 2026 - July 09, 2026",
+    "subdivisions": [
       "Wayne County"
     ],
     "type": "backpack"
   },
   {
     "region": "Michigan",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Alcona County",
       "Alger County",
@@ -1619,7 +1717,7 @@
   },
   {
     "region": "Minnesota",
-    "period": "Pedestrian (backpack) locations for September 01, 2025 - September 30, 2025",
+    "period": "Pedestrian (backpack) locations for June 01, 2026 - June 16, 2026",
     "subdivisions": [
       "Hennepin County"
     ],
@@ -1627,7 +1725,7 @@
   },
   {
     "region": "Minnesota",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Aitkin County",
       "Anoka County",
@@ -1721,7 +1819,7 @@
   },
   {
     "region": "Mississippi",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adams County",
       "Alcorn County",
@@ -1810,12 +1908,8 @@
   },
   {
     "region": "Missouri",
-    "period": "Pedestrian (backpack) locations for June 01, 2025 - June 30, 2025",
+    "period": "Pedestrian (backpack) locations for August 17, 2026 - August 24, 2026",
     "subdivisions": [
-      "Cass County",
-      "Clay County",
-      "Jackson County",
-      "Platte County",
       "St. Louis",
       "St. Louis County"
     ],
@@ -1823,7 +1917,7 @@
   },
   {
     "region": "Missouri",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adair County",
       "Andrew County",
@@ -1945,7 +2039,7 @@
   },
   {
     "region": "Montana",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Beaverhead County",
       "Big Horn County",
@@ -2008,7 +2102,15 @@
   },
   {
     "region": "Nebraska",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Pedestrian (backpack) locations for June 18, 2026 - June 23, 2026",
+    "subdivisions": [
+      "Douglas County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Nebraska",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adams County",
       "Antelope County",
@@ -2108,7 +2210,7 @@
   },
   {
     "region": "Nevada",
-    "period": "Pedestrian (backpack) locations for June 01, 2025 - June 30, 2025",
+    "period": "Pedestrian (backpack) locations for July 08, 2026 - July 15, 2026",
     "subdivisions": [
       "Clark County"
     ],
@@ -2116,7 +2218,7 @@
   },
   {
     "region": "Nevada",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Carson City",
       "Churchill County",
@@ -2140,7 +2242,7 @@
   },
   {
     "region": "New Hampshire",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Belknap County",
       "Carroll County",
@@ -2157,7 +2259,7 @@
   },
   {
     "region": "New Jersey",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Atlantic County",
       "Bergen County",
@@ -2185,15 +2287,7 @@
   },
   {
     "region": "New Mexico",
-    "period": "Pedestrian (backpack) locations for June 20, 2025 - July 30, 2025",
-    "subdivisions": [
-      "Bernalillo County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "New Mexico",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Bernalillo County",
       "Catron County",
@@ -2233,11 +2327,10 @@
   },
   {
     "region": "New York",
-    "period": "Pedestrian (backpack) locations for August 01, 2025 - September 20, 2025",
+    "period": "Pedestrian (backpack) locations for April 30, 2026 - May 21, 2026",
     "subdivisions": [
       "Bronx County",
-      "Erie County",
-      "Monroe County",
+      "Kings County",
       "New York County",
       "Queens County",
       "Richmond County"
@@ -2246,7 +2339,19 @@
   },
   {
     "region": "New York",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Transit (iPhone/iPad) locations for May 04, 2026 - May 19, 2026",
+    "subdivisions": [
+      "Bronx County",
+      "Kings County",
+      "New York County",
+      "Queens County",
+      "Richmond County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "New York",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Albany County",
       "Allegany County",
@@ -2314,17 +2419,20 @@
     "type": "vehicle"
   },
   {
-    "region": "North Carolina",
-    "period": "Pedestrian (backpack) locations for June 01, 2025 - June 30, 2025",
+    "region": "New York",
+    "period": "Transit (iPhone/iPad) locations for May 04, 2026 - May 19, 2026",
     "subdivisions": [
-      "Halifax County",
-      "Mecklenburg County"
+      "Bronx County",
+      "Kings County",
+      "New York County",
+      "Queens County",
+      "Richmond County"
     ],
-    "type": "backpack"
+    "type": "ipad"
   },
   {
     "region": "North Carolina",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Alamance County",
       "Alexander County",
@@ -2431,7 +2539,7 @@
   },
   {
     "region": "North Dakota",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adams County",
       "Barnes County",
@@ -2491,16 +2599,31 @@
   },
   {
     "region": "Ohio",
-    "period": "Pedestrian (backpack) locations for July 01, 2025 - August 10, 2025",
+    "period": "Pedestrian (backpack) locations for July 13, 2026 - July 20, 2026",
     "subdivisions": [
-      "Franklin County",
-      "Montgomery County"
+      "Cuyahoga County"
     ],
     "type": "backpack"
   },
   {
     "region": "Ohio",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Pedestrian (backpack) locations for July 22, 2026 - July 28, 2026",
+    "subdivisions": [
+      "Franklin County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Ohio",
+    "period": "Pedestrian (backpack) locations for July 30, 2026 - August 06, 2026",
+    "subdivisions": [
+      "Hamilton County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Ohio",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adams County",
       "Allen County",
@@ -2595,16 +2718,7 @@
   },
   {
     "region": "Oklahoma",
-    "period": "Pedestrian (backpack) locations for September 01, 2025 - September 30, 2025",
-    "subdivisions": [
-      "Oklahoma County",
-      "Tulsa County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Oklahoma",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adair County",
       "Alfalfa County",
@@ -2688,15 +2802,15 @@
   },
   {
     "region": "Oregon",
-    "period": "Pedestrian (backpack) locations for June 01, 2025 - June 30, 2025",
+    "period": "Pedestrian (backpack) locations for July 16, 2026 - July 20, 2026",
     "subdivisions": [
-      "Multnomah County"
+      "Deschutes County"
     ],
     "type": "backpack"
   },
   {
     "region": "Oregon",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Baker County",
       "Benton County",
@@ -2739,17 +2853,23 @@
   },
   {
     "region": "Pennsylvania",
-    "period": "Pedestrian (backpack) locations for August 01, 2025 - August 30, 2025",
+    "period": "Pedestrian (backpack) locations for April 15, 2026 - April 28, 2026",
     "subdivisions": [
-      "Allegheny County",
-      "Lehigh County",
       "Philadelphia County"
     ],
     "type": "backpack"
   },
   {
     "region": "Pennsylvania",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Transit (iPhone/iPad) locations for April 17, 2026 - April 30, 2026",
+    "subdivisions": [
+      "Philadelphia County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Pennsylvania",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adams County",
       "Allegheny County",
@@ -2822,101 +2942,16 @@
     "type": "vehicle"
   },
   {
-    "region": "Puerto Rico",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "region": "Pennsylvania",
+    "period": "Transit (iPhone/iPad) locations for April 17, 2026 - April 30, 2026",
     "subdivisions": [
-      "Adjuntas Municipio",
-      "Aguada Municipio",
-      "Aguadilla Municipio",
-      "Aguas Buenas Municipio",
-      "Aibonito Municipio",
-      "Añasco Municipio",
-      "Arecibo Municipio",
-      "Arroyo Municipio",
-      "Barceloneta Municipio",
-      "Barranquitas Municipio",
-      "Bayamón Municipio",
-      "Cabo Rojo Municipio",
-      "Caguas Municipio",
-      "Camuy Municipio",
-      "Canóvanas Municipio",
-      "Carolina Municipio",
-      "Cataño Municipio",
-      "Cayey Municipio",
-      "Ceiba Municipio",
-      "Ciales Municipio",
-      "Cidra Municipio",
-      "Coamo Municipio",
-      "Comerío Municipio",
-      "Corozal Municipio",
-      "Culebra Municipio",
-      "Dorado Municipio",
-      "Fajardo Municipio",
-      "Florida Municipio",
-      "Guánica Municipio",
-      "Guayama Municipio",
-      "Guayanilla Municipio",
-      "Guaynabo Municipio",
-      "Gurabo Municipio",
-      "Hatillo Municipio",
-      "Hormigueros Municipio",
-      "Humacao Municipio",
-      "Isabela Municipio",
-      "Jayuya Municipio",
-      "Juana Díaz Municipio",
-      "Juncos Municipio",
-      "Lajas Municipio",
-      "Lares Municipio",
-      "Las Marías Municipio",
-      "Las Piedras Municipio",
-      "Loíza Municipio",
-      "Luquillo Municipio",
-      "Manatí Municipio",
-      "Maricao Municipio",
-      "Maunabo Municipio",
-      "Mayagüez Municipio",
-      "Moca Municipio",
-      "Morovis Municipio",
-      "Naguabo Municipio",
-      "Naranjito Municipio",
-      "Orocovis Municipio",
-      "Patillas Municipio",
-      "Peñuelas Municipio",
-      "Ponce Municipio",
-      "Quebradillas Municipio",
-      "Rincón Municipio",
-      "Río Grande Municipio",
-      "Sabana Grande Municipio",
-      "Salinas Municipio",
-      "San Germán Municipio",
-      "San Juan Municipio",
-      "San Lorenzo Municipio",
-      "San Sebastián Municipio",
-      "Santa Isabel Municipio",
-      "Toa Alta Municipio",
-      "Toa Baja Municipio",
-      "Trujillo Alto Municipio",
-      "Utuado Municipio",
-      "Vega Alta Municipio",
-      "Vega Baja Municipio",
-      "Vieques Municipio",
-      "Villalba Municipio",
-      "Yabucoa Municipio",
-      "Yauco Municipio"
+      "Philadelphia County"
     ],
-    "type": "vehicle"
+    "type": "ipad"
   },
   {
     "region": "Rhode Island",
-    "period": "Pedestrian (backpack) locations for September 01, 2025 - September 30, 2025",
-    "subdivisions": [
-      "Providence County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Rhode Island",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Bristol County",
       "Kent County",
@@ -2928,7 +2963,7 @@
   },
   {
     "region": "South Carolina",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Abbeville County",
       "Aiken County",
@@ -2981,7 +3016,7 @@
   },
   {
     "region": "South Dakota",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Aurora County",
       "Beadle County",
@@ -3054,16 +3089,7 @@
   },
   {
     "region": "Tennessee",
-    "period": "Pedestrian (backpack) locations for May 01, 2025 - June 30, 2025",
-    "subdivisions": [
-      "Davidson County",
-      "Shelby County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Tennessee",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Anderson County",
       "Bedford County",
@@ -3165,29 +3191,23 @@
   },
   {
     "region": "Texas",
-    "period": "Pedestrian (backpack) locations for July 01, 2025 - August 30, 2025",
+    "period": "Transit (iPhone/iPad) locations for April 13, 2026 - April 15, 2026",
     "subdivisions": [
-      "Bexar County",
-      "Dallas County",
-      "El Paso County",
-      "Harris County",
-      "Hays County",
-      "Hidalgo County",
-      "Williamson County"
+      "Harris County"
     ],
-    "type": "backpack"
+    "type": "ipad"
   },
   {
     "region": "Texas",
-    "period": "Pedestrian (backpack) locations for July 01, 2025 - October 31, 2025",
+    "period": "Transit (iPhone/iPad) locations for April 06, 2026 - April 09, 2026",
     "subdivisions": [
-      "Travis County"
+      "Dallas County"
     ],
-    "type": "backpack"
+    "type": "ipad"
   },
   {
     "region": "Texas",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Anderson County",
       "Andrews County",
@@ -3447,24 +3467,8 @@
     "type": "vehicle"
   },
   {
-    "region": "United States Virgin Islands",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
-    "subdivisions": [
-      "St. Croix Island"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Utah",
-    "period": "Pedestrian (backpack) locations for June 01, 2025 - June 30, 2025",
-    "subdivisions": [
-      "Salt Lake County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Utah",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Beaver County",
       "Box Elder County",
@@ -3500,7 +3504,7 @@
   },
   {
     "region": "Vermont",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Addison County",
       "Bennington County",
@@ -3521,7 +3525,7 @@
   },
   {
     "region": "Virginia",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Accomack County",
       "Albemarle County",
@@ -3661,16 +3665,25 @@
   },
   {
     "region": "Washington",
-    "period": "Pedestrian (backpack) locations for May 01, 2025 - June 30, 2025",
+    "period": "Pedestrian (backpack) locations for July 22, 2026 - August 20, 2026",
     "subdivisions": [
       "King County",
-      "Thurston County"
+      "Pierce County"
     ],
     "type": "backpack"
   },
   {
     "region": "Washington",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Transit (iPhone/iPad) locations for May 13, 2026 - May 15, 2026",
+    "subdivisions": [
+      "King County",
+      "Pierce County"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Washington",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adams County",
       "Asotin County",
@@ -3715,8 +3728,17 @@
     "type": "vehicle"
   },
   {
+    "region": "Washington",
+    "period": "Transit (iPhone/iPad) locations for May 13, 2026 - May 15, 2026",
+    "subdivisions": [
+      "King County",
+      "Pierce County"
+    ],
+    "type": "ipad"
+  },
+  {
     "region": "West Virginia",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Barbour County",
       "Berkeley County",
@@ -3778,15 +3800,7 @@
   },
   {
     "region": "Wisconsin",
-    "period": "Pedestrian (backpack) locations for September 01, 2025 - September 30, 2025",
-    "subdivisions": [
-      "Milwaukee County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Wisconsin",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Adams County",
       "Ashland County",
@@ -3865,7 +3879,7 @@
   },
   {
     "region": "Wyoming",
-    "period": "Vehicle locations for January 01, 2025 - December 31, 2025",
+    "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Albany County",
       "Big Horn County",
