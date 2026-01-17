@@ -1,7 +1,7 @@
 [
   {
     "region": "Australian Capital Territory",
-    "period": "Vehicle locations for October 01, 2025 - February 28, 2026",
+    "period": "Vehicle locations for October 01, 2025 - September 30, 2026",
     "subdivisions": [
       "Australian Capital Territory"
     ],
@@ -40,7 +40,7 @@
   },
   {
     "region": "New South Wales",
-    "period": "Vehicle locations for October 01, 2025 - February 28, 2026",
+    "period": "Vehicle locations for October 01, 2025 - September 30, 2026",
     "subdivisions": [
       "Ballina",
       "Bathurst Regional",
@@ -133,7 +133,7 @@
   },
   {
     "region": "Northern Territory",
-    "period": "Vehicle locations for October 01, 2025 - February 28, 2026",
+    "period": "Vehicle locations for October 01, 2025 - September 30, 2026",
     "subdivisions": [
       "Barkly",
       "Coomalie",
@@ -151,7 +151,7 @@
   },
   {
     "region": "Queensland",
-    "period": "Vehicle locations for October 01, 2025 - February 28, 2026",
+    "period": "Vehicle locations for October 01, 2025 - September 30, 2026",
     "subdivisions": [
       "Banana",
       "Brisbane",
@@ -202,7 +202,7 @@
   },
   {
     "region": "South Australia",
-    "period": "Vehicle locations for October 01, 2025 - February 28, 2026",
+    "period": "Vehicle locations for October 01, 2025 - September 30, 2026",
     "subdivisions": [
       "Adelaide",
       "Adelaide Hills",
@@ -231,6 +231,7 @@
       "Mount Remarkable",
       "Northern Areas",
       "Norwood Payneham And St Peters",
+      "Onkaparinga",
       "Onkaparinga",
       "Playford",
       "Port Adelaide Enfield",
@@ -268,7 +269,7 @@
   },
   {
     "region": "Tasmania",
-    "period": "Vehicle locations for October 01, 2025 - February 28, 2026",
+    "period": "Vehicle locations for October 01, 2025 - September 30, 2026",
     "subdivisions": [
       "Break O'Day",
       "Brighton",
@@ -317,7 +318,7 @@
   },
   {
     "region": "Victoria",
-    "period": "Vehicle locations for October 01, 2025 - February 28, 2026",
+    "period": "Vehicle locations for October 01, 2025 - September 30, 2026",
     "subdivisions": [
       "Alpine",
       "Ararat",
@@ -403,7 +404,7 @@
   },
   {
     "region": "Western Australia",
-    "period": "Vehicle locations for October 01, 2025 - February 28, 2026",
+    "period": "Vehicle locations for October 01, 2025 - September 30, 2026",
     "subdivisions": [
       "Albany",
       "Armadale",

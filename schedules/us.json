@@ -187,22 +187,6 @@
   },
   {
     "region": "California",
-    "period": "Pedestrian (backpack) locations for April 13, 2026 - April 14, 2026",
-    "subdivisions": [
-      "Fresno County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "California",
-    "period": "Pedestrian (backpack) locations for April 16, 2026 - May 28, 2026",
-    "subdivisions": [
-      "Los Angeles County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "California",
     "period": "Pedestrian (backpack) locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Alameda County",
@@ -210,22 +194,6 @@
       "San Mateo County",
       "Santa Clara County",
       "Santa Cruz County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "California",
-    "period": "Pedestrian (backpack) locations for June 01, 2026 - June 02, 2026",
-    "subdivisions": [
-      "Riverside County"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "California",
-    "period": "Pedestrian (backpack) locations for June 04, 2026 - June 23, 2026",
-    "subdivisions": [
-      "San Diego County"
     ],
     "type": "backpack"
   },
@@ -250,6 +218,38 @@
     "period": "Pedestrian (backpack) locations for March 13, 2026 - March 16, 2026",
     "subdivisions": [
       "Contra Costa County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "California",
+    "period": "Pedestrian (backpack) locations for April 13, 2026 - April 14, 2026",
+    "subdivisions": [
+      "Fresno County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "California",
+    "period": "Pedestrian (backpack) locations for April 16, 2026 - May 28, 2026",
+    "subdivisions": [
+      "Los Angeles County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "California",
+    "period": "Pedestrian (backpack) locations for June 01, 2026 - June 02, 2026",
+    "subdivisions": [
+      "Riverside County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "California",
+    "period": "Pedestrian (backpack) locations for June 04, 2026 - June 23, 2026",
+    "subdivisions": [
+      "San Diego County"
     ],
     "type": "backpack"
   },
@@ -333,22 +333,6 @@
       "Yuba County"
     ],
     "type": "vehicle"
-  },
-  {
-    "region": "California",
-    "period": "Transit (iPhone/iPad) locations for April 17, 2026 - April 23, 2026",
-    "subdivisions": [
-      "Los Angeles County"
-    ],
-    "type": "ipad"
-  },
-  {
-    "region": "California",
-    "period": "Transit (iPhone/iPad) locations for April 27, 2026 - May 11, 2026",
-    "subdivisions": [
-      "San Francisco County"
-    ],
-    "type": "ipad"
   },
   {
     "region": "Colorado",
@@ -578,14 +562,6 @@
     "type": "vehicle"
   },
   {
-    "region": "Florida",
-    "period": "Transit (iPhone/iPad) locations for April 06, 2026 - April 07, 2026",
-    "subdivisions": [
-      "Miami-Dade County"
-    ],
-    "type": "ipad"
-  },
-  {
     "region": "Georgia",
     "period": "Pedestrian (backpack) locations for March 02, 2026 - March 19, 2026",
     "subdivisions": [
@@ -766,14 +742,6 @@
       "Worth County"
     ],
     "type": "vehicle"
-  },
-  {
-    "region": "Georgia",
-    "period": "Transit (iPhone/iPad) locations for April 09, 2026 - April 10, 2026",
-    "subdivisions": [
-      "Fulton County"
-    ],
-    "type": "ipad"
   },
   {
     "region": "Hawaii",
@@ -970,14 +938,6 @@
       "Woodford County"
     ],
     "type": "vehicle"
-  },
-  {
-    "region": "Illinois",
-    "period": "Transit (iPhone/iPad) locations for May 29, 2026 - June 08, 2026",
-    "subdivisions": [
-      "Cook County"
-    ],
-    "type": "ipad"
   },
   {
     "region": "Indiana",
@@ -1433,17 +1393,17 @@
   },
   {
     "region": "Louisiana",
-    "period": "Pedestrian (backpack) locations for April 10, 2026 - April 14, 2026",
+    "period": "Pedestrian (backpack) locations for April 03, 2026 - April 08, 2026",
     "subdivisions": [
-      "East Baton Rouge Parish"
+      "New Orleans"
     ],
     "type": "backpack"
   },
   {
     "region": "Louisiana",
-    "period": "Pedestrian (backpack) locations for April 03, 2026 - April 08, 2026",
+    "period": "Pedestrian (backpack) locations for April 10, 2026 - April 14, 2026",
     "subdivisions": [
-      "New Orleans"
+      "East Baton Rouge Parish"
     ],
     "type": "backpack"
   },
@@ -1608,14 +1568,6 @@
       "Worcester County"
     ],
     "type": "vehicle"
-  },
-  {
-    "region": "Massachusetts",
-    "period": "Transit (iPhone/iPad) locations for May 21, 2026 - May 27, 2026",
-    "subdivisions": [
-      "Suffolk County"
-    ],
-    "type": "ipad"
   },
   {
     "region": "Michigan",
@@ -2419,18 +2371,6 @@
     "type": "vehicle"
   },
   {
-    "region": "New York",
-    "period": "Transit (iPhone/iPad) locations for May 04, 2026 - May 19, 2026",
-    "subdivisions": [
-      "Bronx County",
-      "Kings County",
-      "New York County",
-      "Queens County",
-      "Richmond County"
-    ],
-    "type": "ipad"
-  },
-  {
     "region": "North Carolina",
     "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
@@ -2942,14 +2882,6 @@
     "type": "vehicle"
   },
   {
-    "region": "Pennsylvania",
-    "period": "Transit (iPhone/iPad) locations for April 17, 2026 - April 30, 2026",
-    "subdivisions": [
-      "Philadelphia County"
-    ],
-    "type": "ipad"
-  },
-  {
     "region": "Rhode Island",
     "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
@@ -3191,17 +3123,17 @@
   },
   {
     "region": "Texas",
-    "period": "Transit (iPhone/iPad) locations for April 13, 2026 - April 15, 2026",
+    "period": "Transit (iPhone/iPad) locations for April 06, 2026 - April 09, 2026",
     "subdivisions": [
-      "Harris County"
+      "Dallas County"
     ],
     "type": "ipad"
   },
   {
     "region": "Texas",
-    "period": "Transit (iPhone/iPad) locations for April 06, 2026 - April 09, 2026",
+    "period": "Transit (iPhone/iPad) locations for April 13, 2026 - April 15, 2026",
     "subdivisions": [
-      "Dallas County"
+      "Harris County"
     ],
     "type": "ipad"
   },
@@ -3726,15 +3658,6 @@
       "Yakima County"
     ],
     "type": "vehicle"
-  },
-  {
-    "region": "Washington",
-    "period": "Transit (iPhone/iPad) locations for May 13, 2026 - May 15, 2026",
-    "subdivisions": [
-      "King County",
-      "Pierce County"
-    ],
-    "type": "ipad"
   },
   {
     "region": "West Virginia",
