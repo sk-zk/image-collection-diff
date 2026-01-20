@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "region": "New Taipei City",
+    "period": "February 02, 2026 - April 30, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Taipei City",
+    "period": "February 02, 2026 - April 30, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Changhua County",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Chiayi City",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Chiayi County",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Hsinchu City",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Hsinchu County",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kaohsiung City",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Keelung City",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Miaoli County",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Nantou County",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "New Taipei City",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pingtung County",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Taichung City",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tainan City",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Taipei City",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Taoyuan City",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Yunlin County",
+    "period": "October 01, 2025 - June 30, 2026",
+    "type": "vehicle"
+  }
+]
