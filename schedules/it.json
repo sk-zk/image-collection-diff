@@ -1,1 +1,244 @@
-[]
+[
+  {
+    "region": "Abruzzo",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Chieti",
+      "L'Aquila",
+      "Pescara",
+      "Teramo"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Apulia",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Bari",
+      "Barletta-Andria-Trani",
+      "Brindisi",
+      "Foggia",
+      "Lecce",
+      "Taranto"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Basilicata",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Matera",
+      "Potenza"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Calabria",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Catanzaro",
+      "Cosenza",
+      "Crotone",
+      "Reggio Calabria",
+      "Vibo Valentia"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Campania",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Avellino",
+      "Benevento",
+      "Caserta",
+      "Naples",
+      "Salerno"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Emilia-Romagna",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Bologna",
+      "Ferrara",
+      "Forlì-Cesena",
+      "Modena",
+      "Parma",
+      "Piacenza",
+      "Ravenna",
+      "Reggio Emilia",
+      "Rimini"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Friuli-Venezia Giulia",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Gorizia",
+      "Pordenone",
+      "Trieste",
+      "Udine"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Lazio",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Frosinone",
+      "Latina",
+      "Rieti",
+      "Rome",
+      "Viterbo"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Liguria",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Genoa",
+      "Imperia",
+      "La Spezia",
+      "Savona"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Lombardy",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Bergamo",
+      "Brescia",
+      "Como",
+      "Cremona",
+      "Lecco",
+      "Lodi",
+      "Mantua",
+      "Milan",
+      "Monza and Brianza",
+      "Pavia",
+      "Sondrio",
+      "Varese"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Marche",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Ancona",
+      "Ascoli Piceno",
+      "Fermo",
+      "Macerata",
+      "Pesaro and Urbino"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Molise",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Campobasso",
+      "Isernia"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Piedmont",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Alessandria",
+      "Asti",
+      "Biella",
+      "Cuneo",
+      "Novara",
+      "Turin",
+      "Verbano-Cusio-Ossola",
+      "Vercelli"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Sardinia",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Cagliari",
+      "Carbonia-Iglesias",
+      "Medio Campidano",
+      "Nuoro",
+      "Ogliastra",
+      "Olbia-Tempio",
+      "Oristano",
+      "Sassari"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Sicily",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Agrigento",
+      "Caltanissetta",
+      "Catania",
+      "Enna",
+      "Messina",
+      "Palermo",
+      "Ragusa",
+      "Syracuse",
+      "Trapani"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Trentino-Alto Adige",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Bolzano / Bozen",
+      "Trento"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Tuscany",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Arezzo",
+      "Florence",
+      "Grosseto",
+      "Livorno",
+      "Lucca",
+      "Massa Carrara",
+      "Pisa",
+      "Pistoia",
+      "Prato",
+      "Siena"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Umbria",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Perugia",
+      "Terni"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Veneto",
+    "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
+    "subdivisions": [
+      "Belluno",
+      "Padua",
+      "Rovigo",
+      "Treviso",
+      "Venice",
+      "Verona",
+      "Vicenza"
+    ],
+    "type": "vehicle"
+  }
+]

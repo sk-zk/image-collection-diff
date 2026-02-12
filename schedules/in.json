@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "region": "Chandigarh",
+    "period": "February 09, 2026 - July 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Delhi",
+    "period": "February 09, 2026 - July 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Gujarat",
+    "period": "February 09, 2026 - July 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Karnataka",
+    "period": "February 09, 2026 - July 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Madhya Pradesh",
+    "period": "February 09, 2026 - July 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Maharashtra",
+    "period": "February 09, 2026 - July 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Odisha",
+    "period": "February 09, 2026 - July 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Punjab",
+    "period": "February 09, 2026 - July 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Rajasthan",
+    "period": "February 09, 2026 - July 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Tamil Nadu",
+    "period": "February 09, 2026 - July 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Telangana",
+    "period": "February 09, 2026 - July 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Uttar Pradesh",
+    "period": "February 09, 2026 - July 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "West Bengal",
+    "period": "February 09, 2026 - July 31, 2026",
+    "type": "backpack"
+  }
+]

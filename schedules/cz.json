@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "region": "Capital City of Prague",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Central Bohemian Region",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Highlands Region",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Hradec Králové Region",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Karlovy Vary Region",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Liberec Region",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Moravian-Silesian Region",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Olomouc Region",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pardubice Region",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pilsen Region",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "South Bohemian Region",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "South Moravian Region",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ústí nad Labem Region",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zlín Region",
+    "period": "March 09, 2026 - May 11, 2026",
+    "type": "vehicle"
+  }
+]

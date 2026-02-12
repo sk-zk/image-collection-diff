@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "region": "Drenthe",
+    "period": "March 09, 2026 - April 22, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Flevoland",
+    "period": "March 09, 2026 - April 22, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Friesland",
+    "period": "March 09, 2026 - April 22, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Gelderland",
+    "period": "March 09, 2026 - April 22, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Groningen",
+    "period": "March 09, 2026 - April 22, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Limburg",
+    "period": "March 09, 2026 - April 22, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Noord Brabant",
+    "period": "March 09, 2026 - April 22, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Noord Holland",
+    "period": "March 09, 2026 - April 22, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Overijssel",
+    "period": "March 09, 2026 - April 22, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Utrecht",
+    "period": "March 09, 2026 - April 22, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zeeland",
+    "period": "March 09, 2026 - April 22, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zuid Holland",
+    "period": "March 09, 2026 - April 22, 2026",
+    "type": "vehicle"
+  }
+]
