@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "region": "Ajman",
+    "period": "March 02, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Dubai",
+    "period": "March 02, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Fujairah",
+    "period": "March 02, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ras Al Khaimah",
+    "period": "March 02, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Sharjah",
+    "period": "March 02, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Umm Al Quwain",
+    "period": "March 02, 2026 - June 30, 2026",
+    "type": "vehicle"
+  }
+]
