@@ -63,5 +63,85 @@
     "region": "West Bengal",
     "period": "February 09, 2026 - July 31, 2026",
     "type": "backpack"
+  },
+  {
+    "region": "Andhra Pradesh",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Chandigarh",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Delhi",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Goa",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Gujarat",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Haryana",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Karnataka",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Madhya Pradesh",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Maharashtra",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Punjab",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Rajasthan",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tamil Nadu",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Telangana",
+    "period": "February 26, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Uttar Pradesh",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Uttarakhand",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "West Bengal",
+    "period": "March 01, 2026 - July 31, 2026",
+    "type": "vehicle"
   }
 ]
