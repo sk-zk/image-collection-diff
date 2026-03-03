@@ -33,6 +33,33 @@
   },
   {
     "region": "Tokyo Metropolis",
+    "period": "Transit (iPhone/iPad) locations for March 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Chiyoda Ward",
+      "Chuo Ward",
+      "Minato Ward",
+      "Shinjuku Ward",
+      "Bunkyo Ward",
+      "Taito Ward",
+      "Sumida Ward",
+      "Koto Ward",
+      "Shinagawa Ward",
+      "Meguro Ward",
+      "Shibuya Ward",
+      "Nakano Ward",
+      "Toshima Ward",
+      "Kita Ward",
+      "Arakawa Ward",
+      "Itabashi Ward",
+      "Nerima Ward",
+      "Adachi Ward",
+      "Katsushika Ward",
+      "Edogawa Ward"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Tokyo Metropolis",
     "period": "Vehicle locations for March 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Chiyoda Ward",
@@ -130,6 +157,22 @@
       "Shizuoka City"
     ],
     "type": "backpack"
+  },
+  {
+    "region": "Aichi Prefecture",
+    "period": "Transit (iPhone/iPad) locations for March 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Nagoya City"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Osaka Prefecture",
+    "period": "Transit (iPhone/iPad) locations for March 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Osaka City"
+    ],
+    "type": "ipad"
   },
   {
     "region": "Hyogo Prefecture",
@@ -250,5 +293,13 @@
       "Kasuya District"
     ],
     "type": "backpack"
+  },
+  {
+    "region": "Fukuoka Prefecture",
+    "period": "Transit (iPhone/iPad) locations for March 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Fukuoka City"
+    ],
+    "type": "ipad"
   }
 ]

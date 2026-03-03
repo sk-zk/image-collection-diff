@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "region": "Central",
+    "period": "Transit (iPhone/iPad) locations for March 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Ang Mo Kio",
+      "Bishan-Toa Payoh",
+      "Jalan Besar",
+      "Potong Pasir",
+      "Radin Mas",
+      "Sengkang West",
+      "Tanjong Pagar"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "North East",
+    "period": "Transit (iPhone/iPad) locations for March 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Aljunied",
+      "Hougang",
+      "Pasir Ris Punggol",
+      "Punggol East",
+      "Tampines"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "North West",
+    "period": "Transit (iPhone/iPad) locations for March 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Bukit Panjang",
+      "Holland-Bukit Timah",
+      "Marsiling-Yew Tee",
+      "Nee Soon",
+      "Sembawang"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "South East",
+    "period": "Transit (iPhone/iPad) locations for March 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "East Coast",
+      "Fengshang",
+      "MacPherson",
+      "Marine Parade",
+      "Mountbatten"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "South West",
+    "period": "Transit (iPhone/iPad) locations for March 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Bukit Batok",
+      "Chua Chu Kang",
+      "Hong Kah North",
+      "Jurong",
+      "Pioneer",
+      "West Coast",
+      "Yuhua"
+    ],
+    "type": "ipad"
+  }
+]

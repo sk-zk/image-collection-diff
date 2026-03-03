@@ -1,42 +1,35 @@
 [
   {
-    "region": "Australian Capital Territory",
-    "period": "Vehicle locations for October 01, 2025 - September 30, 2026",
-    "subdivisions": [
-      "Australian Capital Territory"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "New South Wales",
-    "period": "Pedestrian (backpack) locations for October 01, 2025 - February 28, 2026",
+    "period": "Transit (iPhone/iPad) locations for March 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Bayside Canterbury-Bankstown",
+      "Blacktown",
       "Burwood",
+      "Camden",
+      "Campbelltown",
       "Canada Bay",
       "Canterbury-Bankstown",
-      "Canterbury-Bankstown Unincorporated",
       "Cumberland",
+      "Fairfield",
+      "Georges River",
+      "Hawkesbury",
       "Hornsby",
-      "Hunters Hill",
       "Inner West",
       "Ku-Ring-Gai",
-      "Lane Cove",
-      "Mosman",
+      "Liverpool",
       "North Sydney",
-      "Northern Beaches",
       "Parramatta",
-      "Randwick",
+      "Penrith",
       "Ryde",
       "Strathfield",
       "Sutherland Shire",
       "Sydney",
+      "The Hills Shire",
       "Waverley",
-      "Willoughby",
-      "Wollongong",
-      "Woollahra"
+      "Willoughby"
     ],
-    "type": "backpack"
+    "type": "ipad"
   },
   {
     "region": "New South Wales",
@@ -53,7 +46,7 @@
       "Byron",
       "Cabonne",
       "Camden",
-      "Campbelltown Canterbury-Bankstown",
+      "Campbelltown",
       "Canada Bay",
       "Canterbury-Bankstown",
       "Canterbury-Bankstown Unincorporated",
@@ -122,34 +115,6 @@
     "type": "vehicle"
   },
   {
-    "region": "Northern Territory",
-    "period": "Pedestrian (backpack) locations for October 01, 2025 - February 28, 2026",
-    "subdivisions": [
-      "Darwin",
-      "Darwin Waterfront Precinct",
-      "Northern Territory Rates Act"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Northern Territory",
-    "period": "Vehicle locations for October 01, 2025 - September 30, 2026",
-    "subdivisions": [
-      "Barkly",
-      "Coomalie",
-      "Cox-Daly",
-      "Darwin",
-      "Darwin Waterfront Precinct",
-      "Katherine",
-      "Litchfield",
-      "Northern Territory Rates Act",
-      "Palmerston",
-      "Roper Gulf",
-      "Victoria Daly"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Queensland",
     "period": "Vehicle locations for October 01, 2025 - September 30, 2026",
     "subdivisions": [
@@ -190,15 +155,6 @@
       "Yarrabah"
     ],
     "type": "vehicle"
-  },
-  {
-    "region": "South Australia",
-    "period": "Pedestrian (backpack) locations for October 01, 2025 - February 28, 2026",
-    "subdivisions": [
-      "Adelaide",
-      "Unley"
-    ],
-    "type": "backpack"
   },
   {
     "region": "South Australia",
@@ -255,66 +211,40 @@
     "type": "vehicle"
   },
   {
-    "region": "Tasmania",
-    "period": "Pedestrian (backpack) locations for October 01, 2025 - February 28, 2026",
-    "subdivisions": [
-      "Glenorchy",
-      "Hobart City",
-      "Kingborough",
-      "Launceston City",
-      "Meander Valley",
-      "West Tamar"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Tasmania",
-    "period": "Vehicle locations for October 01, 2025 - September 30, 2026",
-    "subdivisions": [
-      "Break O'Day",
-      "Brighton",
-      "Burnie",
-      "Central Coast",
-      "Central Highlands",
-      "Clarence City",
-      "Derwent Valley",
-      "Devonport City",
-      "Dorset",
-      "Glamorgan-Spring Bay",
-      "Glenorchy",
-      "Hobart City",
-      "Huon Valley",
-      "Kingborough",
-      "Latrobe",
-      "Launceston City",
-      "Meander Valley",
-      "Sorell",
-      "Southern Midlands",
-      "Waratah-Wynyard",
-      "West Tamar"
-    ],
-    "type": "vehicle"
-  },
-  {
     "region": "Victoria",
-    "period": "Pedestrian (backpack) locations for October 01, 2025 - February 28, 2026",
+    "period": "Transit (iPhone/iPad) locations for March 01, 2026 - September 30, 2026",
     "subdivisions": [
+      "Banyule",
       "Bayside Casey",
       "Boroondara",
+      "Brimbank",
+      "Cardinia",
+      "Casey",
       "Darebin",
+      "Frankston",
       "Glen Eira",
+      "Greater Dandenong",
+      "Hobsons Bay",
+      "Hume",
       "Kingston Casey",
+      "Knox",
       "Maribyrnong",
+      "Maroondah",
       "Melbourne",
+      "Melton",
+      "Merri-bek",
       "Monash",
       "Moonee Valley",
-      "Moreland",
+      "Nillumbik",
       "Port Phillip",
       "Stonnington",
       "Whitehorse",
-      "Yarra"
+      "Whittlesea",
+      "Wyndham",
+      "Yarra",
+      "Yarra Ranges"
     ],
-    "type": "backpack"
+    "type": "ipad"
   },
   {
     "region": "Victoria",
@@ -384,23 +314,6 @@
       "Yarra"
     ],
     "type": "vehicle"
-  },
-  {
-    "region": "Western Australia",
-    "period": "Pedestrian (backpack) locations for October 01, 2025 - February 28, 2026",
-    "subdivisions": [
-      "Cambridge",
-      "Claremont",
-      "Cottesloe",
-      "Nedlands",
-      "Perth",
-      "South Perth",
-      "Stirling",
-      "Subiaco",
-      "Victoria Park",
-      "Vincent"
-    ],
-    "type": "backpack"
   },
   {
     "region": "Western Australia",
