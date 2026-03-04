@@ -1,38 +1,6 @@
 [
   {
     "region": "New South Wales",
-    "period": "Transit (iPhone/iPad) locations for March 01, 2026 - September 30, 2026",
-    "subdivisions": [
-      "Bayside Canterbury-Bankstown",
-      "Blacktown",
-      "Burwood",
-      "Camden",
-      "Campbelltown",
-      "Canada Bay",
-      "Canterbury-Bankstown",
-      "Cumberland",
-      "Fairfield",
-      "Georges River",
-      "Hawkesbury",
-      "Hornsby",
-      "Inner West",
-      "Ku-Ring-Gai",
-      "Liverpool",
-      "North Sydney",
-      "Parramatta",
-      "Penrith",
-      "Ryde",
-      "Strathfield",
-      "Sutherland Shire",
-      "Sydney",
-      "The Hills Shire",
-      "Waverley",
-      "Willoughby"
-    ],
-    "type": "ipad"
-  },
-  {
-    "region": "New South Wales",
     "period": "Vehicle locations for October 01, 2025 - September 30, 2026",
     "subdivisions": [
       "Ballina",
@@ -209,42 +177,6 @@
       "Yorke Peninsula"
     ],
     "type": "vehicle"
-  },
-  {
-    "region": "Victoria",
-    "period": "Transit (iPhone/iPad) locations for March 01, 2026 - September 30, 2026",
-    "subdivisions": [
-      "Banyule",
-      "Bayside Casey",
-      "Boroondara",
-      "Brimbank",
-      "Cardinia",
-      "Casey",
-      "Darebin",
-      "Frankston",
-      "Glen Eira",
-      "Greater Dandenong",
-      "Hobsons Bay",
-      "Hume",
-      "Kingston Casey",
-      "Knox",
-      "Maribyrnong",
-      "Maroondah",
-      "Melbourne",
-      "Melton",
-      "Merri-bek",
-      "Monash",
-      "Moonee Valley",
-      "Nillumbik",
-      "Port Phillip",
-      "Stonnington",
-      "Whitehorse",
-      "Whittlesea",
-      "Wyndham",
-      "Yarra",
-      "Yarra Ranges"
-    ],
-    "type": "ipad"
   },
   {
     "region": "Victoria",
