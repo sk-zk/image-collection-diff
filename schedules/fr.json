@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "region": "Ile-de-France",
+    "period": "Pedestrian (backpack) locations for March 23, 2026 - June 30, 2026",
+    "subdivisions": [
+      "Hauts-de-Seine",
+      "Paris",
+      "Seine-Saint-Denis",
+      "Val-de-Marne"
+    ],
+    "type": "backpack"
+  }
+]

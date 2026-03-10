@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "region": "Mainland Portugal",
+    "period": "Pedestrian (backpack) locations for March 16, 2026 - May 11, 2025",
+    "subdivisions": [
+      "Lisbon"
+    ],
+    "type": "backpack"
+  }
+]

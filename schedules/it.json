@@ -12,6 +12,14 @@
   },
   {
     "region": "Apulia",
+    "period": "Pedestrian (backpack) locations for April 24, 2026 - June 16, 2026",
+    "subdivisions": [
+      "Bari"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Apulia",
     "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
     "subdivisions": [
       "Bari",
@@ -46,6 +54,14 @@
   },
   {
     "region": "Campania",
+    "period": "Pedestrian (backpack) locations for March 16, 2026 - May 21, 2026",
+    "subdivisions": [
+      "Naples"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Campania",
     "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
     "subdivisions": [
       "Avellino",
@@ -55,6 +71,14 @@
       "Salerno"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Emilia-Romagna",
+    "period": "Pedestrian (backpack) locations for April 20, 2026 - May 28, 2026",
+    "subdivisions": [
+      "Bologna"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Emilia-Romagna",
@@ -85,6 +109,14 @@
   },
   {
     "region": "Lazio",
+    "period": "Pedestrian (backpack) locations for March 16, 2026 - May 15, 2026",
+    "subdivisions": [
+      "Rome"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Lazio",
     "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
     "subdivisions": [
       "Frosinone",
@@ -97,6 +129,14 @@
   },
   {
     "region": "Liguria",
+    "period": "Pedestrian (backpack) locations for May 01, 2026 - June 10, 2026",
+    "subdivisions": [
+      "Genoa"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Liguria",
     "period": "Vehicle locations for March 09, 2026 - September 09, 2026",
     "subdivisions": [
       "Genoa",
@@ -105,6 +145,38 @@
       "Savona"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Lombardy",
+    "period": "Pedestrian (backpack) locations for March 16, 2026 - June 05, 2026",
+    "subdivisions": [
+      "Milan"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Lombardy",
+    "period": "Pedestrian (backpack) locations for May 11, 2026 - July 01, 2026",
+    "subdivisions": [
+      "Brescia"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Lombardy",
+    "period": "Pedestrian (backpack) locations for June 04, 2026 - July 24, 2026",
+    "subdivisions": [
+      "Bergamo"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Lombardy",
+    "period": "Pedestrian (backpack) locations for June 29, 2026 - August 03, 2026",
+    "subdivisions": [
+      "Como"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Lombardy",
@@ -175,6 +247,22 @@
       "Sassari"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Sicily",
+    "period": "Pedestrian (backpack) locations for May 20, 2026 - July 09, 2026",
+    "subdivisions": [
+      "Catania"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Sicily",
+    "period": "Pedestrian (backpack) locations for June 12, 2026 - August 04, 2026",
+    "subdivisions": [
+      "Palermo"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Sicily",

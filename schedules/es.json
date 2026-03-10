@@ -1,7 +1,7 @@
 [
   {
     "region": "Andalusia",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "Almería",
       "Cádiz",
@@ -16,7 +16,7 @@
   },
   {
     "region": "Aragon",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "Huesca",
       "Teruel",
@@ -26,7 +26,7 @@
   },
   {
     "region": "Balearic Islands",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "Balearic Islands"
     ],
@@ -34,7 +34,7 @@
   },
   {
     "region": "Basque Country",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "Álava",
       "Biscay",
@@ -44,7 +44,7 @@
   },
   {
     "region": "Canary Islands",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "Las Palmas",
       "Santa Cruz de Tenerife"
@@ -53,7 +53,7 @@
   },
   {
     "region": "Cantabria",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "Cantabria"
     ],
@@ -61,7 +61,7 @@
   },
   {
     "region": "Castile and León",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "Ávila"
     ],
@@ -69,7 +69,7 @@
   },
   {
     "region": "Castile–La Mancha",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "Albacete",
       "Ciudad Real",
@@ -81,7 +81,15 @@
   },
   {
     "region": "Catalonia",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Pedestrian (backpack) locations for March 16, 2026 - June 23, 2026",
+    "subdivisions": [
+      "Barcelona"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Catalonia",
+    "period": "Vehicle locations for March 09, 2026 - April 10, 2026",
     "subdivisions": [
       "Barcelona",
       "Girona",
@@ -92,7 +100,7 @@
   },
   {
     "region": "Chartered Community of Navarre",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "Navarre"
     ],
@@ -100,7 +108,15 @@
   },
   {
     "region": "Community of Madrid",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Pedestrian (backpack) locations for March 16, 2026 - July 01, 2026",
+    "subdivisions": [
+      "Madrid"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Community of Madrid",
+    "period": "Vehicle locations for March 09, 2026 - April 10, 2026",
     "subdivisions": [
       "Madrid"
     ],
@@ -108,7 +124,7 @@
   },
   {
     "region": "Extremadura",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "Badajoz",
       "Cáceres"
@@ -117,7 +133,7 @@
   },
   {
     "region": "Galicia",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "A Coruña",
       "Lugo",
@@ -128,7 +144,7 @@
   },
   {
     "region": "La Rioja",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "La Rioja"
     ],
@@ -136,7 +152,7 @@
   },
   {
     "region": "Principality of Asturias",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "Asturias"
     ],
@@ -144,7 +160,7 @@
   },
   {
     "region": "Region of Murcia",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "Murcia"
     ],
@@ -152,7 +168,7 @@
   },
   {
     "region": "Valencian Community",
-    "period": "Vehicle locations for March 09, 2026 - August 07, 2026",
+    "period": "Vehicle locations for April 10, 2026 - July 23, 2026",
     "subdivisions": [
       "Alicante",
       "Castellón",
