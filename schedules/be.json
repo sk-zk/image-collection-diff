@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "region": "Brussels",
+    "period": "Vehicle locations for March 23, 2026 - June 02, 2026",
+    "subdivisions": [
+      "Brussels-Capital Region"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Flanders",
+    "period": "Vehicle locations for March 23, 2026 - June 02, 2026",
+    "subdivisions": [
+      "Antwerp",
+      "East Flanders",
+      "Flemish Brabant",
+      "Limburg",
+      "West Flanders"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Wallonia",
+    "period": "Vehicle locations for March 23, 2026 - June 02, 2026",
+    "subdivisions": [
+      "Hainaut",
+      "Liège",
+      "Luxembourg",
+      "Namur",
+      "Walloon Brabant"
+    ],
+    "type": "vehicle"
+  }
+]

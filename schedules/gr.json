@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "region": "Attica",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Central Greece",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Central Macedonia",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Crete",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "East Macedonia and Thrace",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Epirus",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ionian Islands",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Mount Athos",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "North Aegean",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Peloponnese",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Southern Aegean",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Thessaly",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Western Greece",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Western Macedonia",
+    "period": "March 30, 2026 - May 19, 2026",
+    "type": "vehicle"
+  }
+]

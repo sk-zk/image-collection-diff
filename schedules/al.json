@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "region": "Berat",
+    "period": "March 30, 2026 - May 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Dibër",
+    "period": "March 30, 2026 - May 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Durrës",
+    "period": "March 30, 2026 - May 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Elbasan",
+    "period": "March 30, 2026 - May 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Fier",
+    "period": "March 30, 2026 - May 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Gjirokastër",
+    "period": "March 30, 2026 - May 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Korçë",
+    "period": "March 30, 2026 - May 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kukës",
+    "period": "March 30, 2026 - May 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Lezhë",
+    "period": "March 30, 2026 - May 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Shkodër",
+    "period": "March 30, 2026 - May 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tiranë",
+    "period": "March 30, 2026 - May 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Vlorë",
+    "period": "March 30, 2026 - May 29, 2026",
+    "type": "vehicle"
+  }
+]
