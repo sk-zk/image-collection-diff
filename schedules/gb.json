@@ -1,7 +1,7 @@
 [
   {
     "region": "Bedfordshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "Bedford",
       "Central Bedfordshire",
@@ -11,7 +11,7 @@
   },
   {
     "region": "Berkshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "Bracknell Forest",
       "Reading",
@@ -24,7 +24,7 @@
   },
   {
     "region": "Bristol",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for March 23, 2026 - April 29, 2026",
     "subdivisions": [
       "City of Bristol"
     ],
@@ -32,7 +32,7 @@
   },
   {
     "region": "Buckinghamshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "Buckinghamshire County",
       "Milton Keynes"
@@ -41,7 +41,7 @@
   },
   {
     "region": "Cambridgeshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "Cambridge",
       "Cambridgeshire County",
@@ -51,7 +51,7 @@
   },
   {
     "region": "Cheshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Cheshire East",
       "Cheshire West and Chester",
@@ -62,7 +62,7 @@
   },
   {
     "region": "Cornwall",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for March 23, 2026 - April 29, 2026",
     "subdivisions": [
       "Cornwall County"
     ],
@@ -70,7 +70,7 @@
   },
   {
     "region": "Cumbria",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Cumberland",
       "Westmorland and Furness"
@@ -79,7 +79,7 @@
   },
   {
     "region": "Derbyshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "City of Derby",
       "Derbyshire County"
@@ -88,7 +88,7 @@
   },
   {
     "region": "Devon",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for March 23, 2026 - April 29, 2026",
     "subdivisions": [
       "City of Plymouth",
       "Devon County",
@@ -98,7 +98,7 @@
   },
   {
     "region": "Dorset",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for March 23, 2026 - April 29, 2026",
     "subdivisions": [
       "Bournemouth, Christchurch & Poole",
       "Dorset County"
@@ -107,7 +107,7 @@
   },
   {
     "region": "Durham",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "County Durham",
       "Darlington",
@@ -118,7 +118,7 @@
   },
   {
     "region": "East Riding of Yorkshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "City of Kingston upon Hull",
       "East Riding of Yorkshire"
@@ -127,7 +127,7 @@
   },
   {
     "region": "East Sussex",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "City of Brighton and Hove",
       "East Sussex County"
@@ -136,7 +136,7 @@
   },
   {
     "region": "Essex",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "Essex County",
       "Southend-on-Sea",
@@ -146,7 +146,7 @@
   },
   {
     "region": "Gloucestershire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for March 23, 2026 - April 29, 2026",
     "subdivisions": [
       "Gloucestershire County",
       "South Gloucestershire"
@@ -155,7 +155,7 @@
   },
   {
     "region": "Greater London",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for May 22, 2026 - June 16, 2026",
     "subdivisions": [
       "Barking and Dagenham",
       "Barnet",
@@ -195,7 +195,7 @@
   },
   {
     "region": "Greater Manchester",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Bolton",
       "Bury",
@@ -212,7 +212,7 @@
   },
   {
     "region": "Hampshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "City of Southampton",
       "Hampshire County",
@@ -222,7 +222,7 @@
   },
   {
     "region": "Herefordshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Herefordshire County"
     ],
@@ -230,7 +230,7 @@
   },
   {
     "region": "Hertfordshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "Hertfordshire County"
     ],
@@ -238,7 +238,7 @@
   },
   {
     "region": "Isle of Wight",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "Isle of Wight"
     ],
@@ -246,7 +246,7 @@
   },
   {
     "region": "Kent",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "Kent County",
       "Medway"
@@ -255,7 +255,7 @@
   },
   {
     "region": "Lancashire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Blackburn with Darwen",
       "Blackpool",
@@ -265,7 +265,7 @@
   },
   {
     "region": "Leicestershire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "City of Leicester",
       "Leicestershire County"
@@ -274,7 +274,7 @@
   },
   {
     "region": "Lincolnshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Lincolnshire County",
       "North East Lincolnshire",
@@ -284,7 +284,7 @@
   },
   {
     "region": "Merseyside",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Knowsley",
       "Liverpool",
@@ -296,7 +296,7 @@
   },
   {
     "region": "Norfolk",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "Norfolk County"
     ],
@@ -304,7 +304,7 @@
   },
   {
     "region": "North Yorkshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Middlesbrough",
       "North Yorkshire County",
@@ -315,7 +315,7 @@
   },
   {
     "region": "Northamptonshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "North Northamptonshire",
       "West Northamptonshire"
@@ -324,7 +324,7 @@
   },
   {
     "region": "Northumberland",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Northumberland"
     ],
@@ -332,7 +332,7 @@
   },
   {
     "region": "Nottinghamshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "City of Nottingham",
       "Nottinghamshire County"
@@ -341,7 +341,7 @@
   },
   {
     "region": "Oxfordshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "Oxfordshire County"
     ],
@@ -349,7 +349,7 @@
   },
   {
     "region": "Rutland",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Rutland"
     ],
@@ -357,7 +357,7 @@
   },
   {
     "region": "Shropshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Shropshire",
       "Telford and Wrekin"
@@ -366,7 +366,7 @@
   },
   {
     "region": "Somerset",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for March 23, 2026 - April 29, 2026",
     "subdivisions": [
       "Bath and North East Somerset",
       "North Somerset",
@@ -376,7 +376,7 @@
   },
   {
     "region": "South Yorkshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Barnsley",
       "Doncaster",
@@ -387,7 +387,7 @@
   },
   {
     "region": "Staffordshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Staffordshire County",
       "Stoke-on-Trent"
@@ -396,7 +396,7 @@
   },
   {
     "region": "Suffolk",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "Suffolk County"
     ],
@@ -404,7 +404,7 @@
   },
   {
     "region": "Surrey",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "Surrey County"
     ],
@@ -412,7 +412,7 @@
   },
   {
     "region": "Tyne and Wear",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Gateshead",
       "Newcastle upon Tyne",
@@ -424,7 +424,7 @@
   },
   {
     "region": "Warwickshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Warwickshire County"
     ],
@@ -432,7 +432,7 @@
   },
   {
     "region": "West Midlands",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Birmingham",
       "Coventry",
@@ -446,7 +446,7 @@
   },
   {
     "region": "West Sussex",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for April 17, 2026 - June 06, 2026",
     "subdivisions": [
       "West Sussex County"
     ],
@@ -454,7 +454,7 @@
   },
   {
     "region": "West Yorkshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Bradford",
       "Calderdale",
@@ -466,7 +466,7 @@
   },
   {
     "region": "Wiltshire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for March 23, 2026 - April 29, 2026",
     "subdivisions": [
       "Swindon",
       "Wiltshire County"
@@ -475,7 +475,7 @@
   },
   {
     "region": "Worcestershire",
-    "period": "Vehicle locations for March 16, 2026 - September 23, 2026",
+    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Worcestershire County"
     ],
