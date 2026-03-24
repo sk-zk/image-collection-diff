@@ -1,1 +1,113 @@
-[]
+[
+  {
+    "region": "Capital Region",
+    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "subdivisions": [
+      "Garðabær",
+      "Hafnarfjörður",
+      "Kjósarhreppur",
+      "Kópavogur",
+      "Mosfellsbær",
+      "Reykjavík",
+      "Seltjarnarnes"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Eastern Region",
+    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "subdivisions": [
+      "Fjarðabyggð",
+      "Fljótsdalshreppur",
+      "Múlaþing",
+      "Vopnafjörður"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Northwestern Region",
+    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "subdivisions": [
+      "Akureyri",
+      "Dalvíkurbyggð",
+      "Eyjafjarðarsveit",
+      "Fjallabyggð",
+      "Grýtubakkahreppur",
+      "Hörgársveit",
+      "Húnabyggð",
+      "Húnaþing vestra",
+      "Langanesbyggð",
+      "Norðurþing",
+      "Skagabyggð",
+      "Skagafjörður",
+      "Skagaströnd",
+      "Svalbarðsstrandarhreppur",
+      "Tjörneshreppur",
+      "Þingeyjarsveit"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Southern Peninsula",
+    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "subdivisions": [
+      "Grindavíkurbær",
+      "Reykjanesbær",
+      "Suðurnesjabær",
+      "Vogar"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Southern Region",
+    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "subdivisions": [
+      "Árborg",
+      "Ásahreppur",
+      "Bláskógabyggð",
+      "Flóahreppur",
+      "Grímsnes- og Grafningshreppur",
+      "Hornafjörður",
+      "Hrunamannahreppur",
+      "Hveragerði",
+      "Mýrdalshreppur",
+      "Rangárþing eystra",
+      "Rangárþing ytra",
+      "Skaftárhreppur",
+      "Skeiða- og Gnúpverjahreppur",
+      "Vestmannaeyjar"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "West Fjords",
+    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "subdivisions": [
+      "Árneshreppur",
+      "Bolungarvík",
+      "Ísafjarðarbær",
+      "Kaldrananeshreppur",
+      "Reykhólahreppur",
+      "Strandabyggð",
+      "Súðavík",
+      "Tálknafjarðarhreppur",
+      "Vesturbyggð"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Western Region",
+    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "subdivisions": [
+      "Borgarbyggð",
+      "Dalabyggð",
+      "Eyja- og Miklaholtshreppur",
+      "Grundarfjörður",
+      "Hvalfjarðarsveit",
+      "Skorradalshreppur",
+      "Snæfellsbær",
+      "Stykkishólmur"
+    ],
+    "type": "vehicle"
+  }
+]

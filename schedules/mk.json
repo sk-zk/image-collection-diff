@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "region": "City of Skopje",
+    "period": "Vehicle locations for April 06, 2026 - April 30, 2026",
+    "subdivisions": [
+      "Aerodrom",
+      "Butel",
+      "Čair",
+      "Centar",
+      "Gazi Baba",
+      "Gorče Petrov",
+      "Karpoš",
+      "Kisela Voda",
+      "Saraj",
+      "Šuto Orizari"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Eastern Region",
+    "period": "Vehicle locations for April 06, 2026 - April 30, 2026",
+    "subdivisions": [
+      "Berovo",
+      "Češinovo-Obleșevo",
+      "Delčevo",
+      "Karbinci",
+      "Kočani",
+      "Makedonska Kamenica",
+      "Pehčevo",
+      "Probištip",
+      "Štip",
+      "Vinica",
+      "Zrnovci"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Northeastern Region",
+    "period": "Vehicle locations for April 06, 2026 - April 30, 2026",
+    "subdivisions": [
+      "Kratovo",
+      "Kriva Palanka",
+      "Kumanovo",
+      "Lipkovo",
+      "Rankovce",
+      "Staro Nagoričane"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Pelagonia Region",
+    "period": "Vehicle locations for April 06, 2026 - April 30, 2026",
+    "subdivisions": [
+      "Bitola",
+      "Demir Hisar",
+      "Dolneni",
+      "Krivogaštani",
+      "Kruševo",
+      "Mogila",
+      "Novaci",
+      "Prilep",
+      "Resen"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Polog Region",
+    "period": "Vehicle locations for April 06, 2026 - April 30, 2026",
+    "subdivisions": [
+      "Bogovinje",
+      "Brvenica",
+      "Gostivar",
+      "Jegunovce",
+      "Mavrovo and Rostuša",
+      "Tearce",
+      "Tetovo",
+      "Vrapčište",
+      "Želino"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Skopje Region",
+    "period": "Vehicle locations for April 06, 2026 - April 30, 2026",
+    "subdivisions": [
+      "Aračinovo",
+      "Čučer-Sandevo",
+      "Ilinden",
+      "Petrovec",
+      "Sopište",
+      "Studeničani",
+      "Zelenikovo"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Southeastern Region",
+    "period": "Vehicle locations for April 06, 2026 - April 30, 2026",
+    "subdivisions": [
+      "Bogdanci",
+      "Bosilovo",
+      "Dojran",
+      "Gevgelija",
+      "Konče",
+      "Novo Selo",
+      "Radoviš",
+      "Strumica",
+      "Valandovo",
+      "Vasilevo"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Southwestern Region",
+    "period": "Vehicle locations for April 06, 2026 - April 30, 2026",
+    "subdivisions": [
+      "Centar Župa",
+      "Debar",
+      "Debarca",
+      "Kičevo",
+      "Makedonski Brod",
+      "Ohrid",
+      "Plasnica",
+      "Struga",
+      "Vevčani"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Vardar Region",
+    "period": "Vehicle locations for April 06, 2026 - April 30, 2026",
+    "subdivisions": [
+      "Čaška",
+      "Demir Kapija",
+      "Gradsko",
+      "Kavadarci",
+      "Lozovo",
+      "Negotino",
+      "Rosoman",
+      "Sveti Nikole",
+      "Veles"
+    ],
+    "type": "vehicle"
+  }
+]

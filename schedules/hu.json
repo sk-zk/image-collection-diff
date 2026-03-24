@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "region": "Budapest",
+    "period": "Vehicle locations for April 07, 2026 - May 21, 2026",
+    "subdivisions": [
+      "Budapest"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Central Transdanubia",
+    "period": "Vehicle locations for April 07, 2026 - May 21, 2026",
+    "subdivisions": [
+      "Fejér",
+      "Komárom-Esztergom",
+      "Veszprém"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Northern Great Plain",
+    "period": "Vehicle locations for April 07, 2026 - May 21, 2026",
+    "subdivisions": [
+      "Hajdú-Bihar",
+      "Jász-Nagykun-Szolnok",
+      "Szabolcs-Szatmár-Bereg"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Northern Hungary",
+    "period": "Vehicle locations for April 07, 2026 - May 21, 2026",
+    "subdivisions": [
+      "Borsod-Abaúj-Zemplén",
+      "Heves",
+      "Nógrád"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Pest",
+    "period": "Vehicle locations for April 07, 2026 - May 21, 2026",
+    "subdivisions": [
+      "Pest"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Southern Great Plain",
+    "period": "Vehicle locations for April 07, 2026 - May 21, 2026",
+    "subdivisions": [
+      "Bács-Kiskun",
+      "Békés",
+      "Csongrád-Csanád"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Southern Transdanubia",
+    "period": "Vehicle locations for April 07, 2026 - May 21, 2026",
+    "subdivisions": [
+      "Baranya",
+      "Somogy",
+      "Tolna"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Western Transdanubia",
+    "period": "Vehicle locations for April 07, 2026 - May 21, 2026",
+    "subdivisions": [
+      "Győr-Moson-Sopron",
+      "Vas",
+      "Zala"
+    ],
+    "type": "vehicle"
+  }
+]

@@ -1,5 +1,101 @@
 [
   {
+    "region": "Auvergne-Rhône-Alpes",
+    "period": "Vehicle locations for March 30, 2026 - September 01, 2026",
+    "subdivisions": [
+      "Ain",
+      "Allier",
+      "Ardeche",
+      "Cantal",
+      "Drome",
+      "Haute-Loire",
+      "Haute-Savoie",
+      "Isere",
+      "Loire",
+      "Puy-de-Dome",
+      "Rhone",
+      "Savoie"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Brittany",
+    "period": "Vehicle locations for March 30, 2026 - September 01, 2026",
+    "subdivisions": [
+      "Cotes-d'Armor",
+      "Finistere",
+      "Ille-et-Vilaine",
+      "Morbihan"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Burgundy–Franche-Comté",
+    "period": "Vehicle locations for March 30, 2026 - September 01, 2026",
+    "subdivisions": [
+      "Cote-d'Or",
+      "Doubs",
+      "Haute-Saone",
+      "Jura",
+      "Nievre",
+      "Saone-et-Loire",
+      "Territory of Belfort",
+      "Yonne"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Centre–Val de Loire",
+    "period": "Vehicle locations for March 30, 2026 - September 01, 2026",
+    "subdivisions": [
+      "Cher",
+      "Eure-et-Loir",
+      "Indre",
+      "Indre-et-Loire",
+      "Loir-et-Cher",
+      "Loiret"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Corsica",
+    "period": "Vehicle locations for March 30, 2026 - September 01, 2026",
+    "subdivisions": [
+      "Southern Corsica",
+      "Upper Corsica"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Grand Est",
+    "period": "Vehicle locations for March 30, 2026 - September 01, 2026",
+    "subdivisions": [
+      "Ardennes",
+      "Aube",
+      "Lower Rhine",
+      "Marne",
+      "Meurthe-and-Moselle",
+      "Meuse",
+      "Moselle",
+      "Upper Marne",
+      "Upper Rhine",
+      "Vosges"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Hauts-de-France",
+    "period": "Vehicle locations for March 30, 2026 - September 01, 2026",
+    "subdivisions": [
+      "Aisne",
+      "Nord",
+      "Oise",
+      "Pas-de-Calais",
+      "Somme"
+    ],
+    "type": "vehicle"
+  },
+  {
     "region": "Ile-de-France",
     "period": "Pedestrian (backpack) locations for April 06, 2026 - June 30, 2026",
     "subdivisions": [
@@ -9,5 +105,96 @@
       "Val-de-Marne"
     ],
     "type": "backpack"
+  },
+  {
+    "region": "Ile-de-France",
+    "period": "Vehicle locations for March 30, 2026 - September 01, 2026",
+    "subdivisions": [
+      "Essonne",
+      "Hauts-de-Seine",
+      "Paris",
+      "Seine-Saint-Denis",
+      "Seine-et-Marne",
+      "Val-d'Oise",
+      "Val-de-Marne",
+      "Yvelines"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "New Aquitaine",
+    "period": "Vehicle locations for March 30, 2026 - September 01, 2026",
+    "subdivisions": [
+      "Atlantic Pyrenees",
+      "Charente",
+      "Correze",
+      "Creuse",
+      "Dordogne",
+      "Gironde",
+      "Landes",
+      "Lot-and-Garonne",
+      "Maritime Charente",
+      "Two Sèvres",
+      "Upper Vienne",
+      "Vienne"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Normandy",
+    "period": "Vehicle locations for March 30, 2026 - September 01, 2026",
+    "subdivisions": [
+      "Calvados",
+      "Eure",
+      "Manche",
+      "Orne",
+      "Seine-Maritime"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Occitania",
+    "period": "Vehicle locations for March 30, 2026 - September 01, 2026",
+    "subdivisions": [
+      "Ariege",
+      "Aude",
+      "Aveyron",
+      "Eastern Pyrenees",
+      "Gard",
+      "Gers",
+      "Herault",
+      "Lot",
+      "Lozere",
+      "Tarn",
+      "Tarn-and-Garonne",
+      "Upper Garonne",
+      "Upper Pyrenees"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Pays de la Loire",
+    "period": "Vehicle locations for March 30, 2026 - September 01, 2026",
+    "subdivisions": [
+      "Atlantic Loire",
+      "Maine-and-Loire",
+      "Mayenne",
+      "Sarthe",
+      "Vendee"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Provence–Alps–French Riviera",
+    "period": "Vehicle locations for March 30, 2026 - September 01, 2026",
+    "subdivisions": [
+      "Alps of Haute-Provence",
+      "Delta of the Rhone",
+      "High Alps",
+      "Maritime Alps",
+      "Var",
+      "Vaucluse"
+    ],
+    "type": "vehicle"
   }
 ]

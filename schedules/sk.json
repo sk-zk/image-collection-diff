@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "region": "Banská Bystrica Region",
+    "period": "March 30, 2026 - April 27, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Bratislava Region",
+    "period": "March 30, 2026 - April 27, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Košice Region",
+    "period": "March 30, 2026 - April 27, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Nitra Region",
+    "period": "March 30, 2026 - April 27, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Prešov Region",
+    "period": "March 30, 2026 - April 27, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Trenčín Region",
+    "period": "March 30, 2026 - April 27, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Trnava Region",
+    "period": "March 30, 2026 - April 27, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Žilina Region",
+    "period": "March 30, 2026 - April 27, 2026",
+    "type": "vehicle"
+  }
+]

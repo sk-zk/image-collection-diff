@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "region": "Capellen",
+    "period": "April 08, 2026 - May 07, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Clerf",
+    "period": "April 08, 2026 - May 07, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Diekirch",
+    "period": "April 08, 2026 - May 07, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Echternach",
+    "period": "April 08, 2026 - May 07, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Esch an der Alzette",
+    "period": "April 08, 2026 - May 07, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Grevenmacher",
+    "period": "April 08, 2026 - May 07, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Luxemburg",
+    "period": "April 08, 2026 - May 07, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Mersch",
+    "period": "April 08, 2026 - May 07, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Redange",
+    "period": "April 08, 2026 - May 07, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Remich",
+    "period": "April 08, 2026 - May 07, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Vianden",
+    "period": "April 08, 2026 - May 07, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Wiltz",
+    "period": "April 08, 2026 - May 07, 2026",
+    "type": "vehicle"
+  }
+]

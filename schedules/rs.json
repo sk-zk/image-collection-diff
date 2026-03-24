@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "region": "Belgrade",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Bor District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Braničevo District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Central Banat District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Jablanica District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kolubara District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Mačva District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Moravica District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Nišava District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "North Bačka District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "North Banat District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pčinja District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pirot District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Podunavlje District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pomoravlje District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Rasina District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Raška District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "South Bačka District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "South Banat District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Srem District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Šumadija District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Toplica District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "West Bačka District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zaječar District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zlatibor District",
+    "period": "April 07, 2026 - May 12, 2026",
+    "type": "vehicle"
+  }
+]

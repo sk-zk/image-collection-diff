@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "region": "Andrijevica",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Bar",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Berane",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Bijelo Polje",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Budva",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Cetinje",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Danilovgrad",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Gusinje",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Herceg Novi",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kolašin",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kotor",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Mojkovac",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Nikšić",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Petnjica",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Plav",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pljevlja",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Plužine",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Podgorica",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Rožaje",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Šavnik",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tivat",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tuzi",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ulcinj",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Žabljak",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zeta",
+    "period": "April 02, 2026 - April 30, 2026",
+    "type": "vehicle"
+  }
+]
