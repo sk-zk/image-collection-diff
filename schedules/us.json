@@ -259,17 +259,17 @@
   },
   {
     "region": "California",
-    "period": "Transit (iPhone/iPad) locations for May 06, 2026 - May 19, 2026",
+    "period": "Transit (iPhone/iPad) locations for March 25, 2026 - June 05, 2026",
     "subdivisions": [
-      "Los Angeles County"
+      "San Francisco County"
     ],
     "type": "ipad"
   },
   {
     "region": "California",
-    "period": "Transit (iPhone/iPad) locations for May 13, 2026 - June 05, 2026",
+    "period": "Transit (iPhone/iPad) locations for May 06, 2026 - May 19, 2026",
     "subdivisions": [
-      "San Francisco County"
+      "Los Angeles County"
     ],
     "type": "ipad"
   },
