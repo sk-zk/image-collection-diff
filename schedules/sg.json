@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "region": "Singapore",
+    "period": "April 01, 2026 - August 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Singapore",
+    "period": "April 01, 2026 - August 31, 2026",
+    "type": "vehicle"
+  }
+]

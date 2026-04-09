@@ -1,67 +1,72 @@
 [
   {
+    "region": "Sarajevo Canton",
+    "period": "April 27, 2026 - May 22, 2026",
+    "type": "backpack"
+  },
+  {
     "region": "Bosnian Podrinje Canton",
-    "period": "March 30, 2026 - May 05, 2026",
+    "period": "April 22, 2026 - May 21, 2026",
     "type": "vehicle"
   },
   {
     "region": "Brčko",
-    "period": "March 30, 2026 - May 05, 2026",
+    "period": "April 22, 2026 - May 21, 2026",
     "type": "vehicle"
   },
   {
     "region": "Canton 10",
-    "period": "March 30, 2026 - May 05, 2026",
+    "period": "April 22, 2026 - May 21, 2026",
     "type": "vehicle"
   },
   {
     "region": "Central Bosnia Canton",
-    "period": "March 30, 2026 - May 05, 2026",
+    "period": "April 22, 2026 - May 21, 2026",
     "type": "vehicle"
   },
   {
     "region": "Herzegovina-Neretva Canton",
-    "period": "March 30, 2026 - May 05, 2026",
+    "period": "April 22, 2026 - May 21, 2026",
     "type": "vehicle"
   },
   {
     "region": "Posavina Canton",
-    "period": "March 30, 2026 - May 05, 2026",
+    "period": "April 22, 2026 - May 21, 2026",
     "type": "vehicle"
   },
   {
     "region": "Sarajevo Canton",
-    "period": "March 30, 2026 - May 05, 2026",
+    "period": "April 22, 2026 - May 21, 2026",
     "type": "vehicle"
   },
   {
     "region": "Srpska East",
-    "period": "March 30, 2026 - May 05, 2026",
+    "period": "April 22, 2026 - May 21, 2026",
     "type": "vehicle"
   },
   {
     "region": "Srpska North",
-    "period": "March 30, 2026 - May 05, 2026",
+    "period": "April 22, 2026 - May 21, 2026",
     "type": "vehicle"
   },
   {
     "region": "Tuzla Canton",
-    "period": "March 30, 2026 - May 05, 2026",
+    "period": "April 22, 2026 - May 21, 2026",
     "type": "vehicle"
   },
   {
     "region": "Una-Sana Canton",
-    "period": "March 30, 2026 - May 05, 2026",
+    "period": "April 22, 2026 - May 21, 2026",
     "type": "vehicle"
   },
   {
     "region": "West Herzegovina Canton",
-    "period": "March 30, 2026 - May 05, 2026",
+    "period": "April 22, 2026 - May 21, 2026",
     "type": "vehicle"
   },
   {
     "region": "Zenica-Doboj Canton",
-    "period": "March 30, 2026 - May 05, 2026",
+    "period": "April 22, 2026 - May 21, 2026",
     "type": "vehicle"
   }
 ]

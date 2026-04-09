@@ -1,1 +1,69 @@
-[]
+[
+  {
+    "region": "Central Switzerland",
+    "period": "Vehicle locations for April 24, 2026 - July 07, 2026",
+    "subdivisions": [
+      "Lucerne",
+      "Nidwalden",
+      "Obwalden",
+      "Schwyz",
+      "Uri",
+      "Zug"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Eastern Switzerland",
+    "period": "Vehicle locations for April 24, 2026 - July 07, 2026",
+    "subdivisions": [
+      "Appenzell Ausserrhoden",
+      "Appenzell Innerrhoden",
+      "Glarus",
+      "Grisons",
+      "Schaffhausen",
+      "St. Gallen",
+      "Thurgau"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Lake Geneva Region",
+    "period": "Vehicle locations for April 24, 2026 - July 07, 2026",
+    "subdivisions": [
+      "Geneva",
+      "Valais",
+      "Vaud"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Mittelland Area",
+    "period": "Vehicle locations for April 24, 2026 - July 07, 2026",
+    "subdivisions": [
+      "Bern",
+      "Fribourg",
+      "Jura",
+      "Neuchâtel",
+      "Solothurn"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Northwest Switzerland",
+    "period": "Vehicle locations for April 24, 2026 - July 07, 2026",
+    "subdivisions": [
+      "Aargau",
+      "Basle-City",
+      "Basle-Country"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Ticino",
+    "period": "Vehicle locations for April 24, 2026 - July 07, 2026",
+    "subdivisions": [
+      "Ticino"
+    ],
+    "type": "vehicle"
+  }
+]
