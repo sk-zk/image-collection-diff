@@ -1,6 +1,16 @@
 [
   {
     "region": "Attica",
+    "period": "April 27, 2026 - June 30, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Central Macedonia",
+    "period": "April 27, 2026 - June 30, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Attica",
     "period": "March 30, 2026 - May 19, 2026",
     "type": "vehicle"
   },
