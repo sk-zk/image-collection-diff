@@ -36,9 +36,10 @@
   },
   {
     "region": "Lake Geneva Region",
-    "period": "Pedestrian (backpack) locations for April 20, 2026 - June 23, 2026",
+    "period": "Pedestrian (backpack) locations for April 20, 2026 - June 30, 2026",
     "subdivisions": [
-      "Geneva"
+      "Geneva",
+      "Vaud"
     ],
     "type": "backpack"
   },
@@ -54,7 +55,7 @@
   },
   {
     "region": "Mittelland Area",
-    "period": "Pedestrian (backpack) locations for April 20, 2026 - May 28, 2026",
+    "period": "Pedestrian (backpack) locations for April 20, 2026 - June 30, 2026",
     "subdivisions": [
       "Bern"
     ],
@@ -74,7 +75,7 @@
   },
   {
     "region": "Northwest Switzerland",
-    "period": "Pedestrian (backpack) locations for April 20, 2026 - May 31, 2026",
+    "period": "Pedestrian (backpack) locations for April 20, 2026 - June 30, 2026",
     "subdivisions": [
       "Basle-City"
     ],
@@ -95,6 +96,22 @@
     "period": "Vehicle locations for April 24, 2026 - July 07, 2026",
     "subdivisions": [
       "Ticino"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Zurich",
+    "period": "Pedestrian (backpack) locations for April 20, 2026 - June 30, 2026",
+    "subdivisions": [
+      "Zurich"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Zurich",
+    "period": "Vehicle locations for April 24, 2026 - July 07, 2026",
+    "subdivisions": [
+      "Zurich"
     ],
     "type": "vehicle"
   }

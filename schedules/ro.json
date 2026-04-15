@@ -6,5 +6,102 @@
       "Bucharest – Ilfov"
     ],
     "type": "backpack"
+  },
+  {
+    "region": "Bucharest – Ilfov",
+    "period": "Vehicle locations for April 24, 2026 - June 16, 2026",
+    "subdivisions": [
+      "Bucharest – Ilfov"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Center",
+    "period": "Vehicle locations for April 24, 2026 - June 16, 2026",
+    "subdivisions": [
+      "Alba",
+      "Brasov",
+      "Covasna",
+      "Harghita",
+      "Mures",
+      "Sibiu"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "North-East",
+    "period": "Vehicle locations for April 24, 2026 - June 16, 2026",
+    "subdivisions": [
+      "Bacau",
+      "Botosani",
+      "Iasi",
+      "Neamt",
+      "Suceava",
+      "Vaslui"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "North-West",
+    "period": "Vehicle locations for April 24, 2026 - June 16, 2026",
+    "subdivisions": [
+      "Bihor",
+      "Bistrita-Nasaud",
+      "Cluj",
+      "Maramures",
+      "Salaj",
+      "Satu Mare"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "South – Muntenia",
+    "period": "Vehicle locations for April 24, 2026 - June 16, 2026",
+    "subdivisions": [
+      "Arges",
+      "Calarasi",
+      "Dambovita",
+      "Giurgiu",
+      "Ialomita",
+      "Prahova",
+      "Teleorman"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "South-East",
+    "period": "Vehicle locations for April 24, 2026 - June 16, 2026",
+    "subdivisions": [
+      "Braila",
+      "Buzau",
+      "Constanta",
+      "Galati",
+      "Tulcea",
+      "Vrancea"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "South-West Oltenia",
+    "period": "Vehicle locations for April 24, 2026 - June 16, 2026",
+    "subdivisions": [
+      "Dolj",
+      "Gorj",
+      "Mehedinti",
+      "Olt",
+      "Valcea"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "West",
+    "period": "Vehicle locations for April 24, 2026 - June 16, 2026",
+    "subdivisions": [
+      "Arad",
+      "Caras-Severin",
+      "Hunedoara",
+      "Timis"
+    ],
+    "type": "vehicle"
   }
 ]
