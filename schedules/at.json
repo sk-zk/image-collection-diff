@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "region": "Wien",
+    "period": "Pedestrian (backpack) locations for April 27, 2026 - July 20, 2026",
+    "subdivisions": [
+      "Wien"
+    ],
+    "type": "backpack"
+  }
+]

@@ -52,6 +52,15 @@
   },
   {
     "region": "Bavaria",
+    "period": "Pedestrian (backpack) locations for April 27, 2026 - July 14, 2026",
+    "subdivisions": [
+      "Munich District",
+      "State Capital Munich"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Bavaria",
     "period": "Vehicle locations for March 09, 2026 - September 15, 2026",
     "subdivisions": [
       "Aichach-Friedberg District",
@@ -155,6 +164,14 @@
   },
   {
     "region": "Berlin",
+    "period": "Pedestrian (backpack) locations for April 27, 2026 - July 14, 2026",
+    "subdivisions": [
+      "Federal Capital Berlin"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Berlin",
     "period": "Vehicle locations for March 09, 2026 - September 15, 2026",
     "subdivisions": [
       "Federal Capital Berlin"
@@ -194,6 +211,14 @@
       "City Municipality of Bremerhaven"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Hamburg",
+    "period": "Pedestrian (backpack) locations for June 16, 2026 - July 14, 2026",
+    "subdivisions": [
+      "City of Hamburg"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Hamburg",

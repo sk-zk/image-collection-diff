@@ -1,6 +1,14 @@
 [
   {
     "region": "Brussels",
+    "period": "Pedestrian (backpack) locations for April 28, 2026 - June 25, 2026",
+    "subdivisions": [
+      "Brussels-Capital Region"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Brussels",
     "period": "Vehicle locations for March 30, 2026 - May 15, 2026",
     "subdivisions": [
       "Brussels-Capital Region"
