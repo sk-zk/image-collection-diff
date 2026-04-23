@@ -2401,6 +2401,14 @@
   },
   {
     "region": "North Carolina",
+    "period": "Pedestrian (backpack) locations for April 16, 2026 - April 24, 2026",
+    "subdivisions": [
+      "Forsyth County"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "North Carolina",
     "period": "Vehicle locations for January 01, 2026 - December 31, 2026",
     "subdivisions": [
       "Alamance County",
