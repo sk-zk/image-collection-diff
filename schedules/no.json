@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "region": "Agder",
+    "period": "April 30, 2026 - May 28, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Innlandet",
+    "period": "April 30, 2026 - May 28, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Jan Mayen",
+    "period": "April 30, 2026 - May 28, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "More Og Romsdal",
+    "period": "April 30, 2026 - May 28, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Nordland",
+    "period": "April 30, 2026 - May 28, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Oslo",
+    "period": "April 30, 2026 - May 28, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Rogaland",
+    "period": "April 30, 2026 - May 28, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Svalbard",
+    "period": "April 30, 2026 - May 28, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Troms Og Finnmark",
+    "period": "April 30, 2026 - May 28, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Trondelag",
+    "period": "April 30, 2026 - May 28, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Vestfold Og Telemark",
+    "period": "April 30, 2026 - May 28, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Vestland",
+    "period": "April 30, 2026 - May 28, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Viken",
+    "period": "April 30, 2026 - May 28, 2026",
+    "type": "vehicle"
+  }
+]

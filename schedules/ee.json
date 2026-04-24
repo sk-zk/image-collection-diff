@@ -1,12 +1,18 @@
 [
   {
     "region": "Harju County",
-    "period": "April 27, 2026 - May 07, 2026",
+    "period": "Pedestrian (backpack) locations for April 27, 2026 - May 07, 2026",
+    "subdivisions": [
+      "Tallinn"
+    ],
     "type": "backpack"
   },
   {
     "region": "Tartu County",
-    "period": "April 27, 2026 - May 07, 2026",
+    "period": "Pedestrian (backpack) locations for April 27, 2026 - May 07, 2026",
+    "subdivisions": [
+      "Tartu Parish"
+    ],
     "type": "backpack"
   }
 ]

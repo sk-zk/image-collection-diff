@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "region": "Cork",
+    "period": "April 27, 2026 - July 24, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Dublin",
+    "period": "April 27, 2026 - July 24, 2026",
+    "type": "backpack"
+  }
+]
