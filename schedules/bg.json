@@ -3,5 +3,145 @@
     "region": "Sofia Province",
     "period": "March 30, 2026 - May 08, 2026",
     "type": "backpack"
+  },
+  {
+    "region": "Blagoevgrad",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Burgas",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Dobrich",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Gabrovo",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Haskovo",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kardzhali",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kyustendil",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Lom Cherkovna",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Lovech",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Montana",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pazardzhik",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pernik",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pleven",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Plovdiv",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Razgrad",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ruse",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Shumen",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Silistra",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Sliven",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Smolyan",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Sofia Province",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Stara Zagora",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Targovishte",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Varna",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Veliko Tarnovo",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Vidin",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Vratsa",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Yambol",
+    "period": "May 07, 2026 - June 05, 2026",
+    "type": "vehicle"
   }
 ]
