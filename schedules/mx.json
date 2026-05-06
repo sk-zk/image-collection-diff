@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "region": "Mexico City",
+    "period": "June 22, 2026 - July 24, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Aguascalientes",
+    "period": "July 14, 2026 - July 17, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Baja California",
+    "period": "August 09, 2026 - August 24, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Culiacan",
+    "period": "July 24, 2026 - July 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ecatepec de Morelos",
+    "period": "July 28, 2026 - August 19, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Hermosillo",
+    "period": "August 01, 2026 - August 08, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Hunucma",
+    "period": "August 25, 2026 - August 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Leon",
+    "period": "July 08, 2026 - July 13, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Merida",
+    "period": "June 05, 2026 - July 26, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Mexico City",
+    "period": "May 08, 2026 - June 13, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Monterrey",
+    "period": "July 23, 2026 - August 09, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Morelia",
+    "period": "June 16, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Morelos",
+    "period": "May 11, 2026 - May 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ojinaga",
+    "period": "August 31, 2026 - September 05, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Puebla",
+    "period": "June 14, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Queretaro",
+    "period": "July 02, 2026 - July 07, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Reynosa",
+    "period": "August 23, 2026 - September 07, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Saltillo",
+    "period": "August 10, 2026 - August 14, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "San Luis Potosi",
+    "period": "July 18, 2026 - July 22, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Toluca",
+    "period": "May 26, 2026 - June 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Veracruz",
+    "period": "May 11, 2026 - June 03, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zapotlan el Grande",
+    "period": "June 30, 2026 - July 23, 2026",
+    "type": "vehicle"
+  }
+]
