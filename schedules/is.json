@@ -1,7 +1,7 @@
 [
   {
     "region": "Capital Region",
-    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "period": "Vehicle locations for May 11, 2026 - May 31, 2026",
     "subdivisions": [
       "Garðabær",
       "Hafnarfjörður",
@@ -15,7 +15,7 @@
   },
   {
     "region": "Eastern Region",
-    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "period": "Vehicle locations for May 11, 2026 - May 31, 2026",
     "subdivisions": [
       "Fjarðabyggð",
       "Fljótsdalshreppur",
@@ -26,7 +26,7 @@
   },
   {
     "region": "Northwestern Region",
-    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "period": "Vehicle locations for May 11, 2026 - May 31, 2026",
     "subdivisions": [
       "Akureyri",
       "Dalvíkurbyggð",
@@ -49,7 +49,7 @@
   },
   {
     "region": "Southern Peninsula",
-    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "period": "Vehicle locations for May 11, 2026 - May 31, 2026",
     "subdivisions": [
       "Grindavíkurbær",
       "Reykjanesbær",
@@ -60,7 +60,7 @@
   },
   {
     "region": "Southern Region",
-    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "period": "Vehicle locations for May 11, 2026 - May 31, 2026",
     "subdivisions": [
       "Árborg",
       "Ásahreppur",
@@ -81,7 +81,7 @@
   },
   {
     "region": "West Fjords",
-    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "period": "Vehicle locations for May 11, 2026 - May 31, 2026",
     "subdivisions": [
       "Árneshreppur",
       "Bolungarvík",
@@ -97,7 +97,7 @@
   },
   {
     "region": "Western Region",
-    "period": "Vehicle locations for April 16, 2026 - May 26, 2026",
+    "period": "Vehicle locations for May 11, 2026 - May 31, 2026",
     "subdivisions": [
       "Borgarbyggð",
       "Dalabyggð",

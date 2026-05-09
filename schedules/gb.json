@@ -155,6 +155,24 @@
   },
   {
     "region": "Greater London",
+    "period": "Pedestrian (backpack) locations for May 11, 2026 - July 27, 2026",
+    "subdivisions": [
+      "Camden",
+      "City of London",
+      "City of Westminster",
+      "Hackney",
+      "Haringey",
+      "Islington",
+      "Kensington and Chelsea",
+      "Lambeth",
+      "Southwark",
+      "Tower Hamlets",
+      "Wandsworth"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Greater London",
     "period": "Vehicle locations for April 23, 2026 - May 09, 2026",
     "subdivisions": [
       "Barking and Dagenham",
@@ -192,6 +210,14 @@
       "Wandsworth"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Greater Manchester",
+    "period": "Pedestrian (backpack) locations for May 11, 2026 - July 27, 2026",
+    "subdivisions": [
+      "Manchester"
+    ],
+    "type": "backpack"
   },
   {
     "region": "Greater Manchester",
@@ -432,6 +458,14 @@
   },
   {
     "region": "West Midlands",
+    "period": "Pedestrian (backpack) locations for May 11, 2026 - July 27, 2026",
+    "subdivisions": [
+      "Birmingham"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "West Midlands",
     "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
     "subdivisions": [
       "Birmingham",
@@ -451,6 +485,14 @@
       "West Sussex County"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "West Yorkshire",
+    "period": "Pedestrian (backpack) locations for May 11, 2026 - July 27, 2026",
+    "subdivisions": [
+      "Leeds"
+    ],
+    "type": "backpack"
   },
   {
     "region": "West Yorkshire",
