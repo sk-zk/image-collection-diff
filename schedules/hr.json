@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "region": "Osijek-Baranja County",
+    "period": "May 27, 2026 - June 20, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Primorje-Gorski Kotar County",
+    "period": "May 27, 2026 - June 20, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Split-Dalmatia County",
+    "period": "May 27, 2026 - June 20, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Zagreb County",
+    "period": "May 27, 2026 - June 20, 2026",
+    "type": "vehicle"
+  }
+]
