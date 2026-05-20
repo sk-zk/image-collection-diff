@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "region": "Region of Helsinki",
+    "period": "May 28, 2026 - July 20, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Southwest Finland",
+    "period": "May 28, 2026 - July 20, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Tampere Region",
+    "period": "May 28, 2026 - July 20, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Åland",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Central Finland",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Central Ostrobothnia",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kainuu",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kymi Valley",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Lapland",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "North Karelia",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Northern Ostrobothnia",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Northern Savo",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Ostrobothnia",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Päijänne Tavastia",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Region of Helsinki",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Satakunta",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "South Karelia",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Southern Ostrobothnia",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Southern Savo",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Southwest Finland",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tampere Region",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tavastia Proper",
+    "period": "June 01, 2026 - July 15, 2026",
+    "type": "vehicle"
+  }
+]
