@@ -1,1 +1,107 @@
-[]
+[
+  {
+    "region": "Blekinge",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Dalarna",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Gävleborg",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Gotland",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Halland",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Jämtland",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Jönköping",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kalmar",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kronoberg",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Norrbotten",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Örebro",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Östergötland",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Skåne",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Södermanland",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Stockholm",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Uppsala",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Värmland",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Västerbotten",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Västernorrland",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Västmanland",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Västra Götaland",
+    "period": "June 01, 2026 - June 29, 2026",
+    "type": "vehicle"
+  }
+]
