@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "region": "Central Region",
+    "period": "Pedestrian (backpack) locations for June 08, 2026 - June 27, 2026",
+    "subdivisions": [
+      "Attard",
+      "Birkirkara",
+      "Saint Julian's",
+      "Santa Venera",
+      "Sliema"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Northern Region",
+    "period": "Pedestrian (backpack) locations for June 08, 2026 - June 27, 2026",
+    "subdivisions": [
+      "Dingli",
+      "Mosta",
+      "Naxxar",
+      "Rabat"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "South Eastern Region",
+    "period": "Pedestrian (backpack) locations for June 08, 2026 - June 27, 2026",
+    "subdivisions": [
+      "Birgu",
+      "Floriana",
+      "Kalkara",
+      "Marsa",
+      "Marsaxlokk",
+      "Paola",
+      "Tarxien",
+      "Valletta",
+      "Żabbar"
+    ],
+    "type": "backpack"
+  }
+]

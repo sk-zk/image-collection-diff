@@ -6,6 +6,11 @@
   },
   {
     "region": "Singapore",
+    "period": "June 01, 2026 - August 31, 2026",
+    "type": "ipad"
+  },
+  {
+    "region": "Singapore",
     "period": "April 01, 2026 - August 31, 2026",
     "type": "vehicle"
   }
