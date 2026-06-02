@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "region": "Lefkosia",
+    "period": "June 16, 2026 - June 30, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Pafos",
+    "period": "June 16, 2026 - June 30, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Larnaka",
+    "period": "June 08, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Lefkosia",
+    "period": "June 08, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Lemesos",
+    "period": "June 08, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pafos",
+    "period": "June 08, 2026 - June 30, 2026",
+    "type": "vehicle"
+  }
+]

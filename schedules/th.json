@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "region": "Bangkok and Vicinities",
+    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Bangkok",
+      "Pathum Thani",
+      "Samut Sakhon"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Central",
+    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Ang Thong",
+      "Chai Nat",
+      "Lop Buri",
+      "Phra Nakhon Sri Ayutthaya",
+      "Saraburi",
+      "Singburi"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Eastern",
+    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Chachoengsao",
+      "Chanthaburi",
+      "Chon Buri",
+      "Rayong"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Northeastern",
+    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Buri Ram",
+      "Chaiyaphum",
+      "Khon Kaen",
+      "Maha Sarakham",
+      "Nakhon Phanom",
+      "Nakhon Ratchasima",
+      "Roi Et",
+      "Surin",
+      "Ubon Ratchathani",
+      "Udon Thani",
+      "Yasothon"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Northern",
+    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Chiang Mai",
+      "Chiang Rai",
+      "Lampang",
+      "Lamphun",
+      "Nakhon Sawan",
+      "Phayao",
+      "Phetchabun",
+      "Phichit",
+      "Phitsanulok",
+      "Phrae",
+      "Sukhothai",
+      "Tak",
+      "Uthai Thani",
+      "Uttaradit"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Southern",
+    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Chumphon",
+      "Hat Yai",
+      "Krabi",
+      "Nakhon Si Thammarat",
+      "Narathiwat",
+      "Pattani",
+      "Phangnga",
+      "Phatthalung",
+      "Phuket",
+      "Songkhla",
+      "Surat Thani",
+      "Yala"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Western",
+    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "subdivisions": [
+      "Kanchanaburi",
+      "Phetchaburi",
+      "Prachuap Khiri Khan",
+      "Ratchaburi",
+      "Suphan Buri"
+    ],
+    "type": "vehicle"
+  }
+]

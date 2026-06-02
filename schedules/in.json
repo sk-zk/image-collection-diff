@@ -65,6 +65,31 @@
     "type": "backpack"
   },
   {
+    "region": "Delhi",
+    "period": "June 01, 2026 - July 31, 2026",
+    "type": "ipad"
+  },
+  {
+    "region": "Maharashtra",
+    "period": "June 01, 2026 - July 31, 2026",
+    "type": "ipad"
+  },
+  {
+    "region": "Tamil Nadu",
+    "period": "June 01, 2026 - July 31, 2026",
+    "type": "ipad"
+  },
+  {
+    "region": "Telangana",
+    "period": "June 01, 2026 - July 31, 2026",
+    "type": "ipad"
+  },
+  {
+    "region": "West Bengal",
+    "period": "June 01, 2026 - July 31, 2026",
+    "type": "ipad"
+  },
+  {
     "region": "Andhra Pradesh",
     "period": "March 01, 2026 - July 31, 2026",
     "type": "vehicle"
