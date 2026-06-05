@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "region": "Federal Territory of Kuala Lumpur",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Johor",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Melaka",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Penang",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Selangor",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Federal Territory of Kuala Lumpur",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Johor",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kedah",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kelantan",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Melaka",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Negeri Sembilan",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Pahang",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Penang",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Perak",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Sabah",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Sarawak",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Selangor",
+    "period": "June 08, 2026 - September 30, 2026",
+    "type": "vehicle"
+  }
+]

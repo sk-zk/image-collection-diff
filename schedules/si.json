@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "region": "Carinthia",
+    "period": "June 12, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Central Sava",
+    "period": "June 12, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Central Slovenia",
+    "period": "June 12, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Coastal-Karst",
+    "period": "June 12, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Drava",
+    "period": "June 12, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Gorizia",
+    "period": "June 12, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Littoral Inner Carniola",
+    "period": "June 12, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Lower Sava",
+    "period": "June 12, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Mura",
+    "period": "June 12, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Savinja",
+    "period": "June 12, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Southeast Slovenia",
+    "period": "June 12, 2026 - June 30, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Upper Carniola",
+    "period": "June 12, 2026 - June 30, 2026",
+    "type": "vehicle"
+  }
+]
