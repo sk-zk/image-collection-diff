@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "region": "Vilnius",
+    "period": "June 08, 2026 - June 29, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Alytus",
+    "period": "June 15, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kaunas",
+    "period": "June 15, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Klaipėda",
+    "period": "June 15, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Marijampolė",
+    "period": "June 15, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Panevėžys",
+    "period": "June 15, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Šiauliai",
+    "period": "June 15, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tauragė",
+    "period": "June 15, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Telšiai",
+    "period": "June 15, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Utena",
+    "period": "June 15, 2026 - July 15, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Vilnius",
+    "period": "June 15, 2026 - July 15, 2026",
+    "type": "vehicle"
+  }
+]
