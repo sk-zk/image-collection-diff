@@ -1,5 +1,10 @@
 [
   {
+    "region": "Stockholm",
+    "period": "June 12, 2026 - July 22, 2026",
+    "type": "backpack"
+  },
+  {
     "region": "Blekinge",
     "period": "June 01, 2026 - June 29, 2026",
     "type": "vehicle"
