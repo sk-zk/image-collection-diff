@@ -1,6 +1,11 @@
 [
   {
     "region": "Capital City of Prague",
+    "period": "June 22, 2026 - July 31, 2026",
+    "type": "backpack"
+  },
+  {
+    "region": "Capital City of Prague",
     "period": "March 09, 2026 - May 11, 2026",
     "type": "vehicle"
   },
