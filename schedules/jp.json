@@ -11,6 +11,64 @@
     "type": "backpack"
   },
   {
+    "region": "Ibaraki Prefecture",
+    "period": "Transit (iPhone/iPad) locations for July 01, 2026 - October 31, 2026",
+    "subdivisions": [
+      "Toride City"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Saitama Prefecture",
+    "period": "Transit (iPhone/iPad) locations for July 01, 2026 - October 31, 2026",
+    "subdivisions": [
+      "Saitama City",
+      "Kawagoe City",
+      "Kawaguchi City",
+      "Tokorozawa City",
+      "Hanno City",
+      "Kasukabe City",
+      "Sayama City",
+      "Ageo City",
+      "Soka City",
+      "Koshigaya City",
+      "Warabi City",
+      "Toda City",
+      "Asaka City",
+      "Shiki City",
+      "Wako City",
+      "Niiza City",
+      "Kuki City",
+      "Fujimi City",
+      "Sakado City",
+      "Minami-Saitama District",
+      "Kita-Katsushika District"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Chiba Prefecture",
+    "period": "Transit (iPhone/iPad) locations for July 01, 2026 - October 31, 2026",
+    "subdivisions": [
+      "Chiba City",
+      "Funabashi City",
+      "Kamagaya City",
+      "Kisarazu City",
+      "Matsudo City",
+      "Narita City",
+      "Kashiwa City",
+      "Ichihara City",
+      "Nagareyama City",
+      "Yachiyo City",
+      "Abiko City",
+      "Kimitsu City",
+      "Urayasu City",
+      "Katori District",
+      "Sambu District"
+    ],
+    "type": "ipad"
+  },
+  {
     "region": "Tokyo Metropolis",
     "period": "Pedestrian (backpack) locations for February 15, 2026 - September 30, 2026",
     "subdivisions": [
@@ -30,6 +88,54 @@
       "Kita Ward"
     ],
     "type": "backpack"
+  },
+  {
+    "region": "Tokyo Metropolis",
+    "period": "Transit (iPhone/iPad) locations for July 01, 2026 - October 31, 2026",
+    "subdivisions": [
+      "Chiyoda Ward",
+      "Chuo Ward",
+      "Minato Ward",
+      "Shinjuku Ward",
+      "Bunkyo Ward",
+      "Taito Ward",
+      "Sumida Ward",
+      "Koto Ward",
+      "Shinagawa Ward",
+      "Meguro Ward",
+      "Ota Ward",
+      "Setagaya Ward",
+      "Shibuya Ward",
+      "Nakano Ward",
+      "Suginami Ward",
+      "Toshima Ward",
+      "Kita Ward",
+      "Arakawa Ward",
+      "Itabashi Ward",
+      "Nerima Ward",
+      "Adachi Ward",
+      "Katsushika Ward",
+      "Edogawa Ward",
+      "Hachioji City",
+      "Tachikawa City",
+      "Musashino City",
+      "Mitaka City",
+      "Ome City",
+      "Fuchu City",
+      "Akishima City",
+      "Chofu City",
+      "Machida City",
+      "Koganei City",
+      "Kodaira City",
+      "Hino City",
+      "Kokubunji City",
+      "Kunitachi City",
+      "Fussa City",
+      "Kiyose City",
+      "Tama City",
+      "Nishitokyo City"
+    ],
+    "type": "ipad"
   },
   {
     "region": "Tokyo Metropolis",
@@ -93,6 +199,28 @@
   },
   {
     "region": "Kanagawa Prefecture",
+    "period": "Transit (iPhone/iPad) locations for July 01, 2026 - October 31, 2026",
+    "subdivisions": [
+      "Yokohama City",
+      "Kawasaki City",
+      "Sagamihara City",
+      "Yokosuka City",
+      "Hiratsuka City",
+      "Kamakura City",
+      "Fujisawa City",
+      "Odawara City",
+      "Chigasaki City",
+      "Zushi City",
+      "Atsugi City",
+      "Yamato City",
+      "Isehara City",
+      "Ebina City",
+      "Ashigarashimo District"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Kanagawa Prefecture",
     "period": "Vehicle locations for March 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Yokohama City",
@@ -130,6 +258,96 @@
       "Shizuoka City"
     ],
     "type": "backpack"
+  },
+  {
+    "region": "Aichi Prefecture",
+    "period": "Transit (iPhone/iPad) locations for July 01, 2026 - October 31, 2026",
+    "subdivisions": [
+      "Nagoya City",
+      "Ichinomiya City",
+      "Kasugai City",
+      "Kariya City",
+      "Konan City",
+      "Inazawa City",
+      "Tokai City",
+      "Obu City",
+      "Iwakura City",
+      "Toyoake City",
+      "Nisshin City",
+      "Kiyosu City",
+      "Kitanagoya City",
+      "Ama City",
+      "Ama District"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Shiga Prefecture",
+    "period": "Transit (iPhone/iPad) locations for July 01, 2026 - October 31, 2026",
+    "subdivisions": [
+      "Moriyama City"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Kyoto Prefecture",
+    "period": "Transit (iPhone/iPad) locations for July 01, 2026 - October 31, 2026",
+    "subdivisions": [
+      "Uji City",
+      "Kameoka City",
+      "Nagaokakyo City",
+      "Kyotanabe City",
+      "Kizugawa City"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Osaka Prefecture",
+    "period": "Transit (iPhone/iPad) locations for July 01, 2026 - October 31, 2026",
+    "subdivisions": [
+      "Osaka City",
+      "Sakai City",
+      "Kishiwada City",
+      "Toyonaka City",
+      "Ikeda City",
+      "Suita City",
+      "Izumiotsu City",
+      "Takatsuki City",
+      "Kaizuka City",
+      "Moriguchi City",
+      "Hirakata City",
+      "Ibaraki City",
+      "Yao City",
+      "Izumisano City",
+      "Neyagawa City",
+      "Kawachinagano City",
+      "Matsubara City",
+      "Daito City",
+      "Izumi City",
+      "Minoh City",
+      "Habikino City",
+      "Kadoma City",
+      "Settsu City",
+      "Takaishi City",
+      "Fujiidera City",
+      "Higashiosaka City"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Hyogo Prefecture",
+    "period": "Transit (iPhone/iPad) locations for July 01, 2026 - October 31, 2026",
+    "subdivisions": [
+      "Kobe City",
+      "Amagasaki City",
+      "Akashi City",
+      "Nishinomiya City",
+      "Ashiya City",
+      "Itami City",
+      "Takarazuka City",
+      "Kawanishi City"
+    ],
+    "type": "ipad"
   },
   {
     "region": "Hyogo Prefecture",
@@ -174,6 +392,16 @@
       "Mikata District"
     ],
     "type": "vehicle"
+  },
+  {
+    "region": "Nara Prefecture",
+    "period": "Transit (iPhone/iPad) locations for July 01, 2026 - October 31, 2026",
+    "subdivisions": [
+      "Nara City",
+      "Ikoma City",
+      "Kita-Katsuragi District"
+    ],
+    "type": "ipad"
   },
   {
     "region": "Okayama Prefecture",
@@ -250,5 +478,13 @@
       "Kasuya District"
     ],
     "type": "backpack"
+  },
+  {
+    "region": "Fukuoka Prefecture",
+    "period": "Transit (iPhone/iPad) locations for July 01, 2026 - October 31, 2026",
+    "subdivisions": [
+      "Fukuoka City"
+    ],
+    "type": "ipad"
   }
 ]
