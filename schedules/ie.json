@@ -8,5 +8,135 @@
     "region": "Dublin",
     "period": "April 27, 2026 - July 24, 2026",
     "type": "backpack"
+  },
+  {
+    "region": "Carlow",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Cavan",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Clare",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Cork",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Donegal",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Dublin",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Galway",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kerry",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kildare",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Kilkenny",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Laois",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Leitrim",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Limerick",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Longford",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Louth",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Mayo",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Meath",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Monaghan",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Offaly",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Roscommon",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Sligo",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Tipperary",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Waterford",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Westmeath",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Wexford",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
+  },
+  {
+    "region": "Wicklow",
+    "period": "August 11, 2026 - September 25, 2026",
+    "type": "vehicle"
   }
 ]
