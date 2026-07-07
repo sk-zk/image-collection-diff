@@ -6,5 +6,30 @@
       "Lisbon"
     ],
     "type": "backpack"
+  },
+  {
+    "region": "Mainland Portugal",
+    "period": "Vehicle locations for July 27, 2026 - August 25, 2026",
+    "subdivisions": [
+      "Aveiro",
+      "Beja",
+      "Braga",
+      "Bragança",
+      "Castelo Branco",
+      "Coimbra",
+      "Evora",
+      "Faro",
+      "Guarda",
+      "Leiria",
+      "Lisbon",
+      "Portalegre",
+      "Porto",
+      "Santarem",
+      "Setubal",
+      "Viana do Castelo",
+      "Vila Real",
+      "Viseu"
+    ],
+    "type": "vehicle"
   }
 ]
