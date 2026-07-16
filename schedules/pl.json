@@ -311,6 +311,30 @@
     "type": "vehicle"
   },
   {
+    "region": "Podlaskie Voivodeship",
+    "period": "Vehicle locations for May 15, 2026 - August 31, 2026",
+    "subdivisions": [
+      "Augustów County",
+      "Białystok",
+      "Białystok County",
+      "Bielsk Podlaski County",
+      "Grajewo County",
+      "Hajnówka County",
+      "Kolno County",
+      "Mońki County",
+      "Sejny County",
+      "Siemiatycze County",
+      "Sokółka County",
+      "Suwałki",
+      "Suwałki County",
+      "Wysokie Mazowieckie County",
+      "Zambrów County",
+      "Łomża",
+      "Łomża County"
+    ],
+    "type": "vehicle"
+  },
+  {
     "region": "Pomeranian Voivodeship",
     "period": "Pedestrian (backpack) locations for June 26, 2026 - August 05, 2026",
     "subdivisions": [
@@ -486,7 +510,7 @@
   },
   {
     "region": "Łódź Voivodeship",
-    "period": "Pedestrian (backpack) locations for June 08, 2026 - June 27, 2026",
+    "period": "Pedestrian (backpack) locations for June 08, 2026 - July 24, 2026",
     "subdivisions": [
       "Lodz"
     ],
