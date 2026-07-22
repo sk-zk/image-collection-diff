@@ -1,7 +1,7 @@
 [
   {
     "region": "Bangkok and Vicinities",
-    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "period": "Vehicle locations for July 23, 2026 - October 30, 2026",
     "subdivisions": [
       "Bangkok",
       "Pathum Thani",
@@ -11,7 +11,7 @@
   },
   {
     "region": "Central",
-    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "period": "Vehicle locations for July 23, 2026 - October 30, 2026",
     "subdivisions": [
       "Ang Thong",
       "Chai Nat",
@@ -24,7 +24,7 @@
   },
   {
     "region": "Eastern",
-    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "period": "Vehicle locations for July 23, 2026 - October 30, 2026",
     "subdivisions": [
       "Chachoengsao",
       "Chanthaburi",
@@ -35,7 +35,7 @@
   },
   {
     "region": "Northeastern",
-    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "period": "Vehicle locations for July 23, 2026 - October 30, 2026",
     "subdivisions": [
       "Buri Ram",
       "Chaiyaphum",
@@ -53,7 +53,7 @@
   },
   {
     "region": "Northern",
-    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "period": "Vehicle locations for July 23, 2026 - October 30, 2026",
     "subdivisions": [
       "Chiang Mai",
       "Chiang Rai",
@@ -74,7 +74,7 @@
   },
   {
     "region": "Southern",
-    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "period": "Vehicle locations for July 23, 2026 - October 30, 2026",
     "subdivisions": [
       "Chumphon",
       "Hat Yai",
@@ -93,7 +93,7 @@
   },
   {
     "region": "Western",
-    "period": "Vehicle locations for June 01, 2026 - September 30, 2026",
+    "period": "Vehicle locations for July 23, 2026 - October 30, 2026",
     "subdivisions": [
       "Kanchanaburi",
       "Phetchaburi",
