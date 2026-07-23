@@ -51,7 +51,7 @@
   },
   {
     "region": "Cheshire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Cheshire East",
       "Cheshire West and Chester",
@@ -70,7 +70,7 @@
   },
   {
     "region": "Cumbria",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Cumberland",
       "Westmorland and Furness"
@@ -79,7 +79,7 @@
   },
   {
     "region": "Derbyshire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "City of Derby",
       "Derbyshire County"
@@ -107,7 +107,7 @@
   },
   {
     "region": "Durham",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "County Durham",
       "Darlington",
@@ -118,7 +118,7 @@
   },
   {
     "region": "East Riding of Yorkshire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "City of Kingston upon Hull",
       "East Riding of Yorkshire"
@@ -221,7 +221,7 @@
   },
   {
     "region": "Greater Manchester",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Bolton",
       "Bury",
@@ -248,7 +248,7 @@
   },
   {
     "region": "Herefordshire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Herefordshire County"
     ],
@@ -281,7 +281,7 @@
   },
   {
     "region": "Lancashire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Blackburn with Darwen",
       "Blackpool",
@@ -291,7 +291,7 @@
   },
   {
     "region": "Leicestershire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "City of Leicester",
       "Leicestershire County"
@@ -300,7 +300,7 @@
   },
   {
     "region": "Lincolnshire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Lincolnshire County",
       "North East Lincolnshire",
@@ -310,7 +310,7 @@
   },
   {
     "region": "Merseyside",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Knowsley",
       "Liverpool",
@@ -330,7 +330,7 @@
   },
   {
     "region": "North Yorkshire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Middlesbrough",
       "North Yorkshire County",
@@ -341,7 +341,7 @@
   },
   {
     "region": "Northamptonshire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "North Northamptonshire",
       "West Northamptonshire"
@@ -350,7 +350,7 @@
   },
   {
     "region": "Northumberland",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Northumberland"
     ],
@@ -358,7 +358,7 @@
   },
   {
     "region": "Nottinghamshire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "City of Nottingham",
       "Nottinghamshire County"
@@ -375,7 +375,7 @@
   },
   {
     "region": "Rutland",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Rutland"
     ],
@@ -383,7 +383,7 @@
   },
   {
     "region": "Shropshire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Shropshire",
       "Telford and Wrekin"
@@ -402,7 +402,7 @@
   },
   {
     "region": "South Yorkshire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Barnsley",
       "Doncaster",
@@ -413,7 +413,7 @@
   },
   {
     "region": "Staffordshire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Staffordshire County",
       "Stoke-on-Trent"
@@ -438,7 +438,7 @@
   },
   {
     "region": "Tyne and Wear",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Gateshead",
       "Newcastle upon Tyne",
@@ -450,7 +450,7 @@
   },
   {
     "region": "Warwickshire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Warwickshire County"
     ],
@@ -466,7 +466,7 @@
   },
   {
     "region": "West Midlands",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Birmingham",
       "Coventry",
@@ -496,7 +496,7 @@
   },
   {
     "region": "West Yorkshire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Bradford",
       "Calderdale",
@@ -517,7 +517,7 @@
   },
   {
     "region": "Worcestershire",
-    "period": "Vehicle locations for July 01, 2026 - August 31, 2026",
+    "period": "Vehicle locations for July 01, 2026 - September 30, 2026",
     "subdivisions": [
       "Worcestershire County"
     ],
