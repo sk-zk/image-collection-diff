@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "region": "Central-West Region",
+    "period": "Vehicle locations for December 01, 2026 - June 30, 2027",
+    "subdivisions": [
+      "Goiás"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Southeast Region",
+    "period": "Vehicle locations for October 15, 2026 - June 30, 2027",
+    "subdivisions": [
+      "São Paulo"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Southeast Region",
+    "period": "Vehicle locations for December 01, 2026 - June 30, 2027",
+    "subdivisions": [
+      "Minas Gerais",
+      "Rio de Janeiro"
+    ],
+    "type": "vehicle"
+  }
+]

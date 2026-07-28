@@ -12,6 +12,47 @@
     "type": "backpack"
   },
   {
+    "region": "Central Region",
+    "period": "Vehicle locations for July 27, 2026 - August 30, 2026",
+    "subdivisions": [
+      "Attard",
+      "Balzan",
+      "Birkirkara",
+      "Gżira",
+      "Iklin",
+      "Lija",
+      "Msida",
+      "Pieta",
+      "Saint Gwann",
+      "Saint Julian's",
+      "Santa Venera",
+      "Sliema",
+      "Xbiex"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Gozo Region",
+    "period": "Vehicle locations for July 27, 2026 - August 30, 2026",
+    "subdivisions": [
+      "Fontana",
+      "Għajnsielem",
+      "Għarb",
+      "Għasri",
+      "Kerċem",
+      "Munxar",
+      "Nadur",
+      "Qala",
+      "Saint Lawrence",
+      "Sannat",
+      "Victoria",
+      "Xagħra",
+      "Xewkija",
+      "Żebbuġ-Gozo"
+    ],
+    "type": "vehicle"
+  },
+  {
     "region": "Northern Region",
     "period": "Pedestrian (backpack) locations for June 08, 2026 - June 27, 2026",
     "subdivisions": [
@@ -21,6 +62,25 @@
       "Rabat"
     ],
     "type": "backpack"
+  },
+  {
+    "region": "Northern Region",
+    "period": "Vehicle locations for July 27, 2026 - August 30, 2026",
+    "subdivisions": [
+      "Dingli",
+      "Għargħur",
+      "Mdina",
+      "Mellieħa",
+      "Mġarr",
+      "Mosta",
+      "Mtarfa",
+      "Naxxar",
+      "Pembroke",
+      "Rabat",
+      "St Paul's Bay",
+      "Swieqi"
+    ],
+    "type": "vehicle"
   },
   {
     "region": "South Eastern Region",
@@ -37,5 +97,47 @@
       "Żabbar"
     ],
     "type": "backpack"
+  },
+  {
+    "region": "South Eastern Region",
+    "period": "Vehicle locations for July 27, 2026 - August 30, 2026",
+    "subdivisions": [
+      "Birgu",
+      "Cospicua",
+      "Fgura",
+      "Floriana",
+      "Kalkara",
+      "Marsa",
+      "Marsaskala",
+      "Marsaxlokk",
+      "Paola",
+      "Tarxien",
+      "Valletta",
+      "Xgħara",
+      "Żabbar",
+      "Żejtun"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Southern Region",
+    "period": "Vehicle locations for July 27, 2026 - August 30, 2026",
+    "subdivisions": [
+      "Birżebbuġa",
+      "Gudja",
+      "Għaxaq",
+      "Kirkop",
+      "Luqa",
+      "Mqabba",
+      "Qormi",
+      "Qrendi",
+      "Safi",
+      "Santa Luċija",
+      "Siġġiewi",
+      "Żebbuġ-Malta",
+      "Żurrieq",
+      "Ħamrun"
+    ],
+    "type": "vehicle"
   }
 ]
