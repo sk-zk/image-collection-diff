@@ -1,7 +1,7 @@
 [
   {
     "region": "New South Wales",
-    "period": "Transit (iPhone/iPad) locations for June 01, 2026 - August 31, 2026",
+    "period": "Transit (iPhone/iPad) locations for June 01, 2026 - October 31, 2026",
     "subdivisions": [
       "Bayside Canterbury-Bankstown",
       "Blacktown",
@@ -224,7 +224,7 @@
   },
   {
     "region": "Victoria",
-    "period": "Transit (iPhone/iPad) locations for June 01, 2026 - August 31, 2026",
+    "period": "Transit (iPhone/iPad) locations for June 01, 2026 - October 31, 2026",
     "subdivisions": [
       "Banyule",
       "Boroondara",
