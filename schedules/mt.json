@@ -1,7 +1,7 @@
 [
   {
     "region": "Central Region",
-    "period": "Vehicle locations for August 24, 2026 - August 30, 2026",
+    "period": "Vehicle locations for August 24, 2026 - September 12, 2026",
     "subdivisions": [
       "Attard",
       "Balzan",
@@ -21,7 +21,7 @@
   },
   {
     "region": "Gozo Region",
-    "period": "Vehicle locations for August 24, 2026 - August 30, 2026",
+    "period": "Vehicle locations for August 24, 2026 - September 12, 2026",
     "subdivisions": [
       "Fontana",
       "Għajnsielem",
@@ -42,7 +42,7 @@
   },
   {
     "region": "Northern Region",
-    "period": "Vehicle locations for August 24, 2026 - August 30, 2026",
+    "period": "Vehicle locations for August 24, 2026 - September 12, 2026",
     "subdivisions": [
       "Dingli",
       "Għargħur",
@@ -61,7 +61,7 @@
   },
   {
     "region": "South Eastern Region",
-    "period": "Vehicle locations for August 24, 2026 - August 30, 2026",
+    "period": "Vehicle locations for August 24, 2026 - September 12, 2026",
     "subdivisions": [
       "Birgu",
       "Cospicua",
@@ -82,7 +82,7 @@
   },
   {
     "region": "Southern Region",
-    "period": "Vehicle locations for August 24, 2026 - August 30, 2026",
+    "period": "Vehicle locations for August 24, 2026 - September 12, 2026",
     "subdivisions": [
       "Birżebbuġa",
       "Gudja",
