@@ -1,14 +1,6 @@
 [
   {
     "region": "Baden-Württemberg",
-    "period": "Transit (iPhone/iPad) locations for September 23, 2026 - December 31, 2026",
-    "subdivisions": [
-      "State Capital Stuttgart"
-    ],
-    "type": "ipad"
-  },
-  {
-    "region": "Baden-Württemberg",
     "period": "Vehicle locations for March 09, 2026 - September 15, 2026",
     "subdivisions": [
       "Alb-Donau District",
@@ -57,25 +49,6 @@
       "Zollernalb District"
     ],
     "type": "vehicle"
-  },
-  {
-    "region": "Bavaria",
-    "period": "Pedestrian (backpack) locations for April 27, 2026 - July 18, 2026",
-    "subdivisions": [
-      "Munich District",
-      "State Capital Munich"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Bavaria",
-    "period": "Transit (iPhone/iPad) locations for September 23, 2026 - December 31, 2026",
-    "subdivisions": [
-      "Munich District",
-      "Nuremberg Land District",
-      "State Capital Munich"
-    ],
-    "type": "ipad"
   },
   {
     "region": "Bavaria",
@@ -182,22 +155,6 @@
   },
   {
     "region": "Berlin",
-    "period": "Pedestrian (backpack) locations for April 27, 2026 - July 14, 2026",
-    "subdivisions": [
-      "Federal Capital Berlin"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Berlin",
-    "period": "Transit (iPhone/iPad) locations for September 23, 2026 - December 31, 2026",
-    "subdivisions": [
-      "Federal Capital Berlin"
-    ],
-    "type": "ipad"
-  },
-  {
-    "region": "Berlin",
     "period": "Vehicle locations for March 09, 2026 - September 15, 2026",
     "subdivisions": [
       "Federal Capital Berlin"
@@ -240,35 +197,11 @@
   },
   {
     "region": "Hamburg",
-    "period": "Pedestrian (backpack) locations for June 16, 2026 - July 14, 2026",
-    "subdivisions": [
-      "City of Hamburg"
-    ],
-    "type": "backpack"
-  },
-  {
-    "region": "Hamburg",
-    "period": "Transit (iPhone/iPad) locations for September 23, 2026 - December 31, 2026",
-    "subdivisions": [
-      "City of Hamburg"
-    ],
-    "type": "ipad"
-  },
-  {
-    "region": "Hamburg",
     "period": "Vehicle locations for March 09, 2026 - September 15, 2026",
     "subdivisions": [
       "City of Hamburg"
     ],
     "type": "vehicle"
-  },
-  {
-    "region": "Hesse",
-    "period": "Transit (iPhone/iPad) locations for September 23, 2026 - December 31, 2026",
-    "subdivisions": [
-      "City of Frankfurt am Main"
-    ],
-    "type": "ipad"
   },
   {
     "region": "Hesse",
@@ -369,15 +302,6 @@
       "Vorpommern-Rügen District"
     ],
     "type": "vehicle"
-  },
-  {
-    "region": "North Rhine-Westphalia",
-    "period": "Transit (iPhone/iPad) locations for September 23, 2026 - December 31, 2026",
-    "subdivisions": [
-      "City of Cologne",
-      "City of Dortmund"
-    ],
-    "type": "ipad"
   },
   {
     "region": "North Rhine-Westphalia",
@@ -494,14 +418,6 @@
       "St. Wendel District"
     ],
     "type": "vehicle"
-  },
-  {
-    "region": "Saxony",
-    "period": "Transit (iPhone/iPad) locations for September 23, 2026 - December 31, 2026",
-    "subdivisions": [
-      "Leipzig District"
-    ],
-    "type": "ipad"
   },
   {
     "region": "Saxony",
