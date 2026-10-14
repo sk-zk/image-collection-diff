@@ -1,7 +1,7 @@
 [
   {
     "region": "Central-West Region",
-    "period": "Pedestrian (backpack) locations for November 15, 2026 - May 31, 2027",
+    "period": "Pedestrian (backpack) locations for April 01, 2027 - June 30, 2027",
     "subdivisions": [
       "Federal District",
       "Goiás"
@@ -10,7 +10,15 @@
   },
   {
     "region": "Central-West Region",
-    "period": "Vehicle locations for December 01, 2026 - June 30, 2027",
+    "period": "Vehicle locations for December 10, 2026 - February 28, 2027",
+    "subdivisions": [
+      "Federal District"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Central-West Region",
+    "period": "Vehicle locations for January 01, 2027 - February 28, 2027",
     "subdivisions": [
       "Goiás"
     ],
@@ -18,29 +26,35 @@
   },
   {
     "region": "Northeast Region",
-    "period": "Pedestrian (backpack) locations for November 15, 2026 - May 31, 2027",
+    "period": "Pedestrian (backpack) locations for March 01, 2027 - May 31, 2027",
     "subdivisions": [
-      "Bahia",
-      "Ceará",
-      "Maranhão",
+      "Alagoas",
+      "Bahia"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Northeast Region",
+    "period": "Pedestrian (backpack) locations for April 01, 2027 - June 30, 2027",
+    "subdivisions": [
       "Pernambuco",
       "Rio Grande do Norte"
     ],
     "type": "backpack"
   },
   {
-    "region": "Southeast Region",
-    "period": "Pedestrian (backpack) locations for November 01, 2026 - May 31, 2027",
+    "region": "Northeast Region",
+    "period": "Pedestrian (backpack) locations for April 01, 2027 - July 31, 2027",
     "subdivisions": [
-      "São Paulo"
+      "Ceará",
+      "Maranhão"
     ],
     "type": "backpack"
   },
   {
     "region": "Southeast Region",
-    "period": "Pedestrian (backpack) locations for November 15, 2026 - May 31, 2027",
+    "period": "Pedestrian (backpack) locations for February 01, 2027 - April 30, 2027",
     "subdivisions": [
-      "Espírito Santo",
       "Minas Gerais",
       "Rio de Janeiro"
     ],
@@ -48,7 +62,39 @@
   },
   {
     "region": "Southeast Region",
-    "period": "Vehicle locations for October 15, 2026 - June 30, 2027",
+    "period": "Pedestrian (backpack) locations for February 01, 2027 - May 31, 2027",
+    "subdivisions": [
+      "São Paulo"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Southeast Region",
+    "period": "Pedestrian (backpack) locations for March 01, 2027 - April 30, 2027",
+    "subdivisions": [
+      "Espírito Santo"
+    ],
+    "type": "backpack"
+  },
+  {
+    "region": "Southeast Region",
+    "period": "Transit (iPhone/iPad) locations for February 01, 2027 - May 31, 2027",
+    "subdivisions": [
+      "São Paulo"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Southeast Region",
+    "period": "Transit (iPhone/iPad) locations for March 01, 2027 - May 31, 2027",
+    "subdivisions": [
+      "Rio de Janeiro"
+    ],
+    "type": "ipad"
+  },
+  {
+    "region": "Southeast Region",
+    "period": "Vehicle locations for November 30, 2026 - March 31, 2027",
     "subdivisions": [
       "São Paulo"
     ],
@@ -56,16 +102,23 @@
   },
   {
     "region": "Southeast Region",
-    "period": "Vehicle locations for December 01, 2026 - June 30, 2027",
+    "period": "Vehicle locations for January 15, 2027 - March 31, 2027",
     "subdivisions": [
-      "Minas Gerais",
+      "Minas Gerais"
+    ],
+    "type": "vehicle"
+  },
+  {
+    "region": "Southeast Region",
+    "period": "Vehicle locations for February 15, 2027 - April 30, 2027",
+    "subdivisions": [
       "Rio de Janeiro"
     ],
     "type": "vehicle"
   },
   {
     "region": "Southern Region",
-    "period": "Pedestrian (backpack) locations for November 15, 2026 - May 31, 2027",
+    "period": "Pedestrian (backpack) locations for May 01, 2027 - July 31, 2027",
     "subdivisions": [
       "Paraná",
       "Rio Grande do Sul"
